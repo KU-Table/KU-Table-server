@@ -5,7 +5,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import requests
 app = FastAPI()
 
-origins = ["*"]
+origins = ["https://schedule-ku.vercel.app"]
 
 app_key = "txCR5732xYYWDGdd49M3R19o1OVwdRFc"
 
