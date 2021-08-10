@@ -17,7 +17,6 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-
 @app.post("/login")
 async def login(body: Request):
 
