@@ -10,7 +10,12 @@ const appKey = process.env.APP_KEY
 
 const app = express()
 
-app.use(cors())
+const corsOptions = {
+  origin: ['https://schedule-ku.vercel.app/', 'http://localhost'],
+  optionsSuccessStatus: 200
+}
+
+app.use(cors(corsOptions))
 app.use(express.json())
 
 app.post('/login', async (req, res) => {
