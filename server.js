@@ -18,8 +18,10 @@ app.post('/login', async (req, res) => {
         'app-key': appKey
       }
     })
+    Logger.log("No Error while Login " + response.data)
     res.json(response.data)
   } catch (e) {
+    Logger.log("Error while Login")
     res.json(e)
   }
 })
