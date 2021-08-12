@@ -25,10 +25,6 @@ app.use( (req, res, next) => {
 
 app.use(express.json())
 
-app.get('/',async () => {
-  return 'HelloWorld'
-})
-
 app.post('/login', async (req, res) => {
   try {
     const response = await axios.post('https://myapi.ku.th/auth/login', req.body, {
