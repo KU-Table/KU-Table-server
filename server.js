@@ -34,7 +34,7 @@ app.post('/login', async (req, res) => {
     })
     res.json(response.data)
   } catch (e) {
-    throw res.status(401).res.json(e)
+    return res.status(401).res.json(e)
   }
 })
 
@@ -55,7 +55,7 @@ app.get('/getSchedule', async (req, res) => {
     })
     res.json(response.data.results[0].course)
   } catch (e) {
-    throw res.status(401).res.json(e)
+    return res.status(401).res.json(e)
   }
 })
 
