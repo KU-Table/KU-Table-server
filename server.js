@@ -25,6 +25,10 @@ app.use( (req, res, next) => {
 
 app.use(express.json())
 
+app.get('/',async () => {
+  return 'HelloWorld'
+})
+
 app.post('/login', async (req, res) => {
   try {
     const response = await axios.post('https://myapi.ku.th/auth/login', req.body, {
@@ -34,7 +38,7 @@ app.post('/login', async (req, res) => {
     })
     res.json(response.data)
   } catch (e) {
-    return res.status(401).res.json(e)
+    res.status(e.response.status).json(e)
   }
 })
 
@@ -55,7 +59,13 @@ app.get('/getSchedule', async (req, res) => {
     })
     res.json(response.data.results[0].course)
   } catch (e) {
-    return res.status(401).res.json(e)
+    try{
+      res.status(e.response.status).json(e)
+    } catch {
+      res.status(400).json({
+          "code": "bad request"
+      })
+    }
   }
 })
 
