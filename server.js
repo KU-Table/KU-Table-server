@@ -32,7 +32,8 @@ app.post('/login', async (req, res) => {
         'app-key': appKey
       }
     })
-    console.log('Login success')
+    const user = response.data.user.student
+    console.log('Login success,', user.majorNameEn, user.studentYear);
     res.json(response.data)
   } catch (e) {
     res.status(e.response.status).json(e)
