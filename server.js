@@ -9,6 +9,9 @@ const appKey = process.env.APP_KEY
 
 const app = express()
 
+let using = 0
+let stdCache = []
+
 app.use( (req, res, next) => {
   res.header('Access-Control-Allow-Origin', '*');
   res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS');
@@ -32,8 +35,13 @@ app.post('/login', async (req, res) => {
         'app-key': appKey
       }
     })
-    const user = response.data.user.student
-    console.log('Login success', user.facultyNameEn, user.majorNameEn, user.studentYear, user.stdCode);
+    using = using + 1;
+    const stdId = response.user.student.stdId;
+    if (stdCache.indexOf(stdId) <= -1){
+      stdCache.push(stdId);
+    }
+    console.log('Login success');
+    console.log('Count:', using, ". Unique:", stdCache.length)
     res.json(response.data)
   } catch (e) {
     res.status(e.response.status).json(e)
