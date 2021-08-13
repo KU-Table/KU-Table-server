@@ -36,11 +36,12 @@ app.post('/login', async (req, res) => {
       }
     })
     using = using + 1;
-    const stdId = response.data.user.student.stdId;
+    const student = response.data.user.student
+    const { studentYear, facultyNameEn, majorNameEn, stdId } = student
     if (stdCache.indexOf(stdId) <= -1){
       stdCache.push(stdId);
     }
-    console.log('Login success');
+    console.log('Login success', facultyNameEn, ",", majorNameEn, ",", studentYear);
     console.log('Count:', using, ". Unique:", stdCache.length)
     res.json(response.data)
   } catch (e) {
