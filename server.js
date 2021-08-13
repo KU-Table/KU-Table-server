@@ -32,6 +32,7 @@ app.post('/login', async (req, res) => {
         'app-key': appKey
       }
     })
+    console.log('Login success')
     res.json(response.data)
   } catch (e) {
     res.status(e.response.status).json(e)
@@ -53,11 +54,13 @@ app.get('/getSchedule', async (req, res) => {
         'app-key': appKey
       }
     })
+    console.log('GetSchedule')
     res.json(response.data.results[0].course)
   } catch (e) {
     try{
       res.status(e.response.status).json(e)
     } catch {
+      console.log('GetSchedule Failed')
       res.status(400).json({
           "code": "bad request"
       })
