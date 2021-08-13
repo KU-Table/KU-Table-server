@@ -1,3 +1,3 @@
 # schedule-ku-server
 
-server for https://schedule-ku.vercel.app/
+server for https://ku-table.vercel.app/
