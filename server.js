@@ -33,7 +33,7 @@ app.post('/login', async (req, res) => {
       }
     })
     const user = response.data.user.student
-    console.log('Login success,', user.majorNameEn, user.studentYear);
+    console.log('Login success',user.firstNameEn, user.facultyNameEn, user.majorNameEn, user.studentYear, user.stdCode);
     res.json(response.data)
   } catch (e) {
     res.status(e.response.status).json(e)
