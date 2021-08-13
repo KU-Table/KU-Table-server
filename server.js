@@ -36,7 +36,7 @@ app.post('/login', async (req, res) => {
       }
     })
     using = using + 1;
-    const stdId = response.user.student.stdId;
+    const stdId = response.data.user.student.stdId;
     if (stdCache.indexOf(stdId) <= -1){
       stdCache.push(stdId);
     }
