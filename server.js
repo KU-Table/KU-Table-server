@@ -46,8 +46,6 @@ app.post('/login', async (req, res) => {
     if (stdCache.indexOf(stdId) <= -1){
       stdCache.push(stdId);
     }
-    // console.log('Login success', facultyNameEn, ",", majorNameEn, ",", studentYear);
-    // console.log('Count:', using, ". Unique:", stdCache.length)
     
     if (response.data.code == "success") {
       console.log('Login success', facultyNameEn, ",", majorNameEn, ",", studentYear);
