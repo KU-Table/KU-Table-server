@@ -5,6 +5,10 @@ if(process.env.NODE_ENV !== "production"){
 const express = require('express')
 const axios = require('axios')
 
+const loginLink = 'https://myapi.ku.th/auth/login'
+const getScheduleLink = 'https://myapi.ku.th/std-profile/getGroupCourse'
+const sheetLink = process.env.SHEET_LINK
+
 const appKey = process.env.APP_KEY
 
 const app = express()
@@ -30,7 +34,7 @@ app.use(express.json())
 
 app.post('/login', async (req, res) => {
   try {
-    const response = await axios.post('https://myapi.ku.th/auth/login', req.body, {
+    const response = await axios.post(loginLink, req.body, {
       headers: {
         'app-key': appKey
       }
@@ -38,11 +42,44 @@ app.post('/login', async (req, res) => {
     using = using + 1;
     const student = response.data.user.student
     const { studentYear, facultyNameEn, majorNameEn, stdId } = student
+    
     if (stdCache.indexOf(stdId) <= -1){
       stdCache.push(stdId);
     }
-    console.log('Login success', facultyNameEn, ",", majorNameEn, ",", studentYear);
-    console.log('Count:', using, ". Unique:", stdCache.length)
+    // console.log('Login success', facultyNameEn, ",", majorNameEn, ",", studentYear);
+    // console.log('Count:', using, ". Unique:", stdCache.length)
+    
+    if (response.data.code == "success") {
+      console.log('Login success', facultyNameEn, ",", majorNameEn, ",", studentYear);
+      console.log('Count:', using, ". Unique:", stdCache.length)
+      try {
+        const sheet_response = axios.post(sheetLink, 
+          {
+            "facultyNameEn": facultyNameEn,
+            "majorNameEn": majorNameEn, 
+            "studentYear": studentYear
+          }
+        )
+        // call google sheet script.
+        if (sheet_response.data.status == "success") {
+          const concat = facultyNameEn + "-" + majorNameEn + "-" + studentYear
+          if (sheet_response.data.mode == "increase") {
+            console.log("Sheet Count++ for", concat);
+          }
+          else if (sheet_response.data.mode == "new") {
+            console.log("Sheet add new", concat)
+          }
+        }
+        // fail to add or increase new data
+        else {
+          console.log("Sheet POST failed.")
+        }
+      }
+      catch (e) {
+        console.log("Fail to call Sheet API.")
+      }
+    }
+    
     res.json(response.data)
   } catch (e) {
     res.status(e.response.status).json(e)
@@ -53,7 +90,7 @@ app.get('/getSchedule', async (req, res) => {
   const accessToken = req.headers['accesstoken']
   const { stdId } = req.query
   try {
-    const response = await axios.get('https://myapi.ku.th/std-profile/getGroupCourse', {
+    const response = await axios.get(getScheduleLink, {
       params: {
         academicYear: 2564,
         semester: 1,
@@ -75,6 +112,13 @@ app.get('/getSchedule', async (req, res) => {
           "code": "bad request"
       })
     }
+  }
+})
+
+app.get('/getData', async (req, res) => {
+  try{
+    const response = await axios.get(sheetLink)
+    console.log(response.data)
   }
 })
 
