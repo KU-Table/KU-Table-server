@@ -60,22 +60,25 @@ app.post('/login', async (req, res) => {
             "studentYear": studentYear
           }
         )
-        // call google sheet script.
-        if (sheet_response.data.status == "success") {
-          const concat = facultyNameEn + "-" + majorNameEn + "-" + studentYear
-          if (sheet_response.data.mode == "increase") {
-            console.log("Sheet Count++ for", concat);
-          }
-          else if (sheet_response.data.mode == "new") {
-            console.log("Sheet add new", concat)
-          }
-        }
-        // fail to add or increase new data
-        else {
-          console.log("Sheet POST failed.")
-        }
+        const concat = facultyNameEn + " , " + majorNameEn + " , " + studentYear
+        console.log("add [",concat,"] to Sheet")
+        // // call google sheet script.
+        // if (sheet_response.data.status == "success") {
+        //   const concat = facultyNameEn + "-" + majorNameEn + "-" + studentYear
+        //   if (sheet_response.data.mode == "increase") {
+        //     console.log("Sheet Count++ for", concat);
+        //   }
+        //   else if (sheet_response.data.mode == "new") {
+        //     console.log("Sheet add new", concat)
+        //   }
+        // }
+        // // fail to add or increase new data
+        // else {
+        //   console.log("Sheet POST failed.")
+        // }
       }
       catch (e) {
+        console.log(e)
         console.log("Fail to call Sheet API.")
       }
     }
@@ -119,6 +122,11 @@ app.get('/getData', async (req, res) => {
   try{
     const response = await axios.get(sheetLink)
     console.log(response.data)
+    res.json(response.data)
+  } catch (e){
+    res.status(400).json({
+      "code": "Fail to get data from sheet",
+    })
   }
 })
 
