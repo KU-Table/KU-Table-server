@@ -119,7 +119,7 @@ app.get('/getSchedule', async (req, res) => {
 app.get('/getData', async (req, res) => {
   try{
     const response = await axios.get(sheetLink)
-    console.log(response.data)
+    // console.log(response.data)
     res.json(response.data)
   } catch (e){
     res.status(400).json({
