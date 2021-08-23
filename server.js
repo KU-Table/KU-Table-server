@@ -4,6 +4,8 @@ if(process.env.NODE_ENV !== "production"){
 
 const express = require('express')
 const axios = require('axios')
+const fs = require('fs')
+const { response } = require('express')
 
 const loginLink = 'https://myapi.ku.th/auth/login'
 const getScheduleLink = 'https://myapi.ku.th/std-profile/getGroupCourse'
@@ -60,20 +62,6 @@ app.post('/login', async (req, res) => {
         )
         const concat = facultyNameEn + " , " + majorNameEn + " , " + studentYear
         console.log("add [",concat,"] to Sheet")
-        // // call google sheet script.
-        // if (sheet_response.data.status == "success") {
-        //   const concat = facultyNameEn + "-" + majorNameEn + "-" + studentYear
-        //   if (sheet_response.data.mode == "increase") {
-        //     console.log("Sheet Count++ for", concat);
-        //   }
-        //   else if (sheet_response.data.mode == "new") {
-        //     console.log("Sheet add new", concat)
-        //   }
-        // }
-        // // fail to add or increase new data
-        // else {
-        //   console.log("Sheet POST failed.")
-        // }
       }
       catch (e) {
         console.log(e)
@@ -113,6 +101,92 @@ app.get('/getSchedule', async (req, res) => {
           "code": "bad request"
       })
     }
+  }
+})
+
+const getNeedUnit = async (majorCode) => {
+  let raw_major = fs.readFileSync('./genEd.json')
+  const genEdJson = JSON.parse(raw_major)
+  return genEdJson[majorCode]
+}
+
+const getSubject = async (subject_code) => {
+  let raw_subject = fs.readFileSync('./subject.json')
+  const subjectJson = JSON.parse(raw_subject)
+  return subjectJson[subject_code]
+}
+
+app.get('/getGenEd', async (req, res) => {
+  // body require:
+  //  - MajorCode
+  //  - x-access-token
+  //  - stdCode - idcode # optional
+  
+  const accessToken = req.headers['accesstoken']
+  const { majorCode, stdCode } = req.query
+  
+  const needUnit = await getNeedUnit(majorCode)
+  
+  let result = {
+    "Wellness": {
+      "done": 0,
+      "need": needUnit.Wellness,
+      "subjects": []
+    },
+    "Entrepreneurship": {
+      "done": 0,
+      "need": needUnit.Entrepreneurship,
+      "subjects": []
+    },
+    "Thai_Citizen_and_Global_Citizen": {
+      "done": 0,
+      "need": needUnit.Thai_Citizen_and_Global_Citizen,
+      "subjects": []
+    },
+    "Language_and_Communication": {
+      "done": 0,
+      "need": needUnit.Language_and_Communication,
+      "subjects": []
+    },
+    "Aesthetics": {
+      "done": 0,
+      "need": needUnit.Aesthetics,
+      "subjects": []
+    },
+  }
+
+  try{
+    const response = await axios.get('https://myapi.ku.th/std-profile/checkGrades?idcode=6210545734', {
+      headers: {
+        'app-key': 'txCR5732xYYWDGdd49M3R19o1OVwdRFc',
+        'x-access-token': accessToken
+      },
+      params: {
+          'idcode': stdCode
+      }
+    })
+
+    for(const year of response.data.results){
+      // console.log(year.grade)
+      for(const sub of year.grade){
+      
+          // console.log(sub.subject_code, sub.grade)
+          const subject = await getSubject(sub.subject_code)
+          // console.log(subject)
+          if (sub.grade != 'W' && typeof subject !== 'undefined') {
+            result[subject.type].done += sub.credit
+            result[subject.type].subjects.push(sub)
+          }
+        }
+    }
+    
+    res.status(200).json(
+      result
+    )
+  
+  }
+  catch (e) {
+    res.status(400).json({"msg": "fail to call api"})
   }
 })
 
