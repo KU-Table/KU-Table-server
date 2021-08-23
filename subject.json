@@ -1,0 +1,1387 @@
+{
+    "01175111":{
+       "type":"Wellness",
+       "nameEN":"Track and Field for Health",
+       "nameTH":"กรีฑาลู่-ลาน เพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175112":{
+       "type":"Wellness",
+       "nameEN":"Badminton for Health",
+       "nameTH":"แบดมินตันเพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175113":{
+       "type":"Wellness",
+       "nameEN":"Tennis for Health",
+       "nameTH":"เทนนิสเพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175114":{
+       "type":"Wellness",
+       "nameEN":"Table Tennis for Health",
+       "nameTH":"เทเบิลเทนนิสเพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175115":{
+       "type":"Wellness",
+       "nameEN":"Meditation with Shooting Activity",
+       "nameTH":"ฝึกสมาธิด้วยกิจกรรมยิงปืน",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175117":{
+       "type":"Wellness",
+       "nameEN":"Meditation with Archery Activity",
+       "nameTH":"ฝึกสมาธิด้วยกิจกรรมยิงธนู",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175121":{
+       "type":"Wellness",
+       "nameEN":"Basketball for Health",
+       "nameTH":"บาสเกตบอลเพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175122":{
+       "type":"Wellness",
+       "nameEN":"Soccer for Health",
+       "nameTH":"ฟุตบอลเพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175123":{
+       "type":"Wellness",
+       "nameEN":"Volleyball for Health",
+       "nameTH":"วอลเลย์บอลเพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175124":{
+       "type":"Wellness",
+       "nameEN":"Handball for Health",
+       "nameTH":"แฮนด์บอลเพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175125":{
+       "type":"Wellness",
+       "nameEN":"Softball for Health",
+       "nameTH":"ซอฟท์บอลเพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175126":{
+       "type":"Wellness",
+       "nameEN":"Takraw for Health",
+       "nameTH":"ตะกร้อเพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175127":{
+       "type":"Wellness",
+       "nameEN":"Hockey for Health",
+       "nameTH":"ฮอกกี้เพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175128":{
+       "type":"Wellness",
+       "nameEN":"Rugby Football for Health",
+       "nameTH":"รักบี้ฟุตบอลเพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175129":{
+       "type":"Wellness",
+       "nameEN":"Futsal for Health",
+       "nameTH":"ฟุตซอลเพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175131":{
+       "type":"Wellness",
+       "nameEN":"Swimming for Health",
+       "nameTH":"ว่ายน้ำเพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175133":{
+       "type":"Wellness",
+       "nameEN":"Diving",
+       "nameTH":"กระโดดน้ำ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175134":{
+       "type":"Wellness",
+       "nameEN":"Water Polo",
+       "nameTH":"โปโลน้ำ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175141":{
+       "type":"Wellness",
+       "nameEN":"Aerobic Dance for Health",
+       "nameTH":"การเต้นแอโรบิกเพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175142":{
+       "type":"Wellness",
+       "nameEN":"Folk Dance by Local Culture for Health",
+       "nameTH":"การเต้นรำพื้นเมืองตามวัฒนธรรมท้องถิ่นเพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175143":{
+       "type":"Wellness",
+       "nameEN":"Social Dance for Health",
+       "nameTH":"การเต้นลีลาศเพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175144":{
+       "type":"Wellness",
+       "nameEN":"Thai Classical Dance for Health",
+       "nameTH":"รำไทยเพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175151":{
+       "type":"Wellness",
+       "nameEN":"Martial Art with Thai Sword",
+       "nameTH":"ศิลปะการป้องกันตัวและการต่อสู้ด้วยดาบไทย",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175152":{
+       "type":"Wellness",
+       "nameEN":"Martial Art with Fencing",
+       "nameTH":"ศิลปะการป้องกันตัวและการต่อสู้ด้วยดาบสากล",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175153":{
+       "type":"Wellness",
+       "nameEN":"Martial Art with Thai Boxing",
+       "nameTH":"ศิลปะการป้องกันตัวและการต่อสู้ด้วยมวยไทย",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175154":{
+       "type":"Wellness",
+       "nameEN":"Martial Art with Boxing",
+       "nameTH":"ศิลปะการป้องกันตัวและการต่อสู้ด้วยมวยสากล",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175155":{
+       "type":"Wellness",
+       "nameEN":"Martial Art with Judo",
+       "nameTH":"ศิลปะการป้องกันตัวและการต่อสู้ด้วยยูโด",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175156":{
+       "type":"Wellness",
+       "nameEN":"Martial Art with Aikido",
+       "nameTH":"ศิลปะการป้องกันตัวและการต่อสู้ด้วยไอกิโด",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175157":{
+       "type":"Wellness",
+       "nameEN":"Martial Art with Krabi-Krabong",
+       "nameTH":"ศิลปะการป้องกันตัวและการต่อสู้ด้วยกระบี่กระบอง",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175159":{
+       "type":"Wellness",
+       "nameEN":"Martial Art with Karate",
+       "nameTH":"ศิลปะการป้องกันตัวและการต่อสู้ด้วยคาราเต้",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175161":{
+       "type":"Wellness",
+       "nameEN":"Brain Training with Playing Bridge",
+       "nameTH":"ฝึกสมองด้วยการเล่นบริดจ์",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175162":{
+       "type":"Wellness",
+       "nameEN":"Bowling for Health",
+       "nameTH":"โบว์ลิ่งเพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175163":{
+       "type":"Wellness",
+       "nameEN":"Golf for Health",
+       "nameTH":"กอล์ฟเพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175164":{
+       "type":"Wellness",
+       "nameEN":"Cycling for Health",
+       "nameTH":"จักรยานเพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175165":{
+       "type":"Wellness",
+       "nameEN":"Weight Training for Health",
+       "nameTH":"การฝึกด้วยน้ำหนักเพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175166":{
+       "type":"Wellness",
+       "nameEN":"Martial Art with Taekwondo",
+       "nameTH":"ศิลปะการป้องกันตัวและการต่อสู้ด้วยเทควันโด",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175168":{
+       "type":"Wellness",
+       "nameEN":"Jogging for Health",
+       "nameTH":"การวิ่งเหยาะเพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education"
+    },
+    "01175169":{
+       "type":"Wellness",
+       "nameEN":"Exercise for developing Holistic Health",
+       "nameTH":"การออกกาลังกายเพื่อพัฒนาสุขภาพแบบองค์รวม",
+       "unit":"2",
+       "hour":"1-2-3",
+       "faculty":"Faculty of Education"
+    },
+    "03768111":{
+       "type":"Wellness",
+       "nameEN":"Pe’tanque",
+       "nameTH":"เปตอง",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Management Science Sri Racha Campus"
+    },
+    "03768112":{
+       "type":"Wellness",
+       "nameEN":"Weight Training",
+       "nameTH":"การฝึกโดยการใช้น้ำหนัก ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Management Science Sri Racha Campus"
+    },
+    "03768121":{
+       "type":"Wellness",
+       "nameEN":"Basketball",
+       "nameTH":"บาสเกตบอล",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Management Science Sri Racha Campus"
+    },
+    "03768141":{
+       "type":"Wellness",
+       "nameEN":"Thai Classical and Social Dances",
+       "nameTH":"นาฏศิลป์และลีลาศ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Management Science Sri Racha Campus"
+    },
+    "03768151":{
+       "type":"Wellness",
+       "nameEN":"Sword and Pole Fighting",
+       "nameTH":"กระบี่กระบอง",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Management Science Sri Racha Campus"
+    },
+    "01173151":{
+       "type":"Wellness",
+       "nameEN":"AIDS Education",
+       "nameTH":"เอดส์ศึกษา",
+       "unit":"2",
+       "hour":"2-0-4",
+       "faculty":"Faculty of Education"
+    },
+    "01174231":{
+       "type":"Wellness",
+       "nameEN":"Introduction to Recreation",
+       "nameTH":"นันทนาการเบื้องต้น1",
+       "unit":"2",
+       "hour":"2-0-4",
+       "faculty":"Faculty of Education"
+    },
+    "01387101":{
+       "type":"Wellness",
+       "nameEN":"The Art of Living with Others",
+       "nameTH":"ศิลปะการอยู่ร่วมกับผู้อื่น",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01387103":{
+       "type":"Wellness",
+       "nameEN":"Philosophy of Sufficiency Economics and Buddhism",
+       "nameTH":"ปรัชญาเศรษฐกิจพอเพียงกับพุทธศาสนา",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01459101":{
+       "type":"Wellness",
+       "nameEN":"Psychology for Modern Life",
+       "nameTH":"จิตวิทยาเพื่อชีวิตสมัยใหม่",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Social Sciences"
+    },
+    "01459102":{
+       "type":"Wellness",
+       "nameEN":"Psychology and Human Diversity",
+       "nameTH":"จิตวิทยากับความหลากหลายของมนุษย์",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Social Sciences"
+    },
+    "01999011":{
+       "type":"Wellness",
+       "nameEN":"Food for Mankind",
+       "nameTH":"อาหารเพื่อมนุษยชาติ",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Integration Section of General Education"
+    },
+    "01999012":{
+       "type":"Wellness",
+       "nameEN":"Health for Life",
+       "nameTH":"สุขภาพเพื่อชีวิต",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Integration Section of General Education"
+    },
+    "01999033":{
+       "type":"Wellness",
+       "nameEN":"Arts of Living",
+       "nameTH":"ศิลปะการดำเนินชีวิต",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Integration Section of General Education"
+    },
+    "01999036":{
+       "type":"Wellness",
+       "nameEN":"Happiness amongst Life Dynamics",
+       "nameTH":"ความสุขในพลวัตของชีวิต",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Integration Section of General Education"
+    },
+    "01999048":{
+       "type":"Wellness",
+       "nameEN":"Innovation for Environment and Health",
+       "nameTH":"นวัตกรรมเพื่อสิ่งแวดล้อมและสุขภาวะ",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Integration Section of General Education"
+    },
+    "01999051":{
+       "type":"Wellness",
+       "nameEN":"Development of Core Competency through One Health",
+       "nameTH":"การพัฒนาสมรรถนะหลักผ่านสุขภาพหนึ่งเดียว",
+       "unit":"2",
+       "hour":"2-0-4",
+       "faculty":"Integration Section of General Education"
+    },
+    "01999213":{
+       "type":"Wellness",
+       "nameEN":"Environment, Technology and Life",
+       "nameTH":"สิ่งแวดล้อม เทคโนโลยี และชีวิต",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Integration Section of General Education"
+    },
+    "02032303":{
+       "type":"Wellness",
+       "nameEN":"Agriculture and Quality of Life",
+       "nameTH":"การเกษตรกับคุณภาพชีวิตที่ดี",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Agriculture Kamphaeng Saen Campus"
+    },
+    "02999044":{
+       "type":"Wellness",
+       "nameEN":"Sufficiency Economy for Living",
+       "nameTH":"เศรษฐกิจพอเพียงเพื่อการดำรงชีวิต",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Integration Section of General Education Kamphaeng Saen Campus"
+    },
+    "02999045":{
+       "type":"Wellness",
+       "nameEN":"Enhancement of Living Value Through Rural Community Path",
+       "nameTH":"การเพิ่มคุณค่าชีวิตด้วยวิถีชุมชนชนบท",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Integration Section of General Education Kamphaeng Saen Campus"
+    },
+    "04401112":{
+       "type":"Wellness",
+       "nameEN":"Personality and Social Etiquette for Community Service",
+       "nameTH":"บุคลิกภาพและมารยาททางสังคมสาหรับการบริการชุมชน",
+       "unit":"1",
+       "hour":"1-0-2",
+       "faculty":"Faculty of Public Health Chalermphrakiat Sakon Nakhon Province Campus"
+    },
+    "04804311":{
+       "type":"Wellness",
+       "nameEN":"Philosophy of Sufficiency Economy",
+       "nameTH":"ปรัชญาเศรษฐกิจพอเพียง",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Natural Resources and Agro Industry Chalermphrakiat Sakon Nakhon Province Campus"
+    },
+    "01005101":{
+       "type":"Entrepreneurship",
+       "nameEN":"Modern Agriculture Technology",
+       "nameTH":"เทคโนโลยีเกษตรสมัยใหม่",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Agriculture"
+    },
+    "01132101":{
+       "type":"Entrepreneurship",
+       "nameEN":"Modern Entrepreneur",
+       "nameTH":"ผู้ประกอบการรุ่นใหม่",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Business Administration"
+    },
+    "01200101":{
+       "type":"Entrepreneurship",
+       "nameEN":"Innovative Thinking",
+       "nameTH":"การคิดเชิงนวัตกรรม",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Engineering"
+    },
+    "01999041":{
+       "type":"Entrepreneurship",
+       "nameEN":"Economics for Better Living",
+       "nameTH":"เศรษฐศาสตร์เพื่อการดำเนินชีวิตที่ดี",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Integration Section of General Education"
+    },
+    "01999043":{
+       "type":"Entrepreneurship",
+       "nameEN":"Creativity for Value Management",
+       "nameTH":"การคิดสร้างสรรค์เพื่อการจัดการคุณค่า",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Integration Section of General Education"
+    },
+    "02717011":{
+       "type":"Entrepreneurship",
+       "nameEN":"Self and Self Development",
+       "nameTH":"ตนและการพัฒนาตน",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Liberal Arts and Science Kamphaeng Saen Campus"
+    },
+    "03600014":{
+       "type":"Entrepreneurship",
+       "nameEN":"Creative Problem Solving and Critical Thinking Skills",
+       "nameTH":"การแก้ปัญหาเชิงสร้างสรรค์และทักษะการคิดเชิงวิพากษ์",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Engineering Sri Racha Campus"
+    },
+    "03757123":{
+       "type":"Entrepreneurship",
+       "nameEN":"Mathematics for Business",
+       "nameTH":"คณิตศาสตร์สำหรับธุรกิจ",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Management Science Sri Racha Campus"
+    },
+    "01999111":{
+       "type":"Thai_Citizen_and_Global_Citizen",
+       "nameEN":"Knowledge of the Land",
+       "nameTH":"ศาสตร์แห่งแผ่นดิน",
+       "unit":"2",
+       "hour":"2-0-4",
+       "faculty":"Integration Section of General Education"
+    },
+    "01001317":{
+       "type":"Thai_Citizen_and_Global_Citizen",
+       "nameEN":"Kings and State Leaders on Agricultural Sector Development",
+       "nameTH":"พระมหากษัตริย์และผู้นำประเทศกับการพัฒนาภาคการเกษตร",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Agriculture"
+    },
+    "01015202":{
+       "type":"Thai_Citizen_and_Global_Citizen",
+       "nameEN":"Thai Lives Agiculture",
+       "nameTH":"เกษตรวิถีไทย",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Agriculture"
+    },
+    "01174122":{
+       "type":"Thai_Citizen_and_Global_Citizen",
+       "nameEN":"Recreational Learning through Backpack Traveling",
+       "nameTH":"การเรียนรู้เชิงนันทนาการโดยการเดินทางในต่างประเทศแบบประหยัด",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Education"
+    },
+    "01350101":{
+       "type":"Thai_Citizen_and_Global_Citizen",
+       "nameEN":"Ways of Life and Culture in ASEAN",
+       "nameTH":"วิถีชีวิตและวัฒนธรรมในอาเซียน",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01387104":{
+       "type":"Thai_Citizen_and_Global_Citizen",
+       "nameEN":"Philosophy and Religion in ASEAN Countries",
+       "nameTH":"ปรัชญาและศาสนาในประเทศอาเซียน",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01390102":{
+       "type":"Thai_Citizen_and_Global_Citizen",
+       "nameEN":"Creative Tourism",
+       "nameTH":"การท่องเที่ยวเชิงสร้างสรรค์",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01450101":{
+       "type":"Thai_Citizen_and_Global_Citizen",
+       "nameEN":"Thai Society and ASEAN Community in Today's World",
+       "nameTH":"สังคมไทยกับประชาคมอาเซียนในโลกปัจจุบัน",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Social Sciences"
+    },
+    "01455101":{
+       "type":"Thai_Citizen_and_Global_Citizen",
+       "nameEN":"World Politics in Daily Life",
+       "nameTH":"การเมืองโลกในชีวิตประจำวัน",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Social Sciences"
+    },
+    "01460101":{
+       "type":"Thai_Citizen_and_Global_Citizen",
+       "nameEN":"Contemporary Thai Society and Culture",
+       "nameTH":"สังคมและวัฒนธรรมไทยร่วมสมัย",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Social Sciences"
+    },
+    "01999031":{
+       "type":"Thai_Citizen_and_Global_Citizen",
+       "nameEN":"Thai Heritage of World Civilization",
+       "nameTH":"มรดกอารยธรรมโลก",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Integration Section of General Education"
+    },
+    "01999032":{
+       "type":"Thai_Citizen_and_Global_Citizen",
+       "nameEN":"Thai Studies",
+       "nameTH":"ไทยศึกษา",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Integration Section of General Education"
+    },
+    "01999046":{
+       "type":"Thai_Citizen_and_Global_Citizen",
+       "nameEN":"National Security Development",
+       "nameTH":"การพัฒนาความมั่นคงแห่งชาติ",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Integration Section of General Education"
+    },
+    "01999047":{
+       "type":"Thai_Citizen_and_Global_Citizen",
+       "nameEN":"Military for Country Development",
+       "nameTH":"การทหารเพื่อพัฒนาประเทศ",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Integration Section of General Education"
+    },
+    "01999141":{
+       "type":"Thai_Citizen_and_Global_Citizen",
+       "nameEN":"Man and Society",
+       "nameTH":"มนุษย์กับสังคม",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Integration Section of General Education"
+    },
+    "02999042":{
+       "type":"Thai_Citizen_and_Global_Citizen",
+       "nameEN":"Student Development",
+       "nameTH":"การพัฒนานิสิต",
+       "unit":"3",
+       "hour":"2-3-6",
+       "faculty":"Integration Project Kamphaeng Saen Campus"
+    },
+    "02999144":{
+       "type":"Thai_Citizen_and_Global_Citizen",
+       "nameEN":"Life Skills for Undergraduate Student",
+       "nameTH":"ทักษะชีวิตการเป็นนิสิตในมหาวิทยาลัย",
+       "unit":"1",
+       "hour":"1-0-2",
+       "faculty":"Integration Project Kamphaeng Saen Campus"
+    },
+    "02999147":{
+       "type":"Thai_Citizen_and_Global_Citizen",
+       "nameEN":"The Thai in ASEAN Dynamics",
+       "nameTH":"ไทยในพลวัตอาเซียน",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Integration Project Kamphaeng Saen Campus"
+    },
+    "03751112":{
+       "type":"Thai_Citizen_and_Global_Citizen",
+       "nameEN":"Social and Politics",
+       "nameTH":"สังคมและการเมือง",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Management Science Sri Racha Campus"
+    },
+    "04804115":{
+       "type":"Thai_Citizen_and_Global_Citizen",
+       "nameEN":"Volunteer Spirit for Community Development",
+       "nameTH":"จิตอาสาเพื่อพัฒนาชุมชน",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Natural Resources and Agro Industry Chalermphrakiat Sakon Nakhon Province Campus"
+    },
+    "01361101":{
+       "type":"Language_and_Communication",
+       "nameEN":"Introductory Thai Usage",
+       "nameTH":"การใช้ภาษาไทยเบื้องต้น",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01361102":{
+       "type":"Language_and_Communication",
+       "nameEN":"Thai Pratical Writing",
+       "nameTH":"การเขียนภาษาไทยเชิงปฏิบัติ",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01361222":{
+       "type":"Language_and_Communication",
+       "nameEN":"Thai Critical Reading",
+       "nameTH":"การอ่านภาษาไทยเชิงวิจารณ์",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "02701011":{
+       "type":"Language_and_Communication",
+       "nameEN":"Thai Usage for Business, Science and Technology",
+       "nameTH":"การใช้ภาษาไทยเพื่อธุรกิจ วิทยาศาสตร์และเทคโนโลยี",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Liberal Arts and Science Kamphaeng Saen Campus"
+    },
+    "01999021":{
+       "type":"Language_and_Communication",
+       "nameEN":"Thai Language for Communication",
+       "nameTH":"ภาษาไทยเพื่อการสื่อสาร",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Integration Section of General Education"
+    },
+    "01354311":{
+       "type":"Language_and_Communication",
+       "nameEN":"Khmer l",
+       "nameTH":"ภาษาเขมร l",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01354312":{
+       "type":"Language_and_Communication",
+       "nameEN":"Khmer ll",
+       "nameTH":"ภาษาเขมร ll",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01354411":{
+       "type":"Language_and_Communication",
+       "nameEN":"Khmer lll",
+       "nameTH":"ภาษาเขมร lll",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01355111":{
+       "type":"Language_and_Communication",
+       "nameEN":"Foundation English l",
+       "nameTH":"ภาษาอังกฤษพื้นฐาน l",
+       "unit":"0",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01355112":{
+       "type":"Language_and_Communication",
+       "nameEN":"Foundation English ll",
+       "nameTH":"ภาษาอังกฤษพื้นฐาน ll",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01355113":{
+       "type":"Language_and_Communication",
+       "nameEN":"Foundation English lll",
+       "nameTH":"ภาษาอังกฤษพื้นฐาน lll",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01355114":{
+       "type":"Language_and_Communication",
+       "nameEN":"English for Pre-Medical Students l",
+       "nameTH":"ภาษาอังกฤษสำหรับนิสิตเตรียมแพทย์ l",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01355115":{
+       "type":"Language_and_Communication",
+       "nameEN":"English for Pre-Medical Students ll",
+       "nameTH":"ภาษาอังกฤษสำหรับนิสิตเตรียมแพทย์ ll",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01355201":{
+       "type":"Language_and_Communication",
+       "nameEN":"Fundamental English Reading",
+       "nameTH":"การอ่านภาษาอังกฤษเบื้องต้น",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01355202":{
+       "type":"Language_and_Communication",
+       "nameEN":"Fundamental English Writing",
+       "nameTH":"การเขียนภาษาอังกฤษเบื้องต้น",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01355203":{
+       "type":"Language_and_Communication",
+       "nameEN":"Fundamental English Structure",
+       "nameTH":"โครงสร้างภาษาอังกฤษเบื้องต้น",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01355204":{
+       "type":"Language_and_Communication",
+       "nameEN":"Fundamental English Listening-Speaking",
+       "nameTH":"การฟัง-การพูดภาษาอังกฤษเบื้องต้น",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01355205":{
+       "type":"Language_and_Communication",
+       "nameEN":"Reading for Mass Communication in English",
+       "nameTH":"การอ่านภาษาอังกฤษด้านสื่อมวลชน",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01355206":{
+       "type":"Language_and_Communication",
+       "nameEN":"Technical English",
+       "nameTH":"อังกฤษวิชาการ",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01355207":{
+       "type":"Language_and_Communication",
+       "nameEN":"English Correspondence",
+       "nameTH":"การเขียนตอบโต้ภาษาอังกฤษ",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01355208":{
+       "type":"Language_and_Communication",
+       "nameEN":"English through Songs",
+       "nameTH":"ภาษาอังกฤษจากเพลง",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01355209":{
+       "type":"Language_and_Communication",
+       "nameEN":"Communicative English for Careers",
+       "nameTH":"ภาษาอังกฤษเพื่อการสื่อสารในงานอาชีพ",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01355302":{
+       "type":"Language_and_Communication",
+       "nameEN":"Report Writing in English",
+       "nameTH":"การเขียนรายงานภาษาอังกฤษ",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01355303":{
+       "type":"Language_and_Communication",
+       "nameEN":"English for Employment",
+       "nameTH":"ภาษาอังกฤษเพื่อการสมัครงาน",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01356101":{
+       "type":"Language_and_Communication",
+       "nameEN":"Elementary French l",
+       "nameTH":"ภาษาฝรั่งเศสเบื้องต้น l",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01356102":{
+       "type":"Language_and_Communication",
+       "nameEN":"Elementary French ll",
+       "nameTH":"ภาษาฝรั่งเศสเบื้องต้น ll",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01356103":{
+       "type":"Language_and_Communication",
+       "nameEN":"Elementary French lll",
+       "nameTH":"ภาษาฝรั่งเศสเบื้องต้น lll",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01356104":{
+       "type":"Language_and_Communication",
+       "nameEN":"Elementary French lV",
+       "nameTH":"ภาษาฝรั่งเศสเบื้องต้น lV",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01357111":{
+       "type":"Language_and_Communication",
+       "nameEN":"Elementary German l",
+       "nameTH":"ภาษาเยอรมันเบื้องต้น l",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01357112":{
+       "type":"Language_and_Communication",
+       "nameEN":"Elementary German ll",
+       "nameTH":"ภาษาเยอรมันเบื้องต้น ll",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01357113":{
+       "type":"Language_and_Communication",
+       "nameEN":"Elementary German lll",
+       "nameTH":"ภาษาเยอรมันเบื้องต้น lll",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01357114":{
+       "type":"Language_and_Communication",
+       "nameEN":"Elementary German lV",
+       "nameTH":"ภาษาเยอรมันเบื้องต้น lV",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01358101":{
+       "type":"Language_and_Communication",
+       "nameEN":"Elementary Japanese l",
+       "nameTH":"ภาษาญี่ปุ่นเบื้องต้น l",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01358102":{
+       "type":"Language_and_Communication",
+       "nameEN":"Elementary Japanese ll",
+       "nameTH":"ภาษาญี่ปุ่นเบื้องต้น ll",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01358103":{
+       "type":"Language_and_Communication",
+       "nameEN":"Elementary Japanese lll",
+       "nameTH":"ภาษาญี่ปุ่นเบื้องต้น lll",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01358104":{
+       "type":"Language_and_Communication",
+       "nameEN":"Elementary Japanese lV",
+       "nameTH":"ภาษาญี่ปุ่นเบื้องต้น lV",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01362101":{
+       "type":"Language_and_Communication",
+       "nameEN":"Chinese l",
+       "nameTH":"ภาษาจีน l",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01362102":{
+       "type":"Language_and_Communication",
+       "nameEN":"Chinese ll",
+       "nameTH":"ภาษาจีน ll",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01362103":{
+       "type":"Language_and_Communication",
+       "nameEN":"Chinese lll",
+       "nameTH":"ภาษาจีน lll",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01362104":{
+       "type":"Language_and_Communication",
+       "nameEN":"Chinese lV",
+       "nameTH":"ภาษาจีน lV",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01362105":{
+       "type":"Language_and_Communication",
+       "nameEN":"Chinese V",
+       "nameTH":"ภาษาจีน V",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01367311":{
+       "type":"Language_and_Communication",
+       "nameEN":"Myanmar Language l",
+       "nameTH":"ภาษาพม่า l",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01367312":{
+       "type":"Language_and_Communication",
+       "nameEN":"Myanmar Language ll",
+       "nameTH":"ภาษาพม่า ll",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01367411":{
+       "type":"Language_and_Communication",
+       "nameEN":"Myanmar Language lll",
+       "nameTH":"ภาษาพม่า lll",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01395101":{
+       "type":"Language_and_Communication",
+       "nameEN":"Communicative Korean l",
+       "nameTH":"ภาษาเกาหลีเพื่อการศึกษา l",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01395102":{
+       "type":"Language_and_Communication",
+       "nameEN":"Communicative Korean ll",
+       "nameTH":"ภาษาเกาหลีเพื่อการศึกษา ll",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01395103":{
+       "type":"Language_and_Communication",
+       "nameEN":"Communicative Korean lll",
+       "nameTH":"ภาษาเกาหลีเพื่อการศึกษา lll",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01395104":{
+       "type":"Language_and_Communication",
+       "nameEN":"Communicative Korean lV",
+       "nameTH":"ภาษาเกาหลีเพื่อการศึกษา lV",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01395105":{
+       "type":"Language_and_Communication",
+       "nameEN":"Korean Reading and Oral Report",
+       "nameTH":"การอ่านและรายงานภาษาเกาหลี",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01398101":{
+       "type":"Language_and_Communication",
+       "nameEN":"Communicative Malayu l",
+       "nameTH":"ภาษามลายูเพื่อการสื่อสาร l",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01398102":{
+       "type":"Language_and_Communication",
+       "nameEN":"Communicative Malayu ll",
+       "nameTH":"ภาษามลายูเพื่อการสื่อสาร ll",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01398103":{
+       "type":"Language_and_Communication",
+       "nameEN":"Communicative Malayu lll",
+       "nameTH":"ภาษามลายูเพื่อการสื่อสาร lll",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01398104":{
+       "type":"Language_and_Communication",
+       "nameEN":"Communicative Malayu lV",
+       "nameTH":"ภาษามลายูเพื่อการสื่อสาร lV",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01398105":{
+       "type":"Language_and_Communication",
+       "nameEN":"Malayu Reading",
+       "nameTH":"การอ่านภาษามลายู",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01398106":{
+       "type":"Language_and_Communication",
+       "nameEN":"Malayu Listening and Speaking",
+       "nameTH":"การฟัง-พูดภาษามลายู",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01399101":{
+       "type":"Language_and_Communication",
+       "nameEN":"Communicative Vietnamese l",
+       "nameTH":"ภาษาเวียดนามเพื่อการสื่อสาร l",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01399102":{
+       "type":"Language_and_Communication",
+       "nameEN":"Communicative Vietnamese ll",
+       "nameTH":"ภาษาเวียดนามเพื่อการสื่อสาร ll",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01399103":{
+       "type":"Language_and_Communication",
+       "nameEN":"Communicative Vietnamese lll",
+       "nameTH":"ภาษาเวียดนามเพื่อการสื่อสาร lll",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01399104":{
+       "type":"Language_and_Communication",
+       "nameEN":"Communicative Vietnamese lV",
+       "nameTH":"ภาษาเวียดนามเพื่อการสื่อสาร lV",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01399105":{
+       "type":"Language_and_Communication",
+       "nameEN":"Vietnamese Reading",
+       "nameTH":"การอ่านภาษาเวียดนาม",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01999023":{
+      "type":"Language_and_Communication",
+       "nameEN":"Essential Computer Skill",
+       "nameTH":"Essential Computer Skill",
+       "unit":"1",
+       "hour":"",
+       "faculty":"I Dont know",
+       "comment":"Manual add"
+    },
+    "01399106":{
+       "type":"Language_and_Communication",
+       "nameEN":"Vietnamese Listening and Speaking",
+       "nameTH":"การฟัง-พูดภาษาเวียดนาม",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "02724011":{
+       "type":"Language_and_Communication",
+       "nameEN":"Intercultural Communication",
+       "nameTH":"การสื่อสารระหว่างวัฒนธรรม",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Liberal Arts and Science Kamphaeng Saen Campus"
+    },
+    "03754111":{
+       "type":"Language_and_Communication",
+       "nameEN":"Foundation English l",
+       "nameTH":"ภาษาอังกฤษ l",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Management Science Sri Racha Campus"
+    },
+    "03754112":{
+       "type":"Language_and_Communication",
+       "nameEN":"Foundation English ll",
+       "nameTH":"ภาษาอังกฤษ lll",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Management Science Sri Racha Campus"
+    },
+    "03754113":{
+       "type":"Language_and_Communication",
+       "nameEN":"Foundation English lll",
+       "nameTH":"ภาษาอังกฤษ lll",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Management Science Sri Racha Campus"
+    },
+    "03754271":{
+       "type":"Language_and_Communication",
+       "nameEN":"English for Careers",
+       "nameTH":"ภาษาอังกฤษในงานอาชีพ",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Management Science Sri Racha Campus"
+    },
+    "01371111":{
+       "type":"Language_and_Communication",
+       "nameEN":"Information Media",
+       "nameTH":"สื่อสารสนเทศ",
+       "unit":"1",
+       "hour":"1-0-2",
+       "faculty":"Faculty of Humanities"
+    },
+    "01418111":{
+       "type":"Language_and_Communication",
+       "nameEN":"Computer Application",
+       "nameTH":"การใช้งานคอมพิวเตอร์",
+       "unit":"1",
+       "hour":"1-0-2",
+       "faculty":"Faculty of Science"
+    },
+    "01999013":{
+       "type":"Language_and_Communication",
+       "nameEN":"New Age Information Management In Everyday Life",
+       "nameTH":"การจัดการสารสนเทศยุคใหม่ในชีวิตประจำวัน",
+       "unit":"3",
+       "hour":"2-2-5",
+       "faculty":"Integration Section of General Education"
+    },
+    "01999211":{
+       "type":"Language_and_Communication",
+       "nameEN":"Mathematics and Computer in Everyday Life",
+       "nameTH":"คณิตศาสตร์และคอมพิวเตอร์ในชีวิตประจ าวัน",
+       "unit":"3",
+       "hour":"2-2-5",
+       "faculty":"Integration Section of General Education"
+    },
+    "02729102":{
+       "type":"Language_and_Communication",
+       "nameEN":"Computer Application in Everyday Life",
+       "nameTH":"การประยุกต์คอมพิวเตอร์ในชีวิตประจำวัน",
+       "unit":"3",
+       "hour":"2-2-5",
+       "faculty":"Faculty of Liberal Arts and Science Kamphaeng Saen Campus"
+    },
+    "03752111":{
+       "type":"Language_and_Communication",
+       "nameEN":"Information Resources for Research",
+       "nameTH":"ทรัพยากรสารสนเทศเพื่อการค้นคว้า",
+       "unit":"1",
+       "hour":"1-0-2",
+       "faculty":"Faculty of Management Science Sri Racha Campus"
+    },
+    "01007101":{
+       "type":"Aesthetics",
+       "nameEN":"Horticulture for life Quality and Environment",
+       "nameTH":"พืชสวนเพื่อคุณภาพชีวิตและสิ่งแวดล้อม",
+       "unit":"2",
+       "hour":"2-0-4",
+       "faculty":"Faculty of Agriculture"
+    },
+    "01009102":{
+       "type":"Aesthetics",
+       "nameEN":"Agricultural Resources and Environment",
+       "nameTH":"ทรัพยากรการเกษตรและสิ่งแวดล้อม",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Agriculture"
+    },
+    "01240011":{
+       "type":"Aesthetics",
+       "nameEN":"Design in Everyday Life",
+       "nameTH":"การออกแบบในชีวิตประจำวัน",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Architecture"
+    },
+    "01255101":{
+       "type":"Aesthetics",
+       "nameEN":"Man and Sea",
+       "nameTH":"มนุษย์กับทะเล",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Fisheries"
+    },
+    "01376101":{
+       "type":"Aesthetics",
+       "nameEN":"Literature and Life",
+       "nameTH":"วรรณกรรมกับชีวิต",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
+    "01420201":{
+       "type":"Aesthetics",
+       "nameEN":"Gems and Jewelry",
+       "nameTH":"อัญมณีและเครื่องประดับ",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Science"
+    },
+    "01999034":{
+       "type":"Aesthetics",
+       "nameEN":"Art Perception",
+       "nameTH":"ศิลปวิจักษณ์",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Integration Section of General Education"
+    },
+    "01999035":{
+       "type":"Aesthetics",
+       "nameEN":"Music Culture in Life",
+       "nameTH":"วัฒนธรรมดนตรีกับชีวิต",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Integration Section of General Education"
+    },
+    "02708102":{
+       "type":"Aesthetics",
+       "nameEN":"Literature and Science",
+       "nameTH":"วรรณกรรมกับวิทยาศาสตร์",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Liberal Arts and Science Kamphaeng Saen Campus"
+    },
+    "03600012":{
+       "type":"Aesthetics",
+       "nameEN":"Green Technology",
+       "nameTH":"เทคโนโลยีสีเขียว",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Engineering Sri Racha Campus"
+    },
+    "03751111":{
+       "type":"Aesthetics",
+       "nameEN":"Man and Environment",
+       "nameTH":"มนุษย์กับสิ่งแวดล้อม",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Management Science Sri Racha Campus"
+    }
+ }

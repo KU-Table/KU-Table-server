@@ -1,0 +1,38 @@
+{
+    "wellness": {
+        "done": 1,
+        "need": 2,
+        "subjects": [
+            {
+                "std_code": "6210545734",
+                "std_id": "57183",
+                "subject_code": "01219222",
+                "subject_name_th": "พื้นฐานของระบบคอมพิวเตอร์",
+                "subject_name_en": "Introduction to Computer Systems",
+                "credit": 3,
+                "grade": "A",
+                "registration_year": 63,
+                "registration_semester": 2,
+                "rownum": "1",
+                "grouping_data": "2563/2",
+                "gpa": 3.1,
+                "cr": 20
+            },
+            {
+                "std_code": "6210545734",
+                "std_id": "57183",
+                "subject_code": "01219222",
+                "subject_name_th": "พื้นฐานของระบบคอมพิวเตอร์",
+                "subject_name_en": "Introduction to Computer Systems",
+                "credit": 3,
+                "grade": "A",
+                "registration_year": 63,
+                "registration_semester": 2,
+                "rownum": "1",
+                "grouping_data": "2563/2",
+                "gpa": 3.1,
+                "cr": 20
+            }
+        ]        
+    }
+}
