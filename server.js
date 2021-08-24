@@ -164,7 +164,7 @@ app.get('/getGenEd', async (req, res) => {
         'x-access-token': accessToken
       },
       params: {
-          'idcode': stdCode
+        'idcode': stdCode
       }
     })
     
