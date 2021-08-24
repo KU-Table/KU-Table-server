@@ -127,7 +127,7 @@ app.get('/getGenEd', async (req, res) => {
   
   try{
     const needUnit = await getNeedUnit(majorCode)
-    console.log(needUnit)
+    console.log(`${majorCode}: ${needUnit.Wellness} ${needUnit.Entrepreneurship} ${needUnit.Thai_Citizen_and_Global_Citizen} ${needUnit.Language_and_Communication} ${needUnit.Aesthetics}`)
     // console.log(needUnit['Wellness'])
     
     let result = {
@@ -158,7 +158,7 @@ app.get('/getGenEd', async (req, res) => {
       },
     }
     
-    console.log(result)
+    // console.log(result)
 
     console.log(`checkGrades - getGenEd for ${majorCode}`)
     
