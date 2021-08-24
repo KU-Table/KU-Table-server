@@ -126,7 +126,7 @@ app.get('/getGenEd', async (req, res) => {
   const { majorCode, stdCode } = req.query
   
   try{
-    const needUnit = await getNeedUnit(majorCode)
+    const needUnit = getNeedUnit(majorCode)
     console.log(needUnit)
     
     let result = {
@@ -173,14 +173,14 @@ app.get('/getGenEd', async (req, res) => {
       // console.log(year.grade)
       for(const sub of year.grade){
       
-          // console.log(sub.subject_code, sub.grade)
-          const subject = await getSubject(sub.subject_code)
-          // console.log(subject)
-          if (sub.grade != 'W' && typeof subject !== 'undefined') {
-            result[subject.type].done += sub.credit
-            result[subject.type].subjects.push(sub)
-          }
+        // console.log(sub.subject_code, sub.grade)
+        const subject = await getSubject(sub.subject_code)
+        // console.log(subject)
+        if (sub.grade != 'W' && typeof subject !== 'undefined') {
+          result[subject.type].done += sub.credit
+          result[subject.type].subjects.push(sub)
         }
+      }
     }
     
     console.log("success getGenEd")
@@ -191,6 +191,7 @@ app.get('/getGenEd', async (req, res) => {
   }
   catch (e) {
     console.log("fail getGenEd")
+    // console.log(e)
     res.status(400).json({"msg": "fail to call api"})
   }
 })
