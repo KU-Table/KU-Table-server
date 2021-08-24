@@ -126,8 +126,9 @@ app.get('/getGenEd', async (req, res) => {
   const { majorCode, stdCode } = req.query
   
   try{
-    const needUnit = getNeedUnit(majorCode)
+    const needUnit = await getNeedUnit(majorCode)
     console.log(needUnit)
+    // console.log(needUnit['Wellness'])
     
     let result = {
       "Wellness": {
@@ -156,6 +157,8 @@ app.get('/getGenEd', async (req, res) => {
         "subjects": []
       },
     }
+    
+    console.log(result)
 
     console.log(`checkGrades - getGenEd for ${majorCode}`)
     
