@@ -125,37 +125,38 @@ app.get('/getGenEd', async (req, res) => {
   const accessToken = req.headers['accesstoken']
   const { majorCode, stdCode } = req.query
   
-  const needUnit = await getNeedUnit(majorCode)
-  
-  let result = {
-    "Wellness": {
-      "done": 0,
-      "need": needUnit.Wellness,
-      "subjects": []
-    },
-    "Entrepreneurship": {
-      "done": 0,
-      "need": needUnit.Entrepreneurship,
-      "subjects": []
-    },
-    "Thai_Citizen_and_Global_Citizen": {
-      "done": 0,
-      "need": needUnit.Thai_Citizen_and_Global_Citizen,
-      "subjects": []
-    },
-    "Language_and_Communication": {
-      "done": 0,
-      "need": needUnit.Language_and_Communication,
-      "subjects": []
-    },
-    "Aesthetics": {
-      "done": 0,
-      "need": needUnit.Aesthetics,
-      "subjects": []
-    },
-  }
-
   try{
+    const needUnit = await getNeedUnit(majorCode)
+    console.log(needUnit)
+    
+    let result = {
+      "Wellness": {
+        "done": 0,
+        "need": needUnit.Wellness,
+        "subjects": []
+      },
+      "Entrepreneurship": {
+        "done": 0,
+        "need": needUnit.Entrepreneurship,
+        "subjects": []
+      },
+      "Thai_Citizen_and_Global_Citizen": {
+        "done": 0,
+        "need": needUnit.Thai_Citizen_and_Global_Citizen,
+        "subjects": []
+      },
+      "Language_and_Communication": {
+        "done": 0,
+        "need": needUnit.Language_and_Communication,
+        "subjects": []
+      },
+      "Aesthetics": {
+        "done": 0,
+        "need": needUnit.Aesthetics,
+        "subjects": []
+      },
+    }
+
     console.log(`checkGrades - getGenEd for ${majorCode}`)
     
     const response = await axios.get('https://myapi.ku.th/std-profile/checkGrades?idcode=6210545734', {
