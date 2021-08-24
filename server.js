@@ -194,8 +194,8 @@ app.get('/getGenEd', async (req, res) => {
   }
   catch (e) {
     console.log("fail getGenEd")
-    // console.log(e)
-    res.status(400).json({"msg": "fail to call api"})
+    console.log(e.response.statusText)
+    res.status(e.response.status).json({"msg": e.response.statusText})
   }
 })
 
