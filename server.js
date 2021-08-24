@@ -156,6 +156,8 @@ app.get('/getGenEd', async (req, res) => {
   }
 
   try{
+    console.log(`checkGrades - getGenEd for ${majorCode}`)
+    
     const response = await axios.get('https://myapi.ku.th/std-profile/checkGrades?idcode=6210545734', {
       headers: {
         'app-key': 'txCR5732xYYWDGdd49M3R19o1OVwdRFc',
@@ -165,7 +167,7 @@ app.get('/getGenEd', async (req, res) => {
           'idcode': stdCode
       }
     })
-
+    
     for(const year of response.data.results){
       // console.log(year.grade)
       for(const sub of year.grade){
@@ -180,12 +182,14 @@ app.get('/getGenEd', async (req, res) => {
         }
     }
     
+    console.log("success getGenEd")
     res.status(200).json(
       result
     )
   
   }
   catch (e) {
+    console.log("fail getGenEd")
     res.status(400).json({"msg": "fail to call api"})
   }
 })
