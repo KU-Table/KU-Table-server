@@ -179,14 +179,16 @@
       "Entrepreneurship": 0,
       "Thai_Citizen_and_Global_Citizen": 0,
       "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Aesthetics": 0,
+      "Message": "https://eduserv.ku.ac.th//academics%202008/PDF/ku/forest/CS_B.S.Wood.Technology_54.pdf"
     },
     "C32": {
       "Wellness": 0,
       "Entrepreneurship": 0,
       "Thai_Citizen_and_Global_Citizen": 0,
       "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Aesthetics": 0,
+      "Message": "https://eduserv.ku.ac.th//academics%202008/PDF/ku/forest/CS_B.S.Paper.Technology_55.pdf"
     },
     "C33": {
       "Wellness": 5,
@@ -210,11 +212,11 @@
       "Aesthetics": 3
     },
     "D03": {
-      "Wellness": 0,
-      "Entrepreneurship": 0,
-      "Thai_Citizen_and_Global_Citizen": 0,
-      "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Wellness": 4,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 13,
+      "Language_and_Communication": 5,
+      "Aesthetics": 5
     },
     "D04": {
       "Wellness": 6,
@@ -231,11 +233,11 @@
       "Aesthetics": 3
     },
     "D07": {
-      "Wellness": 0,
-      "Entrepreneurship": 0,
-      "Thai_Citizen_and_Global_Citizen": 0,
-      "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Wellness": 5,
+      "Entrepreneurship": 4,
+      "Thai_Citizen_and_Global_Citizen": 13,
+      "Language_and_Communication": 5,
+      "Aesthetics": 3
     },
     "D09": {
       "Wellness": 3,
@@ -252,11 +254,11 @@
       "Aesthetics": 3
     },
     "D11": {
-      "Wellness": 0,
-      "Entrepreneurship": 0,
-      "Thai_Citizen_and_Global_Citizen": 0,
-      "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Wellness": 3,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 13,
+      "Language_and_Communication": 5,
+      "Aesthetics": 6
     },
     "D12": {
       "Wellness": 0,
@@ -280,11 +282,11 @@
       "Aesthetics": 3
     },
     "D16": {
-      "Wellness": 0,
-      "Entrepreneurship": 0,
-      "Thai_Citizen_and_Global_Citizen": 0,
-      "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 13,
+      "Language_and_Communication": 5,
+      "Aesthetics": 3
     },
     "D17": {
       "Wellness": 5,
@@ -301,25 +303,26 @@
       "Aesthetics": 3
     },
     "D19": {
-      "Wellness": 0,
-      "Entrepreneurship": 0,
-      "Thai_Citizen_and_Global_Citizen": 0,
-      "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Wellness": 5,
+      "Entrepreneurship": 14,
+      "Thai_Citizen_and_Global_Citizen": 13,
+      "Language_and_Communication": 5,
+      "Aesthetics": 3
     },
     "D20": {
-      "Wellness": 0,
-      "Entrepreneurship": 0,
-      "Thai_Citizen_and_Global_Citizen": 0,
-      "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 13,
+      "Language_and_Communication": 5,
+      "Aesthetics": 3
     },
     "D32": {
       "Wellness": 0,
       "Entrepreneurship": 0,
       "Thai_Citizen_and_Global_Citizen": 0,
       "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Aesthetics": 0,
+      "Message": "เตรียมแพทย์ปี1 คณะวิทย์"
     },
     "E03": {
       "Wellness": 6,
@@ -420,39 +423,40 @@
       "Aesthetics": 3
     },
     "E23": {
-      "Wellness": 0,
-      "Entrepreneurship": 0,
-      "Thai_Citizen_and_Global_Citizen": 0,
-      "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Wellness": 3,
+      "Entrepreneurship": 5,
+      "Thai_Citizen_and_Global_Citizen": 13,
+      "Language_and_Communication": 5,
+      "Aesthetics": 3
     },
     "E26": {
-      "Wellness": 0,
-      "Entrepreneurship": 0,
-      "Thai_Citizen_and_Global_Citizen": 0,
-      "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 13,
+      "Language_and_Communication": 5,
+      "Aesthetics": 3
     },
     "E27": {
-      "Wellness": 0,
-      "Entrepreneurship": 0,
-      "Thai_Citizen_and_Global_Citizen": 0,
-      "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 13,
+      "Language_and_Communication": 5,
+      "Aesthetics": 3
     },
     "E28": {
-      "Wellness": 0,
-      "Entrepreneurship": 0,
-      "Thai_Citizen_and_Global_Citizen": 0,
-      "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 13,
+      "Language_and_Communication": 5,
+      "Aesthetics": 3
     },
     "E35": {
       "Wellness": 0,
       "Entrepreneurship": 0,
       "Thai_Citizen_and_Global_Citizen": 0,
       "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Aesthetics": 0,
+      "Message": "วิศวะภาครวม รอเลือกภาคก่อนนะ TT"
     },
     "F11": {
       "Wellness": 0,
@@ -602,11 +606,11 @@
       "Aesthetics": 3
     },
     "I00": {
-      "Wellness": 0,
-      "Entrepreneurship": 0,
-      "Thai_Citizen_and_Global_Citizen": 0,
-      "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Wellness": 4,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 13,
+      "Language_and_Communication": 7,
+      "Aesthetics": 3
     },
     "K01": {
       "Wellness": 0,
@@ -697,7 +701,8 @@
       "Entrepreneurship": 0,
       "Thai_Citizen_and_Global_Citizen": 0,
       "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Aesthetics": 0,
+      "Message": "https://eduserv.ku.ac.th//academics%202008/PDF/ku/human/CS_B.A.Chinese_58.pdf"
     },
     "L50": {
       "Wellness": 6,
@@ -711,7 +716,8 @@
       "Entrepreneurship": 0,
       "Thai_Citizen_and_Global_Citizen": 0,
       "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Aesthetics": 0,
+      "Message": "http://cai.human.ku.ac.th/pdf/academic/b_degree.pdf"
     },
     "L72": {
       "Wellness": 3,
@@ -781,7 +787,8 @@
       "Entrepreneurship": 0,
       "Thai_Citizen_and_Global_Citizen": 0,
       "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Aesthetics": 0,
+      "Message": "ข้อมูลงงมาก ไม่มั่นใจ"
     },
     "R03": {
       "Wellness": 4,
@@ -812,32 +819,32 @@
       "Aesthetics": 3
     },
     "N04": {
-      "Wellness": 0,
-      "Entrepreneurship": 0,
-      "Thai_Citizen_and_Global_Citizen": 0,
-      "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Wellness": 3,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 13,
+      "Language_and_Communication": 5,
+      "Aesthetics": 6
     },
     "N05": {
-      "Wellness": 0,
-      "Entrepreneurship": 0,
-      "Thai_Citizen_and_Global_Citizen": 0,
-      "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Wellness": 3,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 13,
+      "Language_and_Communication": 5,
+      "Aesthetics": 6
     },
     "P01": {
-      "Wellness": 0,
-      "Entrepreneurship": 0,
-      "Thai_Citizen_and_Global_Citizen": 0,
-      "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Wellness": 4,
+      "Entrepreneurship": 5,
+      "Thai_Citizen_and_Global_Citizen": 13,
+      "Language_and_Communication": 4,
+      "Aesthetics": 4
     },
     "P02": {
-      "Wellness": 0,
-      "Entrepreneurship": 0,
-      "Thai_Citizen_and_Global_Citizen": 0,
-      "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 13,
+      "Language_and_Communication": 5,
+      "Aesthetics": 3
     },
     "T01": {
       "Wellness": 3,
