@@ -105,13 +105,13 @@ app.get('/getSchedule', async (req, res) => {
 })
 
 const getNeedUnit = async (majorCode) => {
-  let raw_major = fs.readFileSync('./genEd.json')
+  let raw_major = fs.readFileSync('./data/genEd.json')
   const genEdJson = JSON.parse(raw_major)
   return genEdJson[majorCode]
 }
 
 const getSubject = async (subject_code) => {
-  let raw_subject = fs.readFileSync('./subject.json')
+  let raw_subject = fs.readFileSync('./data/subject.json')
   const subjectJson = JSON.parse(raw_subject)
   return subjectJson[subject_code]
 }
