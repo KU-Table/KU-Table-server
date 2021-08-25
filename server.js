@@ -107,13 +107,48 @@ app.get('/getSchedule', async (req, res) => {
 const getNeedUnit = async (majorCode) => {
   let raw_major = fs.readFileSync('./data/genEd.json')
   const genEdJson = JSON.parse(raw_major)
-  return genEdJson[majorCode]
+  if(!genEdJson[majorCode]){
+    console.log(`Major Not found ${majorCode}`)
+  }
+  return genEdJson[majorCode] || genEdJson.NotFound
 }
 
 const getSubject = async (subject_code) => {
   let raw_subject = fs.readFileSync('./data/subject.json')
   const subjectJson = JSON.parse(raw_subject)
   return subjectJson[subject_code]
+}
+
+const getResultBlock = async (needUnit) => {
+
+  let result = {
+    "Wellness": {
+      "done": 0,
+      "need": needUnit.Wellness,
+      "subjects": []
+    },
+    "Entrepreneurship": {
+      "done": 0,
+      "need": needUnit.Entrepreneurship,
+      "subjects": []
+    },
+    "Thai_Citizen_and_Global_Citizen": {
+      "done": 0,
+      "need": needUnit.Thai_Citizen_and_Global_Citizen,
+      "subjects": []
+    },
+    "Language_and_Communication": {
+      "done": 0,
+      "need": needUnit.Language_and_Communication,
+      "subjects": []
+    },
+    "Aesthetics": {
+      "done": 0,
+      "need": needUnit.Aesthetics,
+      "subjects": []
+    },
+  }
+  return result
 }
 
 app.get('/getGenEd', async (req, res) => {
@@ -130,39 +165,11 @@ app.get('/getGenEd', async (req, res) => {
     console.log(`${majorCode}: ${needUnit.Wellness} ${needUnit.Entrepreneurship} ${needUnit.Thai_Citizen_and_Global_Citizen} ${needUnit.Language_and_Communication} ${needUnit.Aesthetics}`)
     // console.log(needUnit['Wellness'])
     
-    let result = {
-      "Wellness": {
-        "done": 0,
-        "need": needUnit.Wellness,
-        "subjects": []
-      },
-      "Entrepreneurship": {
-        "done": 0,
-        "need": needUnit.Entrepreneurship,
-        "subjects": []
-      },
-      "Thai_Citizen_and_Global_Citizen": {
-        "done": 0,
-        "need": needUnit.Thai_Citizen_and_Global_Citizen,
-        "subjects": []
-      },
-      "Language_and_Communication": {
-        "done": 0,
-        "need": needUnit.Language_and_Communication,
-        "subjects": []
-      },
-      "Aesthetics": {
-        "done": 0,
-        "need": needUnit.Aesthetics,
-        "subjects": []
-      },
-    }
-    
-    // console.log(result)
+    let result = await getResultBlock(needUnit)
 
     console.log(`checkGrades - getGenEd for ${majorCode}`)
     
-    const response = await axios.get('https://myapi.ku.th/std-profile/checkGrades?idcode=6210545734', {
+    const response = await axios.get('https://myapi.ku.th/std-profile/checkGrades', {
       headers: {
         'app-key': 'txCR5732xYYWDGdd49M3R19o1OVwdRFc',
         'x-access-token': accessToken
@@ -179,7 +186,7 @@ app.get('/getGenEd', async (req, res) => {
         // console.log(sub.subject_code, sub.grade)
         const subject = await getSubject(sub.subject_code)
         // console.log(subject)
-        if (sub.grade != 'W' && typeof subject !== 'undefined') {
+        if (sub.grade != 'W' && subject) {
           result[subject.type].done += sub.credit
           result[subject.type].subjects.push(sub)
         }
@@ -193,9 +200,13 @@ app.get('/getGenEd', async (req, res) => {
   
   }
   catch (e) {
-    console.log("fail getGenEd")
-    console.log(e.response.statusText)
-    res.status(e.response.status).json({"msg": e.response.statusText})
+    try{
+      console.log("fail getGenEd")
+      console.log(e)
+      res.status(e.response.status).json({"msg": e.response.statusText})
+    } catch (er) {
+      res.status(400).json({"msg": "fail to getGenEd"})
+    }
   }
 })
 

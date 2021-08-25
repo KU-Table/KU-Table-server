@@ -859,5 +859,19 @@
       "Thai_Citizen_and_Global_Citizen": 5,
       "Language_and_Communication": 13,
       "Aesthetics": 3
+    },
+    "T22": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    },
+    "NotFound": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
     }
 }

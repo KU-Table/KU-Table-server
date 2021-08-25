@@ -122,5 +122,6 @@
         {"value":"P02", "label":"P02 การพยาบาลสัตว์ (Animal Nursing Faculty of Veterinary Technology)"},
         {"value":"T01", "label":"T01 วิทยาศาสตร์สิ่งแวดล้อม (Environmental Science Faculty of Environment)"},
         {"value":"T02", "label":"T02 วิทยาศาสตร์และเทคโนโลยีสิ่งแวดล้อม (Environmental Science and Technology Faculty of Environment)"},
+        {"value":"T22", "label":"T22 Unknow"}
     ]
 }
