@@ -98,7 +98,7 @@ app.get('/getSchedule', async (req, res) => {
     } catch {
       console.log('GetSchedule Failed')
       res.status(400).json({
-          "code": "bad request"
+        "code": "bad request"
       })
     }
   }
