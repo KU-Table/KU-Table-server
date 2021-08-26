@@ -9,6 +9,7 @@ const { response } = require('express')
 
 const loginLink = 'https://myapi.ku.th/auth/login'
 const getScheduleLink = 'https://myapi.ku.th/std-profile/getGroupCourse'
+const checkGradesLink = 'https://myapi.ku.th/std-profile/checkGrades'
 const sheetLink = process.env.SHEET_LINK
 
 const appKey = process.env.APP_KEY
@@ -169,7 +170,7 @@ app.get('/getGenEd', async (req, res) => {
 
     console.log(`checkGrades - getGenEd for ${majorCode}`)
     
-    const response = await axios.get('https://myapi.ku.th/std-profile/checkGrades', {
+    const response = await axios.get(checkGradesLink, {
       headers: {
         'app-key': 'txCR5732xYYWDGdd49M3R19o1OVwdRFc',
         'x-access-token': accessToken
@@ -202,7 +203,7 @@ app.get('/getGenEd', async (req, res) => {
   catch (e) {
     try{
       console.log("fail getGenEd")
-      console.log(e)
+      console.log(e.response.status, e.response.statusText)
       res.status(e.response.status).json({"msg": e.response.statusText})
     } catch (er) {
       res.status(400).json({"msg": "fail to getGenEd"})
