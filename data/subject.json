@@ -775,15 +775,6 @@
        "hour":"3-0-6",
        "faculty":"Faculty of Humanities"
     },
-    "01355111":{
-       "type":"Language_and_Communication but not_count",
-       "nameEN":"Foundation English l",
-       "nameTH":"ภาษาอังกฤษพื้นฐาน l",
-       "unit":"0",
-       "hour":"3-0-6",
-       "faculty":"Faculty of Humanities",
-       "Comment":"Not count"
-    },
     "01355112":{
        "type":"Language_and_Communication",
        "nameEN":"Foundation English ll",
