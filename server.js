@@ -72,7 +72,7 @@ app.post('/login', async (req, res) => {
     
     res.json(response.data)
   } catch (e) {
-    res.status(400).json({"Fail to login."})
+    res.status(400).json("Fail to login")
   }
 })
 
