@@ -26,7 +26,7 @@ app.use( (req, res, next) => {
 
   // intercept OPTIONS method
   if ('OPTIONS' == req.method) {
-    res.send(200);
+    res.status(200);
   }
   else {
     next();
@@ -72,7 +72,7 @@ app.post('/login', async (req, res) => {
     
     res.json(response.data)
   } catch (e) {
-    res.status(e.response.status).json(e)
+    res.status(400).json({"Fail to login."})
   }
 })
 
@@ -111,7 +111,7 @@ const getNeedUnit = async (majorCode) => {
   if(!genEdJson[majorCode]){
     console.log(`Major Not found ${majorCode}`)
   }
-  return genEdJson[majorCode] || genEdJson.NotFound
+  return genEdJson[majorCode] || genEdJson["NotFound"]
 }
 
 const getSubject = async (subject_code) => {
