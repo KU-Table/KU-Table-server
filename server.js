@@ -51,7 +51,7 @@ app.post('/login', async (req, res) => {
     // }
     
     if (response.data.code == "success") {
-      console.log('Login success', facultyNameEn, ",", majorCode, majorNameEn, ",", studentYear);
+      console.log('Login/ success', facultyNameEn, ",", majorCode, majorNameEn, ",", studentYear);
       // console.log('Count:', using, ". Unique:", stdCache.length)
       try {
         const sheet_response = axios.post(sheetLink, 
@@ -62,24 +62,24 @@ app.post('/login', async (req, res) => {
           }
         )
         const concat = facultyNameEn + " , " + majorCode + " " + majorNameEn + " , " + studentYear
-        console.log("[", concat, "] has been added to Sheet")
+        console.log("Sheet/ [", concat, "] has been added to Sheet")
       }
       catch (e) {
         console.log(e)
-        console.log("Fail to call Sheet API.")
+        console.log("Sheet/ Fail to call API.")
       }
     }
     
     res.json(response.data)
-    console.log("Done Login process")
+    console.log("Login/ Done")
 
   } catch (e) {
     try{
       res.status(e.response.status).json(e)
-      console.log("Fail Login process, success ku api")
+      console.log("Login/ Fail, success ku api")
     } catch {
       res.status(400).json({"code" :"Fail to login"})
-      console.log("Fail Login process, unsuccess ku api")
+      console.log("Login/ Fail, unsuccess ku api")
     }
   }
 })
@@ -101,14 +101,14 @@ app.get('/getSchedule', async (req, res) => {
     })
     console.log('GetSchedule success')
     res.json(response.data.results[0].course)
-    console.log('Done sent GetSchedule data success')
+    console.log('GetSchedule/ Done sent data success')
   } catch (e) {
     try{
       res.status(e.response.status).json(e)
-      console.log("Fail GetSchedule process, success ku api")
+      console.log("GetSchedule/ Fail, success ku api")
     } catch {
       res.status(400).json({"code": "bad request"})
-      console.log("Fail GetSchedule process, unsuccess ku api")
+      console.log("GetSchedule/ Fail, unsuccess ku api")
     }
   }
 })
@@ -117,7 +117,7 @@ const getNeedUnit = async (majorCode) => {
   let raw_major = fs.readFileSync('./data/genEd.json')
   const genEdJson = JSON.parse(raw_major)
   if(!genEdJson[majorCode]){
-    console.log(`Major Not found ${majorCode}`)
+    console.log(`getNeedUnit/ Major Not found ${majorCode}`)
   }
   return genEdJson[majorCode] || genEdJson["NotFound"]
 }
@@ -171,7 +171,7 @@ app.get('/getGenEd', async (req, res) => {
   try{
     const needUnit = await getNeedUnit(majorCode)
     // console.log(`checkGrades - getGenEd for ${majorCode}`)
-    console.log(`checkGrades - getGenEd of ${majorCode}: ${needUnit.Wellness} ${needUnit.Entrepreneurship} ${needUnit.Thai_Citizen_and_Global_Citizen} ${needUnit.Language_and_Communication} ${needUnit.Aesthetics}`)
+    console.log(`GetGenEd/ checkGrades of ${majorCode}: ${needUnit.Wellness} ${needUnit.Entrepreneurship} ${needUnit.Thai_Citizen_and_Global_Citizen} ${needUnit.Language_and_Communication} ${needUnit.Aesthetics}`)
     // console.log(needUnit['Wellness'])
     
     let result = await getResultBlock(needUnit)
@@ -185,7 +185,7 @@ app.get('/getGenEd', async (req, res) => {
         'idcode': stdCode
       }
     })
-    console.log("checkGrades code from ku:", response.data.code)
+    console.log("GetGenEd/ checkGrades code from ku:", response.data.code)
     
     for(const year of response.data.results){
       // console.log(year.grade)
@@ -204,16 +204,16 @@ app.get('/getGenEd', async (req, res) => {
     res.status(200).json(
       result
     )
-    console.log("Done getGenEd. semester:", response.data.results.length)
+    console.log("GetGenEd/ Done. semester:", response.data.results.length)
   }
   catch (e) {
     try{
       console.log(e.response.status, e.response.statusText)
       res.status(e.response.status).json({"msg": e.response.statusText})
-      console.log("Fail getGenEd, success call ku api")
+      console.log("GetGenEd/ Fail, success call ku api")
     } catch (er) {
       res.status(400).json({"msg": "fail to getGenEd"})
-      console.log("Fail getGenEd, unsuccess call ku api")
+      console.log("GetGenEd/ Fail, unsuccess call ku api")
     }
   }
 })
@@ -225,7 +225,7 @@ app.get('/getData', async (req, res) => {
     res.json(response.data)
   } catch (e){
     res.status(400).json({
-      "code": "Fail to get data from sheet",
+      "code": "Sheet/ Fail to get data",
     })
   }
 })
