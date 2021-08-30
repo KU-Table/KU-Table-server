@@ -170,8 +170,8 @@ app.get('/getGenEd', async (req, res) => {
   
   try{
     const needUnit = await getNeedUnit(majorCode)
-    console.log(`checkGrades - getGenEd for ${majorCode}`)
-    console.log(`${majorCode}: ${needUnit.Wellness} ${needUnit.Entrepreneurship} ${needUnit.Thai_Citizen_and_Global_Citizen} ${needUnit.Language_and_Communication} ${needUnit.Aesthetics}`)
+    // console.log(`checkGrades - getGenEd for ${majorCode}`)
+    console.log(`checkGrades - getGenEd of ${majorCode}: ${needUnit.Wellness} ${needUnit.Entrepreneurship} ${needUnit.Thai_Citizen_and_Global_Citizen} ${needUnit.Language_and_Communication} ${needUnit.Aesthetics}`)
     // console.log(needUnit['Wellness'])
     
     let result = await getResultBlock(needUnit)
@@ -185,7 +185,7 @@ app.get('/getGenEd', async (req, res) => {
         'idcode': stdCode
       }
     })
-    console.log("checkGrades code from ku", response.data.code)
+    console.log("checkGrades code from ku:", response.data.code)
     
     for(const year of response.data.results){
       // console.log(year.grade)
@@ -200,12 +200,11 @@ app.get('/getGenEd', async (req, res) => {
         }
       }
     }
-    console.log("map array in data.results success")
 
     res.status(200).json(
       result
     )
-    console.log("Done getGenEd")
+    console.log("Done getGenEd. semester:", response.data.results.length)
   }
   catch (e) {
     try{
