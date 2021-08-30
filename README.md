@@ -10,7 +10,10 @@ yarn start
 
 API:
 
-- POST "/login"
+- POST "/login":
+  - require "username", "data"
 - GET "/getSchedule"
-- GET "/getData"
+  - require "accesstoken"
 - GET "/getGenEd"
+  - require "accesstoken", "majorCode", "stdCode"
+- GET "/getData"
