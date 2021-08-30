@@ -16,8 +16,8 @@ const appKey = process.env.APP_KEY
 
 const app = express()
 
-let using = 0
-let stdCache = []
+// let using = 0
+// let stdCache = []
 
 app.use( (req, res, next) => {
   res.header('Access-Control-Allow-Origin', '*');
@@ -42,27 +42,27 @@ app.post('/login', async (req, res) => {
         'app-key': appKey
       }
     })
-    using = using + 1;
+    // using = using + 1;
     const student = response.data.user.student
-    const { studentYear, facultyNameEn, majorNameEn, stdId } = student
+    const { studentYear, facultyNameEn, majorNameEn, stdId, majorCode } = student
     
-    if (stdCache.indexOf(stdId) <= -1){
-      stdCache.push(stdId);
-    }
+    // if (stdCache.indexOf(stdId) <= -1){
+    //   stdCache.push(stdId);
+    // }
     
     if (response.data.code == "success") {
-      console.log('Login success', facultyNameEn, ",", majorNameEn, ",", studentYear);
-      console.log('Count:', using, ". Unique:", stdCache.length)
+      console.log('Login success', facultyNameEn, ",", majorCode, majorNameEn, ",", studentYear);
+      // console.log('Count:', using, ". Unique:", stdCache.length)
       try {
         const sheet_response = axios.post(sheetLink, 
           {
             "facultyNameEn": facultyNameEn,
-            "majorNameEn": majorNameEn, 
+            "majorNameEn": majorCode + " " + majorNameEn, 
             "studentYear": studentYear
           }
         )
-        const concat = facultyNameEn + " , " + majorNameEn + " , " + studentYear
-        console.log("add [",concat,"] to Sheet")
+        const concat = facultyNameEn + " , " + majorCode + " " + majorNameEn + " , " + studentYear
+        console.log("[", concat, "] has been added to Sheet")
       }
       catch (e) {
         console.log(e)
@@ -71,11 +71,15 @@ app.post('/login', async (req, res) => {
     }
     
     res.json(response.data)
+    console.log("Done Login process")
+
   } catch (e) {
     try{
       res.status(e.response.status).json(e)
+      console.log("Fail Login process, success ku api")
     } catch {
-      res.status(400).json({"status" :"Fail to login"})
+      res.status(400).json({"code" :"Fail to login"})
+      console.log("Fail Login process, unsuccess ku api")
     }
   }
 })
@@ -95,16 +99,16 @@ app.get('/getSchedule', async (req, res) => {
         'app-key': appKey
       }
     })
-    console.log('GetSchedule')
+    console.log('GetSchedule success')
     res.json(response.data.results[0].course)
+    console.log('Done sent GetSchedule data success')
   } catch (e) {
     try{
       res.status(e.response.status).json(e)
+      console.log("Fail GetSchedule process, success ku api")
     } catch {
-      console.log('GetSchedule Failed')
-      res.status(400).json({
-        "code": "bad request"
-      })
+      res.status(400).json({"code": "bad request"})
+      console.log("Fail GetSchedule process, unsuccess ku api")
     }
   }
 })
@@ -125,7 +129,6 @@ const getSubject = async (subject_code) => {
 }
 
 const getResultBlock = async (needUnit) => {
-
   let result = {
     "Wellness": {
       "done": 0,
@@ -167,13 +170,12 @@ app.get('/getGenEd', async (req, res) => {
   
   try{
     const needUnit = await getNeedUnit(majorCode)
+    console.log(`checkGrades - getGenEd for ${majorCode}`)
     console.log(`${majorCode}: ${needUnit.Wellness} ${needUnit.Entrepreneurship} ${needUnit.Thai_Citizen_and_Global_Citizen} ${needUnit.Language_and_Communication} ${needUnit.Aesthetics}`)
     // console.log(needUnit['Wellness'])
     
     let result = await getResultBlock(needUnit)
 
-    console.log(`checkGrades - getGenEd for ${majorCode}`)
-    
     const response = await axios.get(checkGradesLink, {
       headers: {
         'app-key': 'txCR5732xYYWDGdd49M3R19o1OVwdRFc',
@@ -183,6 +185,7 @@ app.get('/getGenEd', async (req, res) => {
         'idcode': stdCode
       }
     })
+    console.log("checkGrades code from ku", response.data.code)
     
     for(const year of response.data.results){
       // console.log(year.grade)
@@ -197,20 +200,21 @@ app.get('/getGenEd', async (req, res) => {
         }
       }
     }
-    
-    console.log("success getGenEd")
+    console.log("map array in data.results success")
+
     res.status(200).json(
       result
     )
-  
+    console.log("Done getGenEd")
   }
   catch (e) {
     try{
-      console.log("fail getGenEd")
       console.log(e.response.status, e.response.statusText)
       res.status(e.response.status).json({"msg": e.response.statusText})
+      console.log("Fail getGenEd, success call ku api")
     } catch (er) {
       res.status(400).json({"msg": "fail to getGenEd"})
+      console.log("Fail getGenEd, unsuccess call ku api")
     }
   }
 })
