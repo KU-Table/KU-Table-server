@@ -47,6 +47,15 @@
        "hour":"0-2-1",
        "faculty":"Faculty of Education"
     },
+    "01175118":{
+       "type":"Wellness",
+       "nameEN":"Chair Ball for Health",
+       "nameTH":"แชร์บอลเพื่อสุขภาพ",
+       "unit":"1",
+       "hour":"0-2-1",
+       "faculty":"Faculty of Education",
+       "Message": "Manual Add"
+    },
     "01175121":{
        "type":"Wellness",
        "nameEN":"Basketball for Health",
