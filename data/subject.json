@@ -503,7 +503,8 @@
        "unit":"3",
        "hour":"3-0-6",
        "faculty":"Faculty of Agriculture"
-    },"01101101":{
+    },
+    "01101101":{
       "type":"Entrepreneurship",
       "nameEN":"General Economics in Globalization",
       "nameTH":"เศรษฐศาสตร์ทั่วไปในกระแสโลกาภิวัต",
@@ -1212,9 +1213,9 @@
     "01999023":{
       "type":"Language_and_Communication",
        "nameEN":"Essential Computer Skill",
-       "nameTH":"Essential Computer Skill",
-       "unit":"1",
-       "hour":"",
+       "nameTH":" ทักษะความเข้าใจและใช้เทคโนโลยีดิจิทัล",
+       "unit":"2",
+       "hour":"1-2-4",
        "faculty":"I Dont know",
        "comment":"Manual add"
     },
@@ -1357,7 +1358,7 @@
     },
     "01350102": {
       "type":"Aesthetics",
-      "nameEN":"เล่าเรื่องด้วยภาพ",
+      "nameEN":"Visual Storytelling",
       "nameTH":"เล่าเรื่องด้วยภาพ",
       "unit":"3",
       "hour":"3-0-6",
@@ -1366,7 +1367,7 @@
     },
     "01387102": {
       "type":"Aesthetics",
-      "nameEN":"ปรัชญาสําหรับชีวิตยุคใหม่",
+      "nameEN":"Philosophy for Modern Life",
       "nameTH":"ปรัชญาสําหรับชีวิตยุคใหม่",
       "unit":"3",
       "hour":"3-0-6",
@@ -1383,7 +1384,7 @@
     },
     "01401201":{
        "type":"Aesthetics",
-       "nameEN":"พืชเพื่อการสร้างคุณค่าชีวิต",
+       "nameEN":"Plants for Value of Life Creation",
        "nameTH":"พืชเพื่อการสร้างคุณค่าชีวิต",
        "unit":"3",
        "hour":"3-0-6",
@@ -1391,7 +1392,7 @@
     },
     "01418105":{
        "type":"Aesthetics",
-       "nameEN":"ศิลปะสร้างสรรค์ดิจิทัล",
+       "nameEN":"Digital Creative Arts",
        "nameTH":"ศิลปะสร้างสรรค์ดิจิทัล",
        "unit":"3",
        "hour":"2-2-5",
