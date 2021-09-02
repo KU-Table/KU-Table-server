@@ -503,7 +503,15 @@
        "unit":"3",
        "hour":"3-0-6",
        "faculty":"Faculty of Agriculture"
-    },
+    },"01101101":{
+      "type":"Entrepreneurship",
+      "nameEN":"General Economics in Globalization",
+      "nameTH":"เศรษฐศาสตร์ทั่วไปในกระแสโลกาภิวัต",
+      "unit":"3",
+      "hour":"3-0-6",
+      "faculty":"Faculty of Economics?",
+      "Message":"Manual Add https://reg.src.ku.ac.th/filet/GenEd64.pdf"
+   },
     "01132101":{
        "type":"Entrepreneurship",
        "nameEN":"Modern Entrepreneur",
@@ -1338,6 +1346,33 @@
        "hour":"3-0-6",
        "faculty":"Faculty of Fisheries"
     },
+    "01308101": {
+      "type":"Aesthetics",
+      "nameEN":"Sustainable natural tourism?",
+      "nameTH":"การท่องเที่ยวทางธรรมชาติอย่างยั่งยืน",
+      "unit":"3",
+      "hour":"3-0-6",
+      "faculty":"วนศาสตร์",
+      "Message":"Manual Add https://reg.src.ku.ac.th/filet/GenEd64.pdf"
+    },
+    "01350102": {
+      "type":"Aesthetics",
+      "nameEN":"เล่าเรื่องด้วยภาพ",
+      "nameTH":"เล่าเรื่องด้วยภาพ",
+      "unit":"3",
+      "hour":"3-0-6",
+      "faculty":"Faculty of Humanities",
+      "Message":"Manual Add https://reg.src.ku.ac.th/filet/GenEd64.pdf"
+    },
+    "01387102": {
+      "type":"Aesthetics",
+      "nameEN":"ปรัชญาสําหรับชีวิตยุคใหม่",
+      "nameTH":"ปรัชญาสําหรับชีวิตยุคใหม่",
+      "unit":"3",
+      "hour":"3-0-6",
+      "faculty":"Faculty of Humanities",
+      "Message":"Manual Add https://reg.src.ku.ac.th/filet/GenEd64.pdf"
+    },
     "01376101":{
        "type":"Aesthetics",
        "nameEN":"Literature and Life",
@@ -1345,6 +1380,22 @@
        "unit":"3",
        "hour":"3-0-6",
        "faculty":"Faculty of Humanities"
+    },
+    "01401201":{
+       "type":"Aesthetics",
+       "nameEN":"พืชเพื่อการสร้างคุณค่าชีวิต",
+       "nameTH":"พืชเพื่อการสร้างคุณค่าชีวิต",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Science"
+    },
+    "01418105":{
+       "type":"Aesthetics",
+       "nameEN":"ศิลปะสร้างสรรค์ดิจิทัล",
+       "nameTH":"ศิลปะสร้างสรรค์ดิจิทัล",
+       "unit":"3",
+       "hour":"2-2-5",
+       "faculty":"Faculty of Science"
     },
     "01420201":{
        "type":"Aesthetics",
@@ -1374,6 +1425,14 @@
        "type":"Aesthetics",
        "nameEN":"Literature and Science",
        "nameTH":"วรรณกรรมกับวิทยาศาสตร์",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Liberal Arts and Science Kamphaeng Saen Campus"
+    },
+    "02728102":{
+       "type":"Aesthetics",
+       "nameEN":"สารสีในงานศิลปะ",
+       "nameTH":"สารสีในงานศิลปะ",
        "unit":"3",
        "hour":"3-0-6",
        "faculty":"Faculty of Liberal Arts and Science Kamphaeng Saen Campus"
