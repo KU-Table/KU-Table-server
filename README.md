@@ -11,7 +11,7 @@ yarn start
 API:
 
 - POST "/login":
-  - require "username", "data"
+  - require "username", "password"
 - GET "/getSchedule"
   - require "accesstoken"
 - GET "/getGenEd"
