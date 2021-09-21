@@ -16,4 +16,4 @@ API:
   - require "accesstoken"
 - GET "/getGenEd"
   - require "accesstoken", "majorCode", "stdCode"
-- GET "/getData"
+- GET "/getData" get web using data
