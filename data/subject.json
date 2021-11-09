@@ -521,6 +521,14 @@
        "hour":"3-0-6",
        "faculty":"Faculty of Business Administration"
     },
+    "01177141":{
+      "type":"Entrepreneurship",
+      "nameEN":"Knowledge Acquisition",
+      "nameTH":"การแสวงหาความรู้",
+      "unit":"3",
+      "hour":"3-0-6",
+      "faculty":"Faculty of Education"
+   },
     "01200101":{
        "type":"Entrepreneurship",
        "nameEN":"Innovative Thinking",
