@@ -75,6 +75,7 @@
         {"value":"G02", "label":"G02 เศรษฐศาสตร์เกษตร (Agricultural Economics Faculty of Economics)"},
         {"value":"G03", "label":"G03 เศรษฐศาสตร์สหกรณ์ (Cooperatives Economics Faculty of Economics)"},
         {"value":"G04", "label":"G04 เศรษฐศาสตร์เกษตรและทรัพยากร (Agricultural and Resource Economics Faculty of Economics)"},
+        {"value":"G06", "label":"G06 เศรษฐศาสตร์ประยุกต์และธุรกิจเกษตร (Cooperatives Economics)"},
         {"value":"G11", "label":"G11 เศรษฐศาสตร์การประกอบการ (Entrepreneurial Economics Faculty of Economics)"},
         {"value":"G12", "label":"G12 เศรษฐศาสตร์(หลักสูตรภาษาอังกฤษ) (Enterpreneurial Economics (International Program) Faculty of Economics)"},
         {"value":"G21", "label":"G21 ธุรกิจการเกษตร (Agribusiness Faculty of Economics)"},
