@@ -801,6 +801,24 @@
        "hour":"3-0-6",
        "faculty":"Faculty of Humanities"
     },
+    "01355101":{
+       "type":"Language_and_Communication",
+       "nameEN":"English for Everyday Life",
+       "nameTH":"ภาษาอังกฤษในชีวิตประจําวัน",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities",
+       "Message":"Manual Add https://registrar.ku.ac.th/wp-content/uploads/2017/05/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B-2564-%E0%B8%AA%E0%B8%A0%E0%B8%B2-%E0%B8%A1%E0%B8%81.-%E0%B8%AD.pdf" 
+    },
+    "01355102":{
+       "type":"Language_and_Communication",
+       "nameEN":"English for University Life",
+       "nameTH":"ภาษาอังกฤษในมหาวิทยาลัย",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities",
+       "Message":"Manual Add https://registrar.ku.ac.th/wp-content/uploads/2017/05/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B-2564-%E0%B8%AA%E0%B8%A0%E0%B8%B2-%E0%B8%A1%E0%B8%81.-%E0%B8%AD.pdf" 
+    },
     "01355103":{
        "type":"Language_and_Communication",
        "nameEN":"English for job Opportunities",
@@ -810,6 +828,24 @@
        "faculty":"Faculty of Humanities",
        "Message":"Manual Add https://registrar.ku.ac.th/wp-content/uploads/2017/05/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B-2564-%E0%B8%AA%E0%B8%A0%E0%B8%B2-%E0%B8%A1%E0%B8%81.-%E0%B8%AD.pdf" 
     },
+    "01355104":{
+      "type":"Language_and_Communication",
+      "nameEN":"English for Pre-Medical Students l",
+      "nameTH":"ภาษาอังกฤษสำหรับนิสิตเตรียมแพทย์ l",
+      "unit":"3",
+      "hour":"3-0-6",
+      "faculty":"Faculty of Humanities",
+      "Message": "https://www.facebook.com/ForeignlangKU/photos/pcb.4303414313001992/4303413773002046"
+   },
+   "01355105":{
+      "type":"Language_and_Communication",
+      "nameEN":"English for Pre-Medical Students ll",
+      "nameTH":"ภาษาอังกฤษสำหรับนิสิตเตรียมแพทย์ ll",
+      "unit":"3",
+      "hour":"3-0-6",
+      "faculty":"Faculty of Humanities",
+      "Message": "https://www.facebook.com/ForeignlangKU/photos/pcb.4303414313001992/4303413773002046"
+   },
     "01355112":{
        "type":"Language_and_Communication",
        "nameEN":"Foundation English ll",
