@@ -609,6 +609,14 @@
        "hour":"3-0-6",
        "faculty":"Faculty of Education"
     },
+    "01301101":{
+      "type":"Thai_Citizen_and_Global_Citizen",
+      "nameEN":"Resource and Environment conservation",
+      "nameTH":"การอนุรักษ์ทรัพยากรและสิ่งแวดล้อม",
+      "unit":"3",
+      "hour":"3-0-6",
+      "faculty":"Faculty of Forester"
+   },
     "01350101":{
        "type":"Thai_Citizen_and_Global_Citizen",
        "nameEN":"Ways of Life and Culture in ASEAN",
