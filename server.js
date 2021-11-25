@@ -90,7 +90,7 @@ app.get('/getSchedule', async (req, res) => {
   try {
     const response = await axios.get(getScheduleLink, {
       params: {
-        academicYear: 2564,
+        academicYear: 2563,
         semester: 2,
         stdId
       },
@@ -100,7 +100,7 @@ app.get('/getSchedule', async (req, res) => {
       }
     })
     console.log('GetSchedule success')
-    res.json(response.data.results[0].course)
+    res.json(response.data.results[0])
     console.log('GetSchedule/ Done sent data success')
   } catch (e) {
     try{
