@@ -88,10 +88,10 @@ app.get('/getSchedule', async (req, res) => {
   const accessToken = req.headers['accesstoken']
   const { stdId } = req.query
   try {
+    //academicYear: 2564,
+    // semester: 1,
     const response = await axios.get(getScheduleLink, {
       params: {
-        academicYear: 2564,
-        semester: 2,
         stdId
       },
       headers: {
@@ -100,8 +100,18 @@ app.get('/getSchedule', async (req, res) => {
       }
     })
     console.log('GetSchedule success')
-    res.json(response.data.results[0])
-    console.log('GetSchedule/ Done sent data success')
+    console.log(response.data)
+    if(!("results" in response.data)){
+      console.log("GetSchedule/ Done but no course found (send default)")
+      return res.json({
+        "course": [],
+        "peroid_date": "information not available"
+      })
+    }
+    else{
+      res.json(response.data.results[0])
+      console.log('GetSchedule/ Done sent data success')
+    }
   } catch (e) {
     try{
       res.status(e.response.status).json(e)
