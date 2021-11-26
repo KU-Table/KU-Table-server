@@ -513,14 +513,6 @@
       "faculty":"Faculty of Economics?",
       "Message":"Manual Add https://reg.src.ku.ac.th/filet/GenEd64.pdf"
    },
-    "01132101":{
-       "type":"Entrepreneurship",
-       "nameEN":"Modern Entrepreneur",
-       "nameTH":"ผู้ประกอบการรุ่นใหม่",
-       "unit":"3",
-       "hour":"3-0-6",
-       "faculty":"Faculty of Business Administration"
-    },
     "01177141":{
       "type":"Entrepreneurship",
       "nameEN":"Knowledge Acquisition",
@@ -554,7 +546,7 @@
        "faculty":"Integration Section of General Education"
     },
     "02717011":{
-       "type":"Entrepreneurship",
+       "type":"Wellness",
        "nameEN":"Self and Self Development",
        "nameTH":"ตนและการพัฒนาตน",
        "unit":"3",
@@ -601,14 +593,6 @@
        "hour":"3-0-6",
        "faculty":"Faculty of Agriculture"
     },
-    "01174122":{
-       "type":"Thai_Citizen_and_Global_Citizen",
-       "nameEN":"Recreational Learning through Backpack Traveling",
-       "nameTH":"การเรียนรู้เชิงนันทนาการโดยการเดินทางในต่างประเทศแบบประหยัด",
-       "unit":"3",
-       "hour":"3-0-6",
-       "faculty":"Faculty of Education"
-    },
     "01301101":{
       "type":"Thai_Citizen_and_Global_Citizen",
       "nameEN":"Resource and Environment conservation",
@@ -621,14 +605,6 @@
        "type":"Thai_Citizen_and_Global_Citizen",
        "nameEN":"Ways of Life and Culture in ASEAN",
        "nameTH":"วิถีชีวิตและวัฒนธรรมในอาเซียน",
-       "unit":"3",
-       "hour":"3-0-6",
-       "faculty":"Faculty of Humanities"
-    },
-    "01387104":{
-       "type":"Thai_Citizen_and_Global_Citizen",
-       "nameEN":"Philosophy and Religion in ASEAN Countries",
-       "nameTH":"ปรัชญาและศาสนาในประเทศอาเซียน",
        "unit":"3",
        "hour":"3-0-6",
        "faculty":"Faculty of Humanities"
@@ -1336,12 +1312,13 @@
        "faculty":"Faculty of Science"
     },
     "01999013":{
-       "type":"Language_and_Communication",
+       "type":"Thai_Citizen_and_Global_Citizen",
        "nameEN":"New Age Information Management In Everyday Life",
        "nameTH":"การจัดการสารสนเทศยุคใหม่ในชีวิตประจำวัน",
        "unit":"3",
        "hour":"2-2-5",
-       "faculty":"Integration Section of General Education"
+       "faculty":"Integration Section of General Education",
+       "Message": "Changed https://drive.google.com/file/d/1zO5rlCQovfczg9TAKjCPONmKfXy-z-vI/view"
     },
     "01999211":{
        "type":"Language_and_Communication",
@@ -1376,12 +1353,13 @@
        "faculty":"Faculty of Agriculture"
     },
     "01009102":{
-       "type":"Aesthetics",
+       "type":"Thai_Citizen_and_Global_Citizen",
        "nameEN":"Agricultural Resources and Environment",
        "nameTH":"ทรัพยากรการเกษตรและสิ่งแวดล้อม",
        "unit":"3",
        "hour":"3-0-6",
-       "faculty":"Faculty of Agriculture"
+       "faculty":"Faculty of Agriculture",
+       "Message": "Changed https://drive.google.com/file/d/1zO5rlCQovfczg9TAKjCPONmKfXy-z-vI/view"
     },
     "01240011":{
        "type":"Aesthetics",
@@ -1425,14 +1403,6 @@
       "hour":"3-0-6",
       "faculty":"Faculty of Humanities",
       "Message":"Manual Add https://reg.src.ku.ac.th/filet/GenEd64.pdf"
-    },
-    "01376101":{
-       "type":"Aesthetics",
-       "nameEN":"Literature and Life",
-       "nameTH":"วรรณกรรมกับชีวิต",
-       "unit":"3",
-       "hour":"3-0-6",
-       "faculty":"Faculty of Humanities"
     },
     "01401201":{
        "type":"Aesthetics",
@@ -1499,11 +1469,12 @@
        "faculty":"Faculty of Engineering Sri Racha Campus"
     },
     "03751111":{
-       "type":"Aesthetics",
+       "type":"Thai_Citizen_and_Global_Citizen",
        "nameEN":"Man and Environment",
        "nameTH":"มนุษย์กับสิ่งแวดล้อม",
        "unit":"3",
        "hour":"3-0-6",
-       "faculty":"Faculty of Management Science Sri Racha Campus"
+       "faculty":"Faculty of Management Science Sri Racha Campus",
+       "Message": "Changed https://drive.google.com/file/d/1zO5rlCQovfczg9TAKjCPONmKfXy-z-vI/view"
     }
  }
