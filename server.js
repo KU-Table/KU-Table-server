@@ -5,8 +5,6 @@ if(process.env.NODE_ENV !== "production"){
 const express = require('express')
 const axios = require('axios')
 const fs = require('fs')
-const { response } = require('express')
-const e = require('express')
 
 const loginLink = 'https://myapi.ku.th/auth/login'
 const getScheduleLink = 'https://myapi.ku.th/std-profile/getGroupCourse'
