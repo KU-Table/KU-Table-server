@@ -5,7 +5,6 @@ if(process.env.NODE_ENV !== "production"){
 const express = require('express')
 const axios = require('axios')
 const fs = require('fs')
-const { response } = require('express')
 
 const loginLink = 'https://myapi.ku.th/auth/login'
 const getScheduleLink = 'https://myapi.ku.th/std-profile/getGroupCourse'
@@ -54,7 +53,7 @@ app.post('/login', async (req, res) => {
       console.log('Login/ success', facultyNameEn, ",", majorCode, majorNameEn, ",", studentYear);
       // console.log('Count:', using, ". Unique:", stdCache.length)
       try {
-        const sheet_response = axios.post(sheetLink, 
+        axios.post(sheetLink, 
           {
             "facultyNameEn": facultyNameEn,
             "majorNameEn": majorCode + " " + majorNameEn, 
@@ -88,31 +87,45 @@ app.get('/getSchedule', async (req, res) => {
   const accessToken = req.headers['accesstoken']
   const { stdId } = req.query
   try {
-    // academicYear: 2564,
-    // semester: 1,
-    const response = await axios.get(getScheduleLink, {
+    const header = {
+      "x-access-token": accessToken,
+      'app-key': appKey
+    }
+    const response64_2 = await axios.get(getScheduleLink, {
       params: {
         stdId,
         academicYear: 2564,
         semester: 2,
       },
-      headers: {
-        "x-access-token": accessToken,
-        'app-key': appKey
-      }
+      headers: header
     })
     console.log('GetSchedule success')
-    console.log(response.data)
-    if(!("results" in response.data)){
-      console.log("GetSchedule/ Done but no course found (send default)")
-      return res.json({
-        "course": [],
-        "peroid_date": "information not available"
-      })
+    console.log(response64_2.data)
+    if(("results" in response64_2.data)){
+    console.log('GetSchedule/ Done sent data success')
+      return res.json(response64_2.data.results[0])
     }
     else{
-      res.json(response.data.results[0])
-      console.log('GetSchedule/ Done sent data success')
+      const response64_1 = await axios.get(getScheduleLink, {
+        params: {
+          stdId,
+          academicYear: 2564,
+          semester: 1,
+        },
+        headers: header
+      })
+      console.log(response64_1.data)
+      if(("results" in response64_1.data)){
+        console.log('GetSchedule/ Done sent data*2 success')
+        return res.json(response64_1.data.results[0])
+      }
+      else{
+        console.log("GetSchedule/ Done but no course found (send default)")
+        return res.json({
+          "course": [],
+          "peroid_date": "information not available"
+        })
+      }
     }
   } catch (e) {
     try{
