@@ -102,8 +102,8 @@ app.get('/getSchedule', async (req, res) => {
     console.log('GetSchedule success')
     console.log(response64_2.data)
     if(("results" in response64_2.data)){
-      res.json(response64_2.data.results[0])
-      console.log('GetSchedule/ Done sent data success')
+    console.log('GetSchedule/ Done sent data success')
+      return res.json(response64_2.data.results[0])
     }
     else{
       const response64_1 = await axios.get(getScheduleLink, {
@@ -115,9 +115,9 @@ app.get('/getSchedule', async (req, res) => {
         headers: header
       })
       console.log(response64_1.data)
-      if(!("results" in response64_1.data)){
-        res.json(response64_1.data.results[0])
+      if(("results" in response64_1.data)){
         console.log('GetSchedule/ Done sent data*2 success')
+        return res.json(response64_1.data.results[0])
       }
       else{
         console.log("GetSchedule/ Done but no course found (send default)")
