@@ -1311,6 +1311,15 @@
        "hour":"1-0-2",
        "faculty":"Faculty of Science"
     },
+    "01174122":{
+      "type":"Thai_Citizen_and_Global_Citizen",
+      "nameEN":"Recreational Learning through Backpack Traveling",
+      "nameTH":"การเรียนรู้เชิงนันทนาการโดยการเดินทางในต่างประเทศแบบประหยัด",
+      "unit":"3",
+      "hour":"3-0-6",
+      "faculty":"คณะศึกษาศาสตร์",
+      "Message": "Manual Add https://drive.google.com/file/d/1QcwkxxbAL1a0hWPQGy2At8bQQCPB6ZaF/view"
+   },
     "01999013":{
        "type":"Thai_Citizen_and_Global_Citizen",
        "nameEN":"New Age Information Management In Everyday Life",
