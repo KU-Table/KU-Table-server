@@ -513,6 +513,14 @@
       "faculty":"Faculty of Economics?",
       "Message":"Manual Add https://reg.src.ku.ac.th/filet/GenEd64.pdf"
    },
+   "01132101":{
+      "type":"Entrepreneurship",
+      "nameEN":"Modern Entrepreneur",
+      "nameTH":"ผู้ประกอบการรุ่นใหม่",
+      "unit":"3",
+      "hour":"3-0-6",
+      "faculty":"Faculty of Business"
+   },
     "01177141":{
       "type":"Entrepreneurship",
       "nameEN":"Knowledge Acquisition",
