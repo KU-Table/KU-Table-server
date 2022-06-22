@@ -887,6 +887,15 @@
        "hour":"3-0-6",
        "faculty":"Faculty of Humanities"
     },
+    "01355119":{
+       "type":"Language_and_Communication",
+       "nameEN":"Essential English Reading Skills",
+       "nameTH":"ทักษะการอ่านภาษาอังกฤษที่จําเป็น",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities",
+       "Message":"https://reg.src.ku.ac.th/filet/GenEd64.pdf"
+    },
     "01355201":{
        "type":"Language_and_Communication",
        "nameEN":"Fundamental English Reading",
@@ -1444,6 +1453,14 @@
        "nameTH":"พืชเพื่อการสร้างคุณค่าชีวิต",
        "unit":"3",
        "hour":"3-0-6",
+       "faculty":"Faculty of Science"
+    },
+    "01418102":{
+       "type":"Entrepreneurs",
+       "nameEN":"Information Technology for Entrepreneurs",
+       "nameTH":"เทคโนโลยีสารสนเทศเพื่อผู้ประกอบการ",
+       "unit":"3",
+       "hour":"2-2-5",
        "faculty":"Faculty of Science"
     },
     "01418105":{
