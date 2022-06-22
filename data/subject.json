@@ -846,6 +846,15 @@
       "faculty":"Faculty of Humanities",
       "Message": "https://www.facebook.com/ForeignlangKU/photos/pcb.4303414313001992/4303413773002046"
    },
+   "01355109":{
+      "type":"Language_and_Communication",
+      "nameEN":"Essential English Listening-Speaking Skills",
+      "nameTH":"ทักษะการฟัง-การพูดภาษาอังกฤษที่จําเป็น",
+      "unit":"3",
+      "hour":"3-0-6",
+      "faculty":"Faculty of Humanities",
+      "Message": "https://reg.src.ku.ac.th/filet/GenEd64.pdf"
+   },
     "01355112":{
        "type":"Language_and_Communication",
        "nameEN":"Foundation English ll",
