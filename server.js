@@ -91,7 +91,7 @@ app.get('/getSchedule', async (req, res) => {
       "x-access-token": accessToken,
       'app-key': appKey
     }
-    const response64_2 = await axios.get(getScheduleLink, {
+    const response65_1 = await axios.get(getScheduleLink, {
       params: {
         stdId,
         academicYear: 2565,
@@ -100,13 +100,13 @@ app.get('/getSchedule', async (req, res) => {
       headers: header
     })
     console.log('GetSchedule success')
-    console.log(response64_2.data)
-    if(("results" in response64_2.data)){
-    console.log('GetSchedule/ Done sent data success')
-      return res.json(response64_2.data.results[0])
+    console.log(response65_1.data)
+    if(("results" in response65_1.data)){
+      console.log('GetSchedule/ Done sent data success')
+      return res.json(response65_1.data.results[0])
     }
     else{
-      const response64_1 = await axios.get(getScheduleLink, {
+      const response64_2 = await axios.get(getScheduleLink, {
         params: {
           stdId,
           academicYear: 2564,
@@ -114,10 +114,10 @@ app.get('/getSchedule', async (req, res) => {
         },
         headers: header
       })
-      console.log(response64_1.data)
-      if(("results" in response64_1.data)){
+      console.log(response64_2.data)
+      if(("results" in response64_2.data)){
         console.log('GetSchedule/ Done sent data*2 success')
-        return res.json(response64_1.data.results[0])
+        return res.json(response64_2.data.results[0])
       }
       else{
         console.log("GetSchedule/ Done but no course found (send default)")
@@ -128,9 +128,13 @@ app.get('/getSchedule', async (req, res) => {
       }
     }
   } catch (e) {
+    console.log(e.message)
     try{
-      res.status(e.response.status).json(e)
-      console.log("GetSchedule/ Fail, success ku api")
+      console.log("GetSchedule/ Fail, success ku api  Send blank table")
+      return res.json({
+        "course": [],
+        "peroid_date": "information not available (Fail to GetSchedule/)"
+      })
     } catch {
       res.status(400).json({"code": "bad request"})
       console.log("GetSchedule/ Fail, unsuccess ku api")
