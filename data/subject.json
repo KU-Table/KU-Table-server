@@ -384,6 +384,14 @@
        "hour":"3-0-6",
        "faculty":"Faculty of Humanities"
     },
+    "01387105":{
+       "type":"Entrepreneurship",
+       "nameEN":"Buddhist Ethics of Business Operations",
+       "nameTH":"พุทธจริยศาสตร์ในการดำเนินธุรกิจ",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":""
+    },
     "01459101":{
        "type":"Wellness",
        "nameEN":"Psychology for Modern Life",
