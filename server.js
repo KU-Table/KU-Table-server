@@ -94,8 +94,8 @@ app.get('/getSchedule', async (req, res) => {
     const response64_2 = await axios.get(getScheduleLink, {
       params: {
         stdId,
-        academicYear: 2564,
-        semester: 2,
+        academicYear: 2565,
+        semester: 1,
       },
       headers: header
     })
@@ -110,7 +110,7 @@ app.get('/getSchedule', async (req, res) => {
         params: {
           stdId,
           academicYear: 2564,
-          semester: 1,
+          semester: 2,
         },
         headers: header
       })
