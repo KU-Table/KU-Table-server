@@ -255,4 +255,17 @@ app.get('/getData', async (req, res) => {
   }
 })
 
+app.get('/geUpdatedNote', async (req, res) => {
+  res.status(200).json({
+    "updated": [
+      "[Jun 22, 2022] update table to semester 2565-1",
+      "[Jun 22, 2022] new subject: 01355119 ทักษะการอ่านภาษาอังกฤษที่จําเป็น Language_and_Communication",
+      "[Jun 22, 2022] new subject: 01355109 ทักษะการฟัง-การพูดภาษาอังกฤษที่จําเป็น Language_and_Communication",
+      "[Jun 22, 2022] new subject: 01418102 เทคโนโลยีสารสนเทศเพื่อผู้ประกอบการ Entrepreneurs",
+      "[Jun 22, 2022] new subject: 01387105 พุทธจริยศาสตร์ในการดำเนินธุรกิจ Entrepreneurs",
+      "[Nov 29, 2021] new subject: 01132101 ผู้ประกอบการรุ่นใหม่ Entrepreneurs"
+    ]
+  })
+})
+
 app.listen(process.env.PORT, () => console.log('Connected'))
