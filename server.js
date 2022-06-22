@@ -255,7 +255,7 @@ app.get('/getData', async (req, res) => {
   }
 })
 
-app.get('/geUpdatedNote', async (req, res) => {
+app.get('/getUpdatedNote', async (req, res) => {
   res.status(200).json({
     "updated": [
       "[Jun 22, 2022] update table to semester 2565-1",
