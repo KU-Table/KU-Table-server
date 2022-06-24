@@ -197,7 +197,7 @@ app.get('/getGenEd', async (req, res) => {
   const accessToken = req.headers['accesstoken']
   const { majorCode, stdCode } = req.query
   
-  mockGenEd_For_Bug = {
+  const mockGenEd_For_Bug = {
    "Wellness":{
       "done":0,
       "need":0,
@@ -217,13 +217,13 @@ app.get('/getGenEd', async (req, res) => {
       "done":0,
       "need":0,
       "subjects":[]
-   }
+   },
    "Aesthetics":{
       "done":0,
       "need":0,
       "subjects":[]
    }
-}
+  }
   
   try{
     const needUnit = await getNeedUnit(majorCode)
