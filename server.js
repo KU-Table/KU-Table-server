@@ -197,6 +197,34 @@ app.get('/getGenEd', async (req, res) => {
   const accessToken = req.headers['accesstoken']
   const { majorCode, stdCode } = req.query
   
+  mockGenEd_For_Bug = {
+   "Wellness":{
+      "done":0,
+      "need":0,
+      "subjects":[]
+   },
+   "Entrepreneurship":{
+      "done":0,
+      "need":0,
+      "subjects":[]
+   },
+   "Thai_Citizen_and_Global_Citizen":{
+      "done":0,
+      "need":0,
+      "subjects":[]
+   },
+   "Language_and_Communication":{
+      "done":0,
+      "need":0,
+      "subjects":[]
+   }
+   "Aesthetics":{
+      "done":0,
+      "need":0,
+      "subjects":[]
+   }
+}
+  
   try{
     const needUnit = await getNeedUnit(majorCode)
     // console.log(`checkGrades - getGenEd for ${majorCode}`)
@@ -238,10 +266,11 @@ app.get('/getGenEd', async (req, res) => {
   catch (e) {
     try{
       console.log(e.response.status, e.response.statusText)
-      res.status(e.response.status).json({"msg": e.response.statusText})
+      // res.status(e.response.status).json({"msg": e.response.statusText})
+      res.json(mockGenEd_For_Bug)
       console.log("GetGenEd/ Fail, success call ku api")
     } catch (er) {
-      res.status(400).json({"msg": "fail to getGenEd"})
+      res.json(mockGenEd_For_Bug)
       console.log("GetGenEd/ Fail, unsuccess call ku api")
     }
   }
