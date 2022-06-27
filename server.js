@@ -85,7 +85,12 @@ app.post('/login', async (req, res) => {
 })
 
 app.get('/getSchedule', async (req, res) => {
-  const accessToken = req.headers['Authorization'].split(' ')[0]
+  const authHeader = req.headers['Authorization']
+  let accessToken;
+  if (authHeader) {
+    accessToken = req.headers['Authorization'].split(' ')[0]
+  }
+  
   const { stdId } = req.query
   try {
     const header = {
