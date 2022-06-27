@@ -129,6 +129,7 @@ app.get('/getSchedule', async (req, res) => {
       }
     }
   } catch (e) {
+    console.log(e)
     try{
       res.status(e.response.status).json(e)
       console.log("GetSchedule/ Fail, success ku api")
