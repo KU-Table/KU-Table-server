@@ -211,30 +211,36 @@ app.get('/getGenEd', async (req, res) => {
       }
     })
     console.log("GetGenEd/ checkGrades code from ku:", response.data.code)
-    
-    for(const year of response.data.results){
+    if (!response.data.results) {
+      console.log(response.data.message);
+    }
+    else {
+      for(const year of response.data.results){
       // console.log(year.grade)
-      for(const sub of year.grade){
-      
-        // console.log(sub.subject_code, sub.grade)
-        const subject = await getSubject(sub.subject_code)
-        // console.log(subject)
-        if (sub.grade != 'W' && subject) {
-          result[subject.type].done += sub.credit
-          result[subject.type].subjects.push(sub)
+        for(const sub of year.grade){
+        
+          // console.log(sub.subject_code, sub.grade)
+          const subject = await getSubject(sub.subject_code)
+          // console.log(subject)
+          if (sub.grade != 'W' && subject) {
+            result[subject.type].done += sub.credit
+            result[subject.type].subjects.push(sub)
+          }
         }
       }
     }
+    
 
     res.status(200).json(
       result
     )
-    console.log("GetGenEd/ Done. semester:", response.data.results.length)
+    console.log("GetGenEd/ Done. semester:", response.data.results?.length)
   }
   catch (e) {
+    // console.log(e)
     try{
       console.log(e.response.status, e.response.statusText)
-      res.status(e.response.status).json({"msg": e.response.statusText})
+      res.status(+e.response.status || 500).json({"msg": e.response.statusText})
       console.log("GetGenEd/ Fail, success call ku api")
     } catch (er) {
       res.status(400).json({"msg": "fail to getGenEd"})
