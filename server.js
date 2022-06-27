@@ -247,7 +247,7 @@ app.get('/getGenEd', async (req, res) => {
       res.status(+e.response.status || 500).json({"msg": e.response.statusText})
       console.log("GetGenEd/ Fail, success call ku api")
     } catch (er) {
-      res.json(mockGenEd_For_Bug)
+      res.status(400).json({"msg": "fail to getGenEd"})
       console.log("GetGenEd/ Fail, unsuccess call ku api")
     }
   }
