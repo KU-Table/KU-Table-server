@@ -84,7 +84,11 @@ app.post('/login', async (req, res) => {
 })
 
 app.get('/getSchedule', async (req, res) => {
-  const accessToken = req.headers['accesstoken']
+  const authHeader = req.headers['Authorization']
+  let accessToken;
+  if (authHeader) {
+    accessToken = authHeader.split(' ')[1]
+  }
   const { stdId } = req.query
   try {
     const header = {
@@ -194,7 +198,11 @@ app.get('/getGenEd', async (req, res) => {
   //  - x-access-token
   //  - stdCode - idcode # optional
   
-  const accessToken = req.headers['accesstoken']
+  const authHeader = req.headers['Authorization']
+  let accessToken;
+  if (authHeader) {
+    accessToken = authHeader.split(' ')[1]
+  }
   const { majorCode, stdCode } = req.query
   
   try{
