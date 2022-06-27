@@ -44,6 +44,7 @@ app.post('/login', async (req, res) => {
     // using = using + 1;
     const student = response.data.user.student
     const { studentYear, facultyNameEn, majorNameEn, stdId, majorCode } = student
+    console.log(response.data)
     
     // if (stdCache.indexOf(stdId) <= -1){
     //   stdCache.push(stdId);
@@ -200,7 +201,7 @@ app.get('/getGenEd', async (req, res) => {
     // console.log(needUnit['Wellness'])
     
     let result = await getResultBlock(needUnit)
-
+    console.log("pass res @203")
     const response = await axios.get(checkGradesLink, {
       headers: {
         'app-key': 'txCR5732xYYWDGdd49M3R19o1OVwdRFc',
@@ -210,6 +211,8 @@ app.get('/getGenEd', async (req, res) => {
         'idcode': stdCode
       }
     })
+    console.log("pass res ku @213")
+    console.log(response.data)
     console.log("GetGenEd/ checkGrades code from ku:", response.data.code)
     
     for(const year of response.data.results){
@@ -225,13 +228,17 @@ app.get('/getGenEd', async (req, res) => {
         }
       }
     }
-
+    console.log("pass at set sub @230")
+    console.log("result @231")
+    console.log(result)
     res.status(200).json(
       result
     )
     console.log("GetGenEd/ Done. semester:", response.data.results.length)
   }
   catch (e) {
+    console.log("catch e at 235")
+    console.log(e.response)
     try{
       console.log(e.response.status, e.response.statusText)
       res.status(e.response.status).json({"msg": e.response.statusText})
