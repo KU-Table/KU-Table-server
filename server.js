@@ -5,12 +5,13 @@ if(process.env.NODE_ENV !== "production"){
 const express = require('express')
 const axios = require('axios')
 const fs = require('fs')
+const crypto = require('crypto')
 
 const loginLink = 'https://myapi.ku.th/auth/login'
 const getScheduleLink = 'https://myapi.ku.th/std-profile/getGroupCourse'
 const checkGradesLink = 'https://myapi.ku.th/std-profile/checkGrades'
 const sheetLink = process.env.SHEET_LINK
-
+const kuPublicKey = process.env.KU_PUBLIC_KEY
 const appKey = process.env.APP_KEY
 
 const app = express()
@@ -36,7 +37,11 @@ app.use(express.json())
 
 app.post('/login', async (req, res) => {
   try {
-    const response = await axios.post(loginLink, req.body, {
+    const encodedBody = {
+      username: encodeString(req.body.username),
+      password: encodeString(req.body.password)
+    }
+    const response = await axios.post(loginLink, encodedBody, {
       headers: {
         'app-key': appKey
       }
@@ -141,6 +146,18 @@ app.get('/getSchedule', async (req, res) => {
     }
   }
 })
+
+const encodeString = (data) => {
+  return crypto
+      .publicEncrypt(
+          {
+              key: kuPublicKey,
+              padding: crypto.constants.RSA_PKCS1_OAEP_PADDING,
+          },
+          Buffer.from(data, "utf8")
+      )
+      .toString("base64");
+};
 
 const getNeedUnit = async (majorCode) => {
   let raw_major = fs.readFileSync('./data/genEd.json')
