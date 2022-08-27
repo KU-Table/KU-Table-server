@@ -11,7 +11,7 @@ const loginLink = 'https://myapi.ku.th/auth/login'
 const getScheduleLink = 'https://myapi.ku.th/std-profile/getGroupCourse'
 const checkGradesLink = 'https://myapi.ku.th/std-profile/checkGrades'
 const sheetLink = process.env.SHEET_LINK
-const kuPublicKey = process.env.KU_PUBLIC_KEY
+const kuPublicKey = process.env.KU_PUBLIC_KEY.replace(/\\n/gm, '\n')
 const appKey = process.env.APP_KEY
 
 const app = express()
