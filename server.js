@@ -96,33 +96,33 @@ app.get('/getSchedule', async (req, res) => {
       "x-access-token": accessToken,
       'app-key': appKey
     }
-    const response65_1 = await axios.get(getScheduleLink, {
+    const response65_2 = await axios.get(getScheduleLink, {
       params: {
         stdId,
         academicYear: 2565,
-        semester: 1,
+        semester: 2,
       },
       headers: header
     })
     console.log('GetSchedule success')
-    console.log(response65_1.data)
-    if(("results" in response65_1.data)){
+    console.log(response65_2.data)
+    if(("results" in response65_2.data)){
       console.log('GetSchedule/ Done sent data success')
-      return res.json(response65_1.data.results[0])
+      return res.json(response65_2.data.results[0])
     }
     else{
-      const response64_2 = await axios.get(getScheduleLink, {
+      const response65_1 = await axios.get(getScheduleLink, {
         params: {
           stdId,
-          academicYear: 2564,
-          semester: 2,
+          academicYear: 2565,
+          semester: 1,
         },
         headers: header
       })
-      console.log(response64_2.data)
-      if(("results" in response64_2.data)){
+      console.log(response65_1.data)
+      if(("results" in response65_1.data)){
         console.log('GetSchedule/ Done sent data*2 success')
-        return res.json(response64_2.data.results[0])
+        return res.json(response65_1.data.results[0])
       }
       else{
         console.log("GetSchedule/ Done but no course found (send default)")
