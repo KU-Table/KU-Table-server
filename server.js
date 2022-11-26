@@ -82,12 +82,12 @@ app.post('/login', async (req, res) => {
             {
               headers: {
                 'app-key': 'txCR5732xYYWDGdd49M3R19o1OVwdRFc',
-                'x-access-token': accessToken
+                'x-access-token': response.data.accesstoken
               },
             }
           )
         } catch (e) {
-          console.log("PublicCBP err: ", e.status)
+          console.log("PublicCBP err: ", e)
         }
       }
     }
