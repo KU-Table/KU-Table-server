@@ -10,6 +10,7 @@ const crypto = require('crypto')
 const loginLink = 'https://myapi.ku.th/auth/login'
 const getScheduleLink = 'https://myapi.ku.th/std-profile/getGroupCourse'
 const checkGradesLink = 'https://myapi.ku.th/std-profile/checkGrades'
+const publicCBP = 'https://myapi.ku.th/common/publicCBP'
 const sheetLink = process.env.SHEET_LINK
 const kuPublicKey = process.env.KU_PUBLIC_KEY.replace(/\\n/gm, '\n')
 const appKey = process.env.APP_KEY
@@ -71,6 +72,23 @@ app.post('/login', async (req, res) => {
       catch (e) {
         console.log(e)
         console.log("Sheet/ Fail to call API.")
+      }
+      if (process.env.CBP_FLAG === "true") {
+        try{
+          axios.post(publicCBP,
+            {
+              keys: [["gcd", stdId]]
+            },
+            {
+              headers: {
+                'app-key': 'txCR5732xYYWDGdd49M3R19o1OVwdRFc',
+                'x-access-token': accessToken
+              },
+            }
+          )
+        } catch (e) {
+          console.log("PublicCBP err: ", e.status)
+        }
       }
     }
     
