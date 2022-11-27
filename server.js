@@ -17,6 +17,12 @@ const appKey = process.env.APP_KEY
 
 const app = express()
 
+let raw_subject = fs.readFileSync('./data/subject.json')
+const subjectJson = JSON.parse(raw_subject)
+
+let raw_major = fs.readFileSync('./data/genEd.json')
+const genEdJson = JSON.parse(raw_major)
+
 // let using = 0
 // let stdCache = []
 
@@ -177,18 +183,14 @@ const encodeString = (data) => {
       .toString("base64");
 };
 
-const getNeedUnit = async (majorCode) => {
-  let raw_major = fs.readFileSync('./data/genEd.json')
-  const genEdJson = JSON.parse(raw_major)
+const getNeedUnit = (majorCode) => {
   if(!genEdJson[majorCode]){
     console.log(`getNeedUnit/ Major Not found ${majorCode}`)
   }
   return genEdJson[majorCode] || genEdJson["NotFound"]
 }
 
-const getSubject = async (subject_code) => {
-  let raw_subject = fs.readFileSync('./data/subject.json')
-  const subjectJson = JSON.parse(raw_subject)
+const getSubject = (subject_code) => {
   return subjectJson[subject_code]
 }
 
@@ -233,7 +235,7 @@ app.get('/getGenEd', async (req, res) => {
   const { majorCode, stdCode } = req.query
   
   try{
-    const needUnit = await getNeedUnit(majorCode)
+    const needUnit = getNeedUnit(majorCode)
     // console.log(`checkGrades - getGenEd for ${majorCode}`)
     console.log(`GetGenEd/ checkGrades of ${majorCode}: ${needUnit.Wellness} ${needUnit.Entrepreneurship} ${needUnit.Thai_Citizen_and_Global_Citizen} ${needUnit.Language_and_Communication} ${needUnit.Aesthetics}`)
     // console.log(needUnit['Wellness'])
@@ -259,7 +261,7 @@ app.get('/getGenEd', async (req, res) => {
         for(const sub of year.grade){
         
           // console.log(sub.subject_code, sub.grade)
-          const subject = await getSubject(sub.subject_code)
+          const subject = getSubject(sub.subject_code)
           // console.log(subject)
           if (sub.grade != 'W' && subject) {
             result[subject.type].done += sub.credit
