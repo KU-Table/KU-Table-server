@@ -1331,8 +1331,8 @@
     },
     "01371111":{
        "type":"Language_and_Communication",
-       "nameEN":"Information Media",
-       "nameTH":"สื่อสารสนเทศ",
+       "nameEN":"Information Media for Learning",
+       "nameTH":"สื่อสารสนเทศเพื่อการเรียนรู้",
        "unit":"1",
        "hour":"1-0-2",
        "faculty":"Faculty of Humanities"
@@ -1455,6 +1455,14 @@
        "hour":"3-0-6",
        "faculty":"Faculty of Science"
     },
+    "01418101":{
+      "type":"Language_and_Communication",
+      "nameEN":"Computer Applications",
+      "nameTH":"การใช้งานคอมพิวเตอร์",
+      "unit":"1",
+      "hour":"0-2-1",
+      "faculty":"Faculty of Science"
+   },
     "01418102":{
        "type":"Entrepreneurship",
        "nameEN":"Information Technology for Entrepreneurship",
@@ -1463,6 +1471,14 @@
        "hour":"2-2-5",
        "faculty":"Faculty of Science"
     },
+    "01418104":{
+      "type":"Language_and_Communication",
+      "nameEN":"IT Updates",
+      "nameTH":"รู้ทันไอที",
+      "unit":"2",
+      "hour":"2-0-4",
+      "faculty":"Faculty of Science"
+   },
     "01418105":{
        "type":"Aesthetics",
        "nameEN":"Digital Creative Arts",
@@ -1471,6 +1487,14 @@
        "hour":"2-2-5",
        "faculty":"Faculty of Science"
     },
+    "01418106":{
+      "type":"Language_and_Communication",
+      "nameEN":"Digital Technology Skills",
+      "nameTH":"ทักษะเทคโนโลยีดิจิทัล",
+      "unit":"3",
+      "hour":"2-2-5",
+      "faculty":"Faculty of Science"
+   },
     "01420201":{
        "type":"Aesthetics",
        "nameEN":"Gems and Jewelry",
@@ -1519,6 +1543,14 @@
        "hour":"3-0-6",
        "faculty":"Faculty of Engineering Sri Racha Campus"
     },
+    "03600013":{
+      "type":"Language_and_Communication",
+      "nameEN":"Essential Computer Tools and Skills",
+      "nameTH":"เครื่องมือและทักษะทางคอมพิวเตอร์ที่จําเป็น",
+      "unit":"1",
+      "hour":"0-3-2",
+      "faculty":"Faculty of Engineering Sri Racha Campus"
+   },
     "03751111":{
        "type":"Thai_Citizen_and_Global_Citizen",
        "nameEN":"Man and Environment",
