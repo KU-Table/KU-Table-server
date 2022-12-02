@@ -7,6 +7,14 @@
        "hour":"0-2-1",
        "faculty":"Faculty of Education"
     },
+    "01testt":{
+      "type":"Entrepreneurship",
+      "nameEN":"Modern Entrepreneur",
+      "nameTH":"ผู้ประกอบการรุ่นใหม่",
+      "unit":"3",
+      "hour":"3-0-6",
+      "faculty":"Faculty of Business"
+   },
     "01175112":{
        "type":"Wellness",
        "nameEN":"Badminton for Health",
