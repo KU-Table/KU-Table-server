@@ -529,6 +529,14 @@
       "hour":"3-0-6",
       "faculty":"Faculty of Business"
    },
+   "01131111":{
+      "type":"Entrepreneurship",
+      "nameEN":"Finance for Entrepreneurs",
+      "nameTH":"การเงินสำหรับผู้ประกอบการ",
+      "unit":"3",
+      "hour":"3-0-6",
+      "faculty":"Faculty of Business"
+   },
     "01177141":{
       "type":"Entrepreneurship",
       "nameEN":"Knowledge Acquisition",
