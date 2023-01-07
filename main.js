@@ -1,12 +1,5 @@
 const t_json = require('./t.json')
 
-// console.log(t_json)
-// console.log(t_json.results.flat(Infinity))
-
-// t_json.reduce((year) => {
-    
-// })
-
 let countW = 0, countP = 0, count = 0
 
 for(const year of t_json.results){
