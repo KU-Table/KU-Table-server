@@ -56,11 +56,11 @@
       "Aesthetics": 3
     },
     "A20": {
-      "Wellness": 0,
-      "Entrepreneurship": 0,
-      "Thai_Citizen_and_Global_Citizen": 0,
-      "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Wellness": 4,
+      "Entrepreneurship": 5,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
     },
     "B00": {
       "Wellness": 3,
