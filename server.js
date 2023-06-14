@@ -124,14 +124,14 @@ app.get('/getSchedule', async (req, res) => {
       params: {
         stdId,
         academicYear: 2566,
-        semester: 1,
+        semester: 0,
       },
       headers: header
     })
     console.log('GetSchedule success')
     console.log(response65_2.data)
     if(("results" in response65_2.data)){
-      console.log('GetSchedule/ Done sent data success')
+      console.log('GetSchedule/ Done sent data success SUMMER')
       return res.json(response65_2.data.results[0])
     }
     else{
