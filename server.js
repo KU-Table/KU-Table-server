@@ -131,21 +131,21 @@ app.get('/getSchedule', async (req, res) => {
     console.log('GetSchedule success')
     console.log(response_now.data)
     if(("results" in response_now.data)){
-      console.log('GetSchedule/ Done sent data success SUMMER')
+      console.log('GetSchedule/ Done sent data success 2566/1')
       return res.json(response_now.data.results[0])
     }
     else{
       const response_last = await axios.get(getScheduleLink, {
         params: {
           stdId,
-          academicYear: 2566,
-          semester: 0,
+          academicYear: 2565,
+          semester: 2,
         },
         headers: header
       })
       console.log(response_last.data)
       if(("results" in response_last.data)){
-        console.log('GetSchedule/ Done sent data*2 success')
+        console.log('GetSchedule/ Done sent data*2 success 2565/2')
         return res.json(response_last.data.results[0])
       }
       else{
