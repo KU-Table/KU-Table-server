@@ -20,7 +20,7 @@ const app = express()
 let raw_subject = fs.readFileSync('./data/subject.json')
 const subjectJson = JSON.parse(raw_subject)
 
-let raw_major = fs.readFileSync('./data/genEd.json')
+let raw_major = fs.readFileSync('./data/newGenEd.json')
 const genEdJson = JSON.parse(raw_major)
 
 // let using = 0
@@ -37,6 +37,7 @@ app.use( (req, res, next) => {
   }
   else {
     next();
+    console.log('hi')
   }
 })
 
@@ -183,10 +184,29 @@ const encodeString = (data) => {
       .toString("base64");
 };
 
-const getNeedUnit = (majorCode) => {
+const getNeedUnit = (majorCode, stdCode) => {
   if(!genEdJson[majorCode]){
     console.log(`getNeedUnit/ Major Not found ${majorCode}`)
+    return genEdJson["NotFound"]
   }
+  try {
+    const stdYear = stdCode.substring(0, 2)
+    // 60 65
+    // 64 -> 60
+    // 65 -> 65
+    var lastest = 60
+    for (const year in genEdJson[majorCode]) {
+      if (year <= parseInt(stdYear)) {
+        lastest = year
+      }
+    }
+    return genEdJson[majorCode][lastest]
+  }
+  catch {
+    console.log("throw 60")
+    return genEdJson[majorCode]["60"]
+  }
+  
   return genEdJson[majorCode] || genEdJson["NotFound"]
 }
 
@@ -235,7 +255,7 @@ app.get('/getGenEd', async (req, res) => {
   const { majorCode, stdCode } = req.query
   
   try{
-    const needUnit = getNeedUnit(majorCode)
+    const needUnit = getNeedUnit(majorCode, stdCode)
     // console.log(`checkGrades - getGenEd for ${majorCode}`)
     console.log(`GetGenEd/ checkGrades of ${majorCode}: ${needUnit.Wellness} ${needUnit.Entrepreneurship} ${needUnit.Thai_Citizen_and_Global_Citizen} ${needUnit.Language_and_Communication} ${needUnit.Aesthetics}`)
     // console.log(needUnit['Wellness'])
@@ -278,7 +298,7 @@ app.get('/getGenEd', async (req, res) => {
     console.log("GetGenEd/ Done. semester:", response.data.results?.length)
   }
   catch (e) {
-    // console.log(e)
+    console.log(e)
     try{
       console.log(e.response.status, e.response.statusText)
       res.status(+e.response.status || 500).json({"msg": e.response.statusText})

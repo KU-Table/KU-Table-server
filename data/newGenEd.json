@@ -1,0 +1,1197 @@
+{
+  "A04": {
+    "60": {
+      "Wellness": 4,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 5
+    }
+  },
+  "A08": {
+    "60": {
+      "Wellness": 4,
+      "Entrepreneurship": 5,
+      "Thai_Citizen_and_Global_Citizen": 4,
+      "Language_and_Communication": 13,
+      "Aesthetics": 4
+    }
+  },
+  "A11": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    }
+  },
+  "A13": {
+    "60": {
+      "Wellness": 4,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 5
+    }
+  },
+  "A15": {
+    "60": {
+      "Wellness": 4,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 5
+    }
+  },
+  "A17": {
+    "60": {
+      "Wellness": 4,
+      "Entrepreneurship": 4,
+      "Thai_Citizen_and_Global_Citizen": 3,
+      "Language_and_Communication": 13,
+      "Aesthetics": 6
+    }
+  },
+  "A18": {
+    "60": {
+      "Wellness": 4,
+      "Entrepreneurship": 5,
+      "Thai_Citizen_and_Global_Citizen": 4,
+      "Language_and_Communication": 13,
+      "Aesthetics": 4
+    }
+  },
+  "A19": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 5,
+      "Thai_Citizen_and_Global_Citizen": 6,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "A20": {
+    "60": {
+      "Wellness": 4,
+      "Entrepreneurship": 5,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "B00": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "B01": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "B02": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "B03": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "B04": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "B05": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "C00": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "C02": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    }
+  },
+  "C04": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    }
+  },
+  "C05": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    }
+  },
+  "C07": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    }
+  },
+  "C08": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    }
+  },
+  "C09": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    }
+  },
+  "C10": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    }
+  },
+  "C11": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    }
+  },
+  "C12": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    }
+  },
+  "C31": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0,
+      "Message": "https://eduserv.ku.ac.th//academics%202008/PDF/ku/forest/CS_B.S.Wood.Technology_54.pdf"
+    }
+  },
+  "C32": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0,
+      "Message": "https://eduserv.ku.ac.th//academics%202008/PDF/ku/forest/CS_B.S.Paper.Technology_55.pdf"
+    }
+  },
+  "C33": {
+    "60": {
+      "Wellness": 5,
+      "Entrepreneurship": 4,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "D01": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "D02": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "D03": {
+    "60": {
+      "Wellness": 4,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 5
+    }
+  },
+  "D04": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "D06": {
+    "60": {
+      "Wellness": 5,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 6,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "D07": {
+    "60": {
+      "Wellness": 5,
+      "Entrepreneurship": 4,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "D09": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "D10": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "D11": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 6
+    }
+  },
+  "D12": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    }
+  },
+  "D13": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "D14": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 3,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "D16": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "D17": {
+    "60": {
+      "Wellness": 5,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 6,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "D18": {
+    "60": {
+      "Wellness": 5,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 6,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "D19": {
+    "60": {
+      "Wellness": 5,
+      "Entrepreneurship": 14,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "D20": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "D32": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0,
+      "Message": "เตรียมแพทย์ปี1 คณะวิทย์"
+    }
+  },
+  "E03": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "E05": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "E06": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "E08": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "E09": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    },
+    "65": {
+      "Wellness": 7,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 2,
+      "Language_and_Communication": 15,
+      "Aesthetics": 3
+    }
+  },
+  "E10": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "E11": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "E13": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "E14": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "E16": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "E17": {
+    "60": {
+      "Wellness": 4,
+      "Entrepreneurship": 5,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "E18": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "E21": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "E22": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "E23": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 5,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "E26": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "E27": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "E28": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "E35": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0,
+      "Message": "วิศวะภาครวม รอเลือกภาคก่อนนะ TT"
+    }
+  },
+  "F11": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    }
+  },
+  "F12": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    }
+  },
+  "F14": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    }
+  },
+  "F16": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    }
+  },
+  "F17": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    }
+  },
+  "F18": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "F21": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "F26": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "G01": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "G02": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "G03": {
+    "60": {
+      "Wellness": 4,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 8,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "G04": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "G05": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "G06": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "G11": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "G12": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "G21": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "H01": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 8,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "H02": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "H03": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 8,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "H04": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 6
+    }
+  },
+  "H06": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 8,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "H07": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 8,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "H08": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 8,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "H09": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 8,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "I00": {
+    "60": {
+      "Wellness": 4,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 7,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "K01": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    }
+  },
+  "K02": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    }
+  },
+  "K03": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "K04": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "K05": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    }
+  },
+  "K07": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    }
+  },
+  "K41": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    }
+  },
+  "L02": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 8,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "L32": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "L33": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 6
+    }
+  },
+  "L34": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 6
+    }
+  },
+  "L35": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "L36": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0,
+      "Message": "https://eduserv.ku.ac.th//academics%202008/PDF/ku/human/CS_B.A.Chinese_58.pdf"
+    }
+  },
+  "L50": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "L71": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0,
+      "Message": "http://cai.human.ku.ac.th/pdf/academic/b_degree.pdf"
+    }
+  },
+  "L72": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "L73": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "L81": {
+    "60": {
+      "Wellness": 7,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "L85": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "L86": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "L87": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 4,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 5
+    }
+  },
+  "L88": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "L89": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 4,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 5
+    }
+  },
+  "L92": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 4,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 5
+    }
+  },
+  "R01": {
+    "60": {
+      "Wellness": 4,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 6
+    }
+  },
+  "R02": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0,
+      "Message": "ข้อมูลงงมาก ไม่มั่นใจ"
+    }
+  },
+  "R03": {
+    "60": {
+      "Wellness": 4,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 6
+    }
+  },
+  "N01": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "N02": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "N03": {
+    "60": {
+      "Wellness": 4,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 6,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "N04": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 6
+    }
+  },
+  "N05": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 6
+    }
+  },
+  "P01": {
+    "60": {
+      "Wellness": 4,
+      "Entrepreneurship": 5,
+      "Thai_Citizen_and_Global_Citizen": 4,
+      "Language_and_Communication": 13,
+      "Aesthetics": 4
+    }
+  },
+  "P02": {
+    "60": {
+      "Wellness": 6,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "Q03": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 3,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3,
+      "Message": "5 หน่วยเพิ่ม ยกเว้นภาษาและสื่อสาร"
+    }
+  },
+  "Q10": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 6,
+      "Message": "data from Line DM"
+    }
+  },
+  "T01": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "T02": {
+    "60": {
+      "Wellness": 3,
+      "Entrepreneurship": 6,
+      "Thai_Citizen_and_Global_Citizen": 5,
+      "Language_and_Communication": 13,
+      "Aesthetics": 3
+    }
+  },
+  "T22": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    }
+  },
+  "NotFound": {
+    "60": {
+      "Wellness": 0,
+      "Entrepreneurship": 0,
+      "Thai_Citizen_and_Global_Citizen": 0,
+      "Language_and_Communication": 0,
+      "Aesthetics": 0
+    }
+  }
+}
