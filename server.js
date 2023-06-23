@@ -105,8 +105,10 @@ app.post('/login', async (req, res) => {
   } catch (e) {
     try{
       res.status(e.response.status).json(e)
+      console.log(response.data)
       console.log("Login/ Fail, success ku api: ", e.message)
     } catch {
+      console.log(response.data)
       res.status(400).json({"code" :"Fail to login"})
       console.log("Login/ Fail, unsuccess ku api", e.message)
     }
