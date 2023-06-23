@@ -299,7 +299,6 @@ app.get('/getGenEd', async (req, res) => {
   catch (e) {
     console.log(e)
     try{
-      console.log(e.response.status, e.response.statusText)
       res.status(+e.response.status || 500).json({"msg": e.response.statusText})
       console.log("GetGenEd/ Fail, success call ku api")
     } catch (er) {
@@ -322,6 +321,7 @@ app.get('/getData', async (req, res) => {
 })
 
 app.get('/getUpdatedNote', async (req, res) => {
+  console.log("GetUpdatedNote")
   res.status(200).json({
     "updated": [
       "[Jun 22, 2022] update table to semester 2565-1",
