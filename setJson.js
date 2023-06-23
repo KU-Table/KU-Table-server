@@ -3,7 +3,6 @@ const fs = require('fs')
 let raw_data = fs.readFileSync('./subt.json');
 const genEdJson = JSON.parse(raw_data)
 
-// console.log(genEdJson)
 
 let new_json = {}
 
