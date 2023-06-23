@@ -44,6 +44,7 @@ app.use(express.json())
 
 app.post('/login', async (req, res) => {
   try {
+    console.log(req.body.username)
     const encodedBody = {
       username: encodeString(req.body.username),
       password: encodeString(req.body.password)
