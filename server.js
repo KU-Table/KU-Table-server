@@ -292,7 +292,10 @@ app.get('/getGenEd', async (req, res) => {
     console.log("GetGenEd/ Done. semester:", response.data.results?.length)
   }
   catch (e) {
-    console.log(e)
+    console.log({
+      status: e.response.status,
+      data: e.response.data
+    })
     try{
       res.status(+e.response.status || 500).json({"msg": e.response.statusText})
       console.log("GetGenEd/ Fail, success call ku api")
