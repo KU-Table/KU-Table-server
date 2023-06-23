@@ -104,10 +104,10 @@ app.post('/login', async (req, res) => {
   } catch (e) {
     try{
       res.status(e.response.status).json(e)
-      console.log("Login/ Fail, success ku api")
+      console.log("Login/ Fail, success ku api: ", e.message)
     } catch {
       res.status(400).json({"code" :"Fail to login"})
-      console.log("Login/ Fail, unsuccess ku api")
+      console.log("Login/ Fail, unsuccess ku api", e.message)
     }
   }
 })
@@ -297,7 +297,7 @@ app.get('/getGenEd', async (req, res) => {
     console.log("GetGenEd/ Done. semester:", response.data.results?.length)
   }
   catch (e) {
-    console.log(e)
+    console.log(e.message)
     try{
       console.log(e.response.status, e.response.statusText)
       res.status(+e.response.status || 500).json({"msg": e.response.statusText})
