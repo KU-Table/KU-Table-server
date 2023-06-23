@@ -23,15 +23,11 @@ const subjectJson = JSON.parse(raw_subject)
 let raw_major = fs.readFileSync('./data/newGenEd.json')
 const genEdJson = JSON.parse(raw_major)
 
-// let using = 0
-// let stdCache = []
-
 app.use( (req, res, next) => {
   res.header('Access-Control-Allow-Origin', '*');
   res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS');
   res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, Content-Length, X-Requested-With,accesstoken');
 
-  // intercept OPTIONS method
   if ('OPTIONS' == req.method) {
     res.send(200);
   }
@@ -63,7 +59,6 @@ app.post('/login', async (req, res) => {
     
     if (response.data.code == "success") {
       console.log('Login/ success', facultyNameEn, ",", majorCode, majorNameEn, ",", studentYear);
-      // console.log('Count:', using, ". Unique:", stdCache.length)
       try {
         axios.post(sheetLink, 
           {
