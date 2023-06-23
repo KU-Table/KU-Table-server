@@ -59,7 +59,6 @@ app.post('/login', async (req, res) => {
     
     if (response.data.code == "success") {
       console.log('Login/ success', facultyNameEn, ",", majorCode, majorNameEn, ",", studentYear);
-      // console.log('Count:', using, ". Unique:", stdCache.length)
       try {
         axios.post(sheetLink, 
           {
