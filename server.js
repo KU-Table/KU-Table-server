@@ -179,9 +179,10 @@ const encodeString = (data) => {
 };
 
 const getNeedUnit = (majorCode, stdCode) => {
-  if(!genEdJson[majorCode]){
+  const data = genEdJson[majorCode]
+  if(!data){
     console.log(`getNeedUnit/ Major Not found ${majorCode}`)
-    return genEdJson["NotFound"]
+    return [genEdJson["NotFound"]["0"], 0]
   }
   try {
     const stdYear = stdCode.substring(0, 2)
@@ -189,19 +190,19 @@ const getNeedUnit = (majorCode, stdCode) => {
     // 64 -> 60
     // 65 -> 65
     var lastest = 60
-    for (const year in genEdJson[majorCode]) {
+    for (const year in data) {
       if (year <= parseInt(stdYear)) {
         lastest = year
       }
     }
-    return genEdJson[majorCode][lastest]
+    return [data[lastest], lastest]
   }
   catch {
     console.log("throw 60")
-    return genEdJson[majorCode]["60"]
+    return [data["60"], 60]
   }
   
-  return genEdJson[majorCode] || genEdJson["NotFound"]
+  return [genEdJson["NotFound"]["0"], 0]
 }
 
 const getSubject = (subject_code) => {
@@ -235,6 +236,7 @@ const getResultBlock = async (needUnit) => {
       "need": needUnit.Aesthetics,
       "subjects": []
     },
+    "unitYear": 0,
   }
   return result
 }
@@ -249,7 +251,7 @@ app.get('/getGenEd', async (req, res) => {
   const { majorCode, stdCode } = req.query
   
   try{
-    const needUnit = getNeedUnit(majorCode, stdCode)
+    const [needUnit, unitYear] = getNeedUnit(majorCode, stdCode)
     // console.log(`checkGrades - getGenEd for ${majorCode}`)
     console.log(`GetGenEd/ checkGrades of ${majorCode}: ${needUnit.Wellness} ${needUnit.Entrepreneurship} ${needUnit.Thai_Citizen_and_Global_Citizen} ${needUnit.Language_and_Communication} ${needUnit.Aesthetics}`)
     // console.log(needUnit['Wellness'])
@@ -285,6 +287,7 @@ app.get('/getGenEd', async (req, res) => {
       }
     }
     
+    result.unitYear = +unitYear || 0
 
     res.status(200).json(
       result
