@@ -336,11 +336,11 @@
   },
   "D12": {
     "60": {
-      "Wellness": 0,
-      "Entrepreneurship": 0,
-      "Thai_Citizen_and_Global_Citizen": 0,
-      "Language_and_Communication": 0,
-      "Aesthetics": 0
+      "Wellness": 4,
+      "Entrepreneurship": 3,
+      "Thai_Citizen_and_Global_Citizen": 13,
+      "Language_and_Communication": 5,
+      "Aesthetics": 5
     }
   },
   "D13": {
