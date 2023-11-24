@@ -119,7 +119,7 @@ app.get('/getSchedule', async (req, res) => {
       params: {
         stdId,
         academicYear: 2566,
-        semester: 12,
+        semester: 2,
       },
       headers: header
     })
