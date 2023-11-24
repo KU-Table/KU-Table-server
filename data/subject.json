@@ -56,6 +56,15 @@
        "faculty":"Faculty of Education",
        "Message": "Manual Add"
     },
+    "01175119":{
+      "type":"Wellness",
+      "nameEN":"Petanque for Health",
+      "nameTH":"เปตองเพื่อสุขภาพ",
+      "unit":"1",
+      "hour":"0-2-1",
+      "faculty":"Faculty of Education",
+      "Message": "Manual Add"
+   },
     "01175121":{
        "type":"Wellness",
        "nameEN":"Basketball for Health",
