@@ -2,6 +2,9 @@
 
 server for https://ku-table.vercel.app/
 
+Welcome for pr and plugin
+Also need GenEd data
+
 host at https://ku-table-server.herokuapp.com/
 
 ```
