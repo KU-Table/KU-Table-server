@@ -20,3 +20,5 @@ API:
 - GET "/getGenEd"
   - require "accesstoken", "majorCode", "stdCode"
 - GET "/getData" get web using data
+- POST "/encode"
+  - require "username", "password"
