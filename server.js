@@ -166,6 +166,18 @@ app.get('/getSchedule', async (req, res) => {
   }
 })
 
+app.post('/encode', async (req, res) => {
+  try {
+    const encodedBody = {
+      username: encodeString(req.body.username),
+      password: encodeString(req.body.password)
+    }
+    return res.json(encodedBody)
+  } catch (e) {
+    return res.status(400).json({})
+  }
+})
+
 const encodeString = (data) => {
   return crypto
       .publicEncrypt(
