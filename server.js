@@ -46,7 +46,7 @@ app.post("/login", async (req, res) => {
     password: encodeString(req.body.password),
   };
 
-let response
+  let response;
   try {
     response = await axios.post(loginLink, encodedBody, {
       headers: {
@@ -56,7 +56,7 @@ let response
   } catch (error) {
     res.status(error.response.status).json(error.response?.data);
     console.log("Login/ Fail ", error.response?.data);
-    return
+    return;
   }
 
   const student = response.data.user.student;
