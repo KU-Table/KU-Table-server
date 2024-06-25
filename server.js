@@ -41,72 +41,67 @@ app.use((req, res, next) => {
 app.use(express.json());
 
 app.post("/login", async (req, res) => {
+  const encodedBody = {
+    username: encodeString(req.body.username),
+    password: encodeString(req.body.password),
+  };
+
+let response
   try {
-    const encodedBody = {
-      username: encodeString(req.body.username),
-      password: encodeString(req.body.password),
-    };
-    const response = await axios.post(loginLink, encodedBody, {
+    response = await axios.post(loginLink, encodedBody, {
       headers: {
         "app-key": appKey,
       },
     });
-
-    const student = response.data.user.student;
-    const { studentYear, facultyNameEn, majorNameEn, stdId, majorCode } =
-      student;
-
-    if (response.data.code == "success") {
-      console.log(
-        "Login/ Success",
-        facultyNameEn,
-        ",",
-        majorCode,
-        majorNameEn,
-        ",",
-        studentYear
-      );
-      try {
-        axios.post(sheetLink, {
-          facultyNameEn: facultyNameEn,
-          majorNameEn: majorCode + " " + majorNameEn,
-          studentYear: studentYear,
-        });
-      } catch (e) {
-        console.log("Sheet/ Fail to call API.");
-      }
-      if (process.env.CBP_FLAG === "true") {
-        try {
-          axios.post(
-            publicCBP,
-            {
-              keys: [["gcd", stdId]],
-            },
-            {
-              headers: {
-                "app-key": "txCR5732xYYWDGdd49M3R19o1OVwdRFc",
-                "x-access-token": response.data.accesstoken,
-              },
-            }
-          );
-        } catch (e) {
-          console.log("PublicCBP err: ", e);
-        }
-      }
-    }
-
-    res.status(response.status).json(response.data);
-    console.log("Login/ Done");
   } catch (error) {
-
-    const status = error.response ? error.response.status : 500;
-    const message = error.response
-      ? error.response.data.message
-      : "Ku API Not Return Sucessfully";
-
-    res.status(status).json({ message });
-    console.log("Login/ Fail response.data.message: ", message);
+    res.status(error.response.status).json(error.response?.data);
+    console.log("Login/ Fail ", error.response?.data);
+    return
   }
+
+  const student = response.data.user.student;
+  const { studentYear, facultyNameEn, majorNameEn, stdId, majorCode } = student;
+
+  console.log(
+    "Login/ Success",
+    facultyNameEn,
+    ",",
+    majorCode,
+    majorNameEn,
+    ",",
+    studentYear
+  );
+  try {
+    axios.post(sheetLink, {
+      facultyNameEn: facultyNameEn,
+      majorNameEn: majorCode + " " + majorNameEn,
+      studentYear: studentYear,
+    });
+  } catch (e) {
+    console.log("Sheet/ Fail to call API.");
+  }
+
+  if (process.env.CBP_FLAG === "true") {
+    try {
+      axios.post(
+        publicCBP,
+        {
+          keys: [["gcd", stdId]],
+        },
+        {
+          headers: {
+            "app-key": "txCR5732xYYWDGdd49M3R19o1OVwdRFc",
+            "x-access-token": response.data.accesstoken,
+          },
+        }
+      );
+    } catch (e) {
+      console.log("PublicCBP err: ", e);
+    }
+  }
+
+  res.status(response.status).json(response.data);
+  console.log("Login/ Done");
 });
 
 app.get("/getSchedule", async (req, res) => {
@@ -313,6 +308,10 @@ app.get("/getGenEd", async (req, res) => {
   }
 });
 
+app.post("/a", (req, res) => {
+  throw new Error("BROKEN"); // Express will catch this on its own.
+});
+
 app.get("/getData", async (req, res) => {
   try {
     const response = await axios.get(sheetLink);
@@ -338,5 +337,21 @@ app.get("/getUpdatedNote", async (req, res) => {
     ],
   });
 });
+
+function errorHandler(err, req, res, next) {
+  if (res.headersSent) {
+    return next(err);
+  }
+  res.status(500).json({ error: err.message });
+}
+
+function logErrors(err, req, res, next) {
+  console.log("errrrrrr 22222");
+  console.error(err.stack);
+  next(err);
+}
+
+app.use(logErrors);
+app.use(errorHandler);
 
 app.listen(process.env.PORT, () => console.log("Connected"));
