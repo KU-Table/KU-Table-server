@@ -1,0 +1,173 @@
+{
+  "01007101": {
+    "type": "Aesthetics",
+    "nameEN": "พืชสวนเพื่อคุณภาพชีวิตและสิ่งแวดล้อม",
+    "nameTH": "พืชสวนเพื่อคุณภาพชีวิตและสิ่งแวดล้อม",
+    "unit": "2",
+    "hour": "2-0-4",
+    "faculty": "คณะเกษตร",
+    "Message": "manual read by code"
+  },
+  "01177142": {
+    "type": "Aesthetics",
+    "nameEN": "สุนทรียะในการเรียนรู้ตลอดชีวิต",
+    "nameTH": "สุนทรียะในการเรียนรู้ตลอดชีวิต",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01240011": {
+    "type": "Aesthetics",
+    "nameEN": "การออกแบบในชีวิตประจำวัน",
+    "nameTH": "การออกแบบในชีวิตประจำวัน",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะสถาปัตยกรรมศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01244101": {
+    "type": "Aesthetics",
+    "nameEN": "การออกแบบเพื่อความเป็นอยู่ที่ดี",
+    "nameTH": "การออกแบบเพื่อความเป็นอยู่ที่ดี",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะสถาปัตยกรรมศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01255101": {
+    "type": "Aesthetics",
+    "nameEN": "มนุษย์กับทะเล",
+    "nameTH": "มนุษย์กับทะเล",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะประมง",
+    "Message": "manual read by code"
+  },
+  "01308101": {
+    "type": "Aesthetics",
+    "nameEN": "การท่องเที่ยวทางธรรมชาติอย่างยั่งยืน",
+    "nameTH": "การท่องเที่ยวทางธรรมชาติอย่างยั่งยืน",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวนศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01350102": {
+    "type": "Aesthetics",
+    "nameEN": "เล่าเรื่องด้วยภาพ",
+    "nameTH": "เล่าเรื่องด้วยภาพ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01387102": {
+    "type": "Aesthetics",
+    "nameEN": "ปรัชญาสำหรับชีวิตยุคใหม่",
+    "nameTH": "ปรัชญาสำหรับชีวิตยุคใหม่",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01388101": {
+    "type": "Aesthetics",
+    "nameEN": "จริยธรรมเพื่อสุนทรียภาพแห่งชีวิต",
+    "nameTH": "จริยธรรมเพื่อสุนทรียภาพแห่งชีวิต",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01401201": {
+    "type": "Aesthetics",
+    "nameEN": "พืชเพื่อการสร้างคุณค่าชีวิต",
+    "nameTH": "พืชเพื่อการสร้างคุณค่าชีวิต",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวิทยาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01418105": {
+    "type": "Aesthetics",
+    "nameEN": "ศิลปะสร้างสรรค์ดิจิทัล",
+    "nameTH": "ศิลปะสร้างสรรค์ดิจิทัล",
+    "unit": "3",
+    "hour": "2-2-5",
+    "faculty": "คณะวิทยาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01420201": {
+    "type": "Aesthetics",
+    "nameEN": "อัญมณีและเครื่องประดับ",
+    "nameTH": "อัญมณีและเครื่องประดับ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวิทยาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01999034": {
+    "type": "Aesthetics",
+    "nameEN": "ศิลปวิจักษณ์",
+    "nameTH": "ศิลปวิจักษณ์",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01999035": {
+    "type": "Aesthetics",
+    "nameEN": "วัฒนธรรมดนตรีกับชีวิต",
+    "nameTH": "วัฒนธรรมดนตรีกับชีวิต",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "Message": "manual read by code"
+  },
+  "02708102": {
+    "type": "Aesthetics",
+    "nameEN": "วรรณกรรมกับวิทยาศาสตร์",
+    "nameTH": "วรรณกรรมกับวิทยาศาสตร์",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "02728102": {
+    "type": "Aesthetics",
+    "nameEN": "สารสีในงานศิลปะ",
+    "nameTH": "สารสีในงานศิลปะ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "02999037": {
+    "type": "Aesthetics",
+    "nameEN": "ศิลปะแห่งสุนทรียศาสตร์เพื่อความสุข",
+    "nameTH": "ศิลปะแห่งสุนทรียศาสตร์เพื่อความสุข",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "โครงการบูรณาการวิทยาเขตกำแพงแสน",
+    "Message": "manual read by code"
+  },
+  "03600012": {
+    "type": "Aesthetics",
+    "nameEN": "เทคโนโลยีสีเขียว",
+    "nameTH": "เทคโนโลยีสีเขียว",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวิศวกรรมศาสตร์ศรีราชา",
+    "Message": "manual read by code"
+  },
+  "03654111": {
+    "type": "Aesthetics",
+    "nameEN": "สุนทรียศาสตร์ทางการกีฬา",
+    "nameTH": "สุนทรียศาสตร์ทางการกีฬา",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวิทยาศาสตร์ศรีราชา",
+    "Message": "manual read by code"
+  }
+}

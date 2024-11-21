@@ -1,0 +1,2009 @@
+{
+  "01001317": {
+    "Message": "manual read by code",
+    "faculty": "คณะเกษตร",
+    "hour": "3-0-6",
+    "nameEN": "ผู้นำกับการพัฒนาภาคการเกษตร",
+    "nameTH": "ผู้นำกับการพัฒนาภาคการเกษตร",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "01005101": {
+    "Message": "manual read by code",
+    "faculty": "คณะเกษตร",
+    "hour": "3-0-6",
+    "nameEN": "เทคโนโลยีเกษตรสมัยใหม่",
+    "nameTH": "เทคโนโลยีเกษตรสมัยใหม่",
+    "type": "Entrepreneurship",
+    "unit": "3"
+  },
+  "01007101": {
+    "Message": "manual read by code",
+    "faculty": "คณะเกษตร",
+    "hour": "2-0-4",
+    "nameEN": "พืชสวนเพื่อคุณภาพชีวิตและสิ่งแวดล้อม",
+    "nameTH": "พืชสวนเพื่อคุณภาพชีวิตและสิ่งแวดล้อม",
+    "type": "Aesthetics",
+    "unit": "2"
+  },
+  "01009102": {
+    "Message": "manual read by code",
+    "faculty": "คณะเกษตร",
+    "hour": "3-0-6",
+    "nameEN": "มนุษย์และทรัพยากรธรรมชาติ",
+    "nameTH": "มนุษย์และทรัพยากรธรรมชาติ",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "01015202": {
+    "Message": "manual read by code",
+    "faculty": "คณะเกษตร",
+    "hour": "3-0-6",
+    "nameEN": "เกษตรวิถีไทย",
+    "nameTH": "เกษตรวิถีไทย",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "01101101": {
+    "Message": "manual read by code",
+    "faculty": "คณะเศรษฐศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "เศรษฐศาสตร์ทั่วไปในกระแสโลกาภิวัตน์",
+    "nameTH": "เศรษฐศาสตร์ทั่วไปในกระแสโลกาภิวัตน์",
+    "type": "Entrepreneurship",
+    "unit": "3"
+  },
+  "01131111": {
+    "Message": "manual read by code",
+    "faculty": "คณะบริหารธุรกิจ",
+    "hour": "3-0-6",
+    "nameEN": "การเงินสำหรับผู้ประกอบการ",
+    "nameTH": "การเงินสำหรับผู้ประกอบการ",
+    "type": "Entrepreneurship",
+    "unit": "3"
+  },
+  "01173151": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "2-0-4",
+    "nameEN": "เอดส์ศึกษา",
+    "nameTH": "เอดส์ศึกษา",
+    "type": "Wellness",
+    "unit": "2"
+  },
+  "01174123": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "1-2-4",
+    "nameEN": "ค่ายพักแรมนันทนาการ",
+    "nameTH": "ค่ายพักแรมนันทนาการ",
+    "type": "Wellness",
+    "unit": "2"
+  },
+  "01174231": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "2-0-4",
+    "nameEN": "นันทนาการเบื้องต้น",
+    "nameTH": "นันทนาการเบื้องต้น",
+    "type": "Wellness",
+    "unit": "2"
+  },
+  "01175111": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "กรีฑาลู่-ลานเพื่อสุขภาพ",
+    "nameTH": "กรีฑาลู่-ลานเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175112": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "แบดมินตันเพื่อสุขภาพ",
+    "nameTH": "แบดมินตันเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175113": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "เทนนิสเพื่อสุขภาพ",
+    "nameTH": "เทนนิสเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175114": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "เทเบิลเทนนิสเพื่อสุขภาพ",
+    "nameTH": "เทเบิลเทนนิสเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175115": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "ฝึกสมาธิด้วยกิจกรรมยิงปืน",
+    "nameTH": "ฝึกสมาธิด้วยกิจกรรมยิงปืน",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175117": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "ฝึกสมาธิด้วยกิจกรรมยิงธนู",
+    "nameTH": "ฝึกสมาธิด้วยกิจกรรมยิงธนู",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175118": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "แชร์บอลเพื่อสุขภาพ",
+    "nameTH": "แชร์บอลเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175119": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "เปตองเพื่อสุขภาพ",
+    "nameTH": "เปตองเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175121": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "บาสเกตบอลเพื่อสุขภาพ",
+    "nameTH": "บาสเกตบอลเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175122": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "ฟุตบอลเพื่อสุขภาพ",
+    "nameTH": "ฟุตบอลเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175123": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "วอลเลย์บอลเพื่อสุขภาพ",
+    "nameTH": "วอลเลย์บอลเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175124": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "แฮนด์บอลเพื่อสุขภาพ",
+    "nameTH": "แฮนด์บอลเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175125": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "ซอฟท์บอลเพื่อสุขภาพ",
+    "nameTH": "ซอฟท์บอลเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175126": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "ตะกร้อเพื่อสุขภาพ",
+    "nameTH": "ตะกร้อเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175127": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "ฮอกกี้เพื่อสุขภาพ",
+    "nameTH": "ฮอกกี้เพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175128": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "รักบี้ฟุตบอลเพื่อสุขภาพ",
+    "nameTH": "รักบี้ฟุตบอลเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175129": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "ฟุตซอลเพื่อสุขภาพ",
+    "nameTH": "ฟุตซอลเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175131": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "ว่ายน้ำเพื่อสุขภาพ",
+    "nameTH": "ว่ายน้ำเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175133": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "กระโดดน้ำ",
+    "nameTH": "กระโดดน้ำ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175134": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "โปโลน้ำ",
+    "nameTH": "โปโลน้ำ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175141": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "การเต้นแอโรบิกเพื่อสุขภาพ",
+    "nameTH": "การเต้นแอโรบิกเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175142": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "การเต้นรำพื้นเมืองเพื่อสุขภาพ",
+    "nameTH": "การเต้นรำพื้นเมืองเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175143": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "การเต้นลีลาศเพื่อสุขภาพ",
+    "nameTH": "การเต้นลีลาศเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175144": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "รำไทยเพื่อสุขภาพ",
+    "nameTH": "รำไทยเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175151": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยดาบไทย",
+    "nameTH": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยดาบไทย",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175152": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยดาบสากล",
+    "nameTH": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยดาบสากล",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175153": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยมวยไทย",
+    "nameTH": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยมวยไทย",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175154": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยมวยสากล",
+    "nameTH": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยมวยสากล",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175155": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยยูโด",
+    "nameTH": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยยูโด",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175156": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยไอคิโด",
+    "nameTH": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยไอคิโด",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175157": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยกระบี่กระบอง",
+    "nameTH": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยกระบี่กระบอง",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175159": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยคาราเต้",
+    "nameTH": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยคาราเต้",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175161": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "ฝึกสมองด้วยการเล่นบริดจ์",
+    "nameTH": "ฝึกสมองด้วยการเล่นบริดจ์",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175162": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "โบว์ลิ่งเพื่อสุขภาพ",
+    "nameTH": "โบว์ลิ่งเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175163": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "กอล์ฟเพื่อสุขภาพ",
+    "nameTH": "กอล์ฟเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175164": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "จักรยานเพื่อสุขภาพ",
+    "nameTH": "จักรยานเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175165": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "การฝึกด้วยน้ำหนักเพื่อสุขภาพ",
+    "nameTH": "การฝึกด้วยน้ำหนักเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175166": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยเทควันโด",
+    "nameTH": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยเทควันโด",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175167": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "โยคะเพื่อสุขภาพ",
+    "nameTH": "โยคะเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175168": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "การวิ่งเหยาะเพื่อสุขภาพ",
+    "nameTH": "การวิ่งเหยาะเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "01175169": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "1-2-3",
+    "nameEN": "การออกกำลังกายเพื่อพัฒนาสุขภาพแบบองค์รวม",
+    "nameTH": "การออกกำลังกายเพื่อพัฒนาสุขภาพแบบองค์รวม",
+    "type": "Wellness",
+    "unit": "2"
+  },
+  "01176141": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "2-0-4",
+    "nameEN": "การวางแผนชีวิตและอาชีพสำหรับคนรุ่นใหม่",
+    "nameTH": "การวางแผนชีวิตและอาชีพสำหรับคนรุ่นใหม่",
+    "type": "Wellness",
+    "unit": "2"
+  },
+  "01177141": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การแสวงหาความรู้",
+    "nameTH": "การแสวงหาความรู้",
+    "type": "Entrepreneurship",
+    "unit": "3"
+  },
+  "01177142": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "สุนทรียะในการเรียนรู้ตลอดชีวิต",
+    "nameTH": "สุนทรียะในการเรียนรู้ตลอดชีวิต",
+    "type": "Aesthetics",
+    "unit": "3"
+  },
+  "01179101": {
+    "Message": "manual read by code",
+    "faculty": "คณะศึกษาศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ทักษะการประกอบการ (รายวิชาเพิ่มเติม)",
+    "nameTH": "ทักษะการประกอบการ (รายวิชาเพิ่มเติม)",
+    "type": "Entrepreneurship",
+    "unit": "3"
+  },
+  "01200101": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิศวกรรมศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การคิดเชิงนวัตกรรม",
+    "nameTH": "การคิดเชิงนวัตกรรม",
+    "type": "Entrepreneurship",
+    "unit": "3"
+  },
+  "01240011": {
+    "Message": "manual read by code",
+    "faculty": "คณะสถาปัตยกรรมศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การออกแบบในชีวิตประจำวัน",
+    "nameTH": "การออกแบบในชีวิตประจำวัน",
+    "type": "Aesthetics",
+    "unit": "3"
+  },
+  "01242001": {
+    "Message": "manual read by code",
+    "faculty": "คณะสถาปัตยกรรมศาสตร์",
+    "hour": "2-2-5",
+    "nameEN": "การออกแบบและธุรกิจผลิตภัณฑ์แนวสร้างสรรค์",
+    "nameTH": "การออกแบบและธุรกิจผลิตภัณฑ์แนวสร้างสรรค์",
+    "type": "Entrepreneurship",
+    "unit": "3"
+  },
+  "01244101": {
+    "Message": "manual read by code",
+    "faculty": "คณะสถาปัตยกรรมศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การออกแบบเพื่อความเป็นอยู่ที่ดี",
+    "nameTH": "การออกแบบเพื่อความเป็นอยู่ที่ดี",
+    "type": "Aesthetics",
+    "unit": "3"
+  },
+  "01255101": {
+    "Message": "manual read by code",
+    "faculty": "คณะประมง",
+    "hour": "3-0-6",
+    "nameEN": "มนุษย์กับทะเล",
+    "nameTH": "มนุษย์กับทะเล",
+    "type": "Aesthetics",
+    "unit": "3"
+  },
+  "01301101": {
+    "Message": "manual read by code",
+    "faculty": "คณะวนศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การอนุรักษ์ทรัพยากรและสิ่งแวดล้อม",
+    "nameTH": "การอนุรักษ์ทรัพยากรและสิ่งแวดล้อม",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "01308101": {
+    "Message": "manual read by code",
+    "faculty": "คณะวนศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การท่องเที่ยวทางธรรมชาติอย่างยั่งยืน",
+    "nameTH": "การท่องเที่ยวทางธรรมชาติอย่างยั่งยืน",
+    "type": "Aesthetics",
+    "unit": "3"
+  },
+  "01350102": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "เล่าเรื่องด้วยภาพ",
+    "nameTH": "เล่าเรื่องด้วยภาพ",
+    "type": "Aesthetics",
+    "unit": "3"
+  },
+  "01350103": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ชีวิตยืดหยุ่นได้",
+    "nameTH": "ชีวิตยืดหยุ่นได้",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "01350104": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ศิลปะการอ่านคน",
+    "nameTH": "ศิลปะการอ่านคน",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "01354101": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาเขมรเพื่อการสื่อสารI",
+    "nameTH": "ภาษาเขมรเพื่อการสื่อสารI",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01354102": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาเขมรเพื่อการสื่อสารII",
+    "nameTH": "ภาษาเขมรเพื่อการสื่อสารII",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01354103": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาเขมรเพื่อการสื่อสารIII",
+    "nameTH": "ภาษาเขมรเพื่อการสื่อสารIII",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355101": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาอังกฤษในชีวิตประจำวัน",
+    "nameTH": "ภาษาอังกฤษในชีวิตประจำวัน",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355102": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาอังกฤษในมหาวิทยาลัย",
+    "nameTH": "ภาษาอังกฤษในมหาวิทยาลัย",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355103": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาอังกฤษเพื่อโอกาสในการทำงาน",
+    "nameTH": "ภาษาอังกฤษเพื่อโอกาสในการทำงาน",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355104": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาอังกฤษสำหรับนิสิตเตรียมแพทย์I",
+    "nameTH": "ภาษาอังกฤษสำหรับนิสิตเตรียมแพทย์I",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355105": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาอังกฤษสำหรับนิสิตเตรียมแพทย์II",
+    "nameTH": "ภาษาอังกฤษสำหรับนิสิตเตรียมแพทย์II",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355106": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การสื่อสารภาษาอังกฤษทางการแพทย์",
+    "nameTH": "การสื่อสารภาษาอังกฤษทางการแพทย์",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355107": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ทักษะการเขียนภาษาอังกฤษที่จำเป็น",
+    "nameTH": "ทักษะการเขียนภาษาอังกฤษที่จำเป็น",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355108": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาอังกฤษและวัฒนธรรมจากเพลง",
+    "nameTH": "ภาษาอังกฤษและวัฒนธรรมจากเพลง",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355109": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ทักษะการฟัง-การพูดภาษาอังกฤษที่จำเป็น",
+    "nameTH": "ทักษะการฟัง-การพูดภาษาอังกฤษที่จำเป็น",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355119": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ทักษะการอ่านภาษาอังกฤษที่จำเป็น",
+    "nameTH": "ทักษะการอ่านภาษาอังกฤษที่จำเป็น",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355121": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "คำและการออกเสียงในภาษาอังกฤษ",
+    "nameTH": "คำและการออกเสียงในภาษาอังกฤษ",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355201": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การอ่านและเขียนภาษาอังกฤษอย่างมีวิจารณญาณ",
+    "nameTH": "การอ่านและเขียนภาษาอังกฤษอย่างมีวิจารณญาณ",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355202": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การเขียนรายงานภาษาอังกฤษ",
+    "nameTH": "การเขียนรายงานภาษาอังกฤษ",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355203": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "โครงสร้างภาษาอังกฤษ",
+    "nameTH": "โครงสร้างภาษาอังกฤษ",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355204": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การนำเสนอโครงงานเป็นภาษาอังกฤษ",
+    "nameTH": "การนำเสนอโครงงานเป็นภาษาอังกฤษ",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355205": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การอ่านภาษาอังกฤษด้านสื่อสารมวลชน",
+    "nameTH": "การอ่านภาษาอังกฤษด้านสื่อสารมวลชน",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355206": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาอังกฤษวิชาการ",
+    "nameTH": "ภาษาอังกฤษวิชาการ",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355207": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การเขียนโต้ตอบภาษาอังกฤษ",
+    "nameTH": "การเขียนโต้ตอบภาษาอังกฤษ",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355208": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การพัฒนาทักษะภาษาอังกฤษผ่านเกม",
+    "nameTH": "การพัฒนาทักษะภาษาอังกฤษผ่านเกม",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355209": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาอังกฤษเพื่อการสื่อสารในงานอาชีพ",
+    "nameTH": "ภาษาอังกฤษเพื่อการสื่อสารในงานอาชีพ",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355303": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาอังกฤษเพื่อการสมัครงาน",
+    "nameTH": "ภาษาอังกฤษเพื่อการสมัครงาน",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355304": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาอังกฤษสำหรับการเดินทาง",
+    "nameTH": "ภาษาอังกฤษสำหรับการเดินทาง",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355306": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาอังกฤษเพื่อความเข้าใจและซาบซึ้งในศิลปะและวัฒนธรรมไทย",
+    "nameTH": "ภาษาอังกฤษเพื่อความเข้าใจและซาบซึ้งในศิลปะและวัฒนธรรมไทย",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01355307": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ทักษะรวมภาษาอังกฤษเพื่อการสื่อสาร",
+    "nameTH": "ทักษะรวมภาษาอังกฤษเพื่อการสื่อสาร",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01356101": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาฝรั่งเศสเบื้องต้นI",
+    "nameTH": "ภาษาฝรั่งเศสเบื้องต้นI",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01356102": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาฝรั่งเศสเบื้องต้นII",
+    "nameTH": "ภาษาฝรั่งเศสเบื้องต้นII",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01356103": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาฝรั่งเศสเบื้องต้นIII",
+    "nameTH": "ภาษาฝรั่งเศสเบื้องต้นIII",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01356104": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาฝรั่งเศสเบื้องต้นIV",
+    "nameTH": "ภาษาฝรั่งเศสเบื้องต้นIV",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01357101": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาเยอรมันเบื้องต้นI",
+    "nameTH": "ภาษาเยอรมันเบื้องต้นI",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01357102": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาเยอรมันเบื้องต้นII",
+    "nameTH": "ภาษาเยอรมันเบื้องต้นII",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01357103": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาเยอรมันเบื้องต้นIII",
+    "nameTH": "ภาษาเยอรมันเบื้องต้นIII",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01357104": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาเยอรมันเบื้องต้นIV",
+    "nameTH": "ภาษาเยอรมันเบื้องต้นIV",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01358101": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาญี่ปุ่นเบื้องต้นI",
+    "nameTH": "ภาษาญี่ปุ่นเบื้องต้นI",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01358102": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาญี่ปุ่นเบื้องต้นII",
+    "nameTH": "ภาษาญี่ปุ่นเบื้องต้นII",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01358103": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาญี่ปุ่นเบื้องต้นIII",
+    "nameTH": "ภาษาญี่ปุ่นเบื้องต้นIII",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01358104": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาญี่ปุ่นเบื้องต้นIV",
+    "nameTH": "ภาษาญี่ปุ่นเบื้องต้นIV",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01361101": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การใช้ภาษาไทยเบื้องต้น",
+    "nameTH": "การใช้ภาษาไทยเบื้องต้น",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01361102": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การเขียนภาษาไทยเชิงปฏิบัติ",
+    "nameTH": "การเขียนภาษาไทยเชิงปฏิบัติ",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01361103": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การอ่านภาษาไทยเชิงวิจารณ์",
+    "nameTH": "การอ่านภาษาไทยเชิงวิจารณ์",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01362101": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาจีนI",
+    "nameTH": "ภาษาจีนI",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01362102": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาจีนII",
+    "nameTH": "ภาษาจีนII",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01362201": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาจีนIII",
+    "nameTH": "ภาษาจีนIII",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01362202": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาจีนIV",
+    "nameTH": "ภาษาจีนIV",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01362301": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาจีนV",
+    "nameTH": "ภาษาจีนV",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01364101": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาสเปนเพื่อการสื่อสารI",
+    "nameTH": "ภาษาสเปนเพื่อการสื่อสารI",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01364102": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาสเปนเพื่อการสื่อสารII",
+    "nameTH": "ภาษาสเปนเพื่อการสื่อสารII",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01364103": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาสเปนเพื่อการสื่อสารIII",
+    "nameTH": "ภาษาสเปนเพื่อการสื่อสารIII",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01371111": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "1-0-2",
+    "nameEN": "สื่อสารสนเทศเพื่อการเรียนรู้",
+    "nameTH": "สื่อสารสนเทศเพื่อการเรียนรู้",
+    "type": "Language_and_Communication",
+    "unit": "1"
+  },
+  "01373103": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "เรื่องเล่ากับการแพทย์",
+    "nameTH": "เรื่องเล่ากับการแพทย์",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "01387101": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ศิลปะการอยู่ร่วมกับผู้อื่น",
+    "nameTH": "ศิลปะการอยู่ร่วมกับผู้อื่น",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "01387102": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ปรัชญาสำหรับชีวิตยุคใหม่",
+    "nameTH": "ปรัชญาสำหรับชีวิตยุคใหม่",
+    "type": "Aesthetics",
+    "unit": "3"
+  },
+  "01387103": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ปรัชญาเศรษฐกิจพอเพียงกับพุทธศาสนา",
+    "nameTH": "ปรัชญาเศรษฐกิจพอเพียงกับพุทธศาสนา",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "01387105": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "พุทธจริยศาสตร์ในการดำเนินธุรกิจ",
+    "nameTH": "พุทธจริยศาสตร์ในการดำเนินธุรกิจ",
+    "type": "Entrepreneurship",
+    "unit": "3"
+  },
+  "01388101": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "จริยธรรมเพื่อสุนทรียภาพแห่งชีวิต",
+    "nameTH": "จริยธรรมเพื่อสุนทรียภาพแห่งชีวิต",
+    "type": "Aesthetics",
+    "unit": "3"
+  },
+  "01390102": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การท่องเที่ยวเชิงสร้างสรรค์",
+    "nameTH": "การท่องเที่ยวเชิงสร้างสรรค์",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "01390103": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การท่องเที่ยวเพื่อความผาสุก",
+    "nameTH": "การท่องเที่ยวเพื่อความผาสุก",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "01390104": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การพัฒนาบุคลิกภาพเพื่อการเป็นผู้ประกอบการสมัยใหม่",
+    "nameTH": "การพัฒนาบุคลิกภาพเพื่อการเป็นผู้ประกอบการสมัยใหม่",
+    "type": "Entrepreneurship",
+    "unit": "3"
+  },
+  "01395101": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาเกาหลีเพื่อการสื่อสารI",
+    "nameTH": "ภาษาเกาหลีเพื่อการสื่อสารI",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01395102": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาเกาหลีเพื่อการสื่อสารII",
+    "nameTH": "ภาษาเกาหลีเพื่อการสื่อสารII",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01395103": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาเกาหลีเพื่อการสื่อสารIII",
+    "nameTH": "ภาษาเกาหลีเพื่อการสื่อสารIII",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01395104": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาเกาหลีเพื่อการสื่อสารIV",
+    "nameTH": "ภาษาเกาหลีเพื่อการสื่อสารIV",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01395105": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การอ่านและรายงานภาษาเกาหลี",
+    "nameTH": "การอ่านและรายงานภาษาเกาหลี",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01399101": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาเวียดนามเพื่อการสื่อสารI",
+    "nameTH": "ภาษาเวียดนามเพื่อการสื่อสารI",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01399102": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาเวียดนามเพื่อการสื่อสารII",
+    "nameTH": "ภาษาเวียดนามเพื่อการสื่อสารII",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01399103": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาเวียดนามเพื่อการสื่อสารIII",
+    "nameTH": "ภาษาเวียดนามเพื่อการสื่อสารIII",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01399104": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาเวียดนามเพื่อการสื่อสารIV",
+    "nameTH": "ภาษาเวียดนามเพื่อการสื่อสารIV",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01399105": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การอ่านภาษาเวียดนาม",
+    "nameTH": "การอ่านภาษาเวียดนาม",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01399106": {
+    "Message": "manual read by code",
+    "faculty": "คณะมนุษยศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การฟัง-พูดภาษาเวียดนาม",
+    "nameTH": "การฟัง-พูดภาษาเวียดนาม",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01401201": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "พืชเพื่อการสร้างคุณค่าชีวิต",
+    "nameTH": "พืชเพื่อการสร้างคุณค่าชีวิต",
+    "type": "Aesthetics",
+    "unit": "3"
+  },
+  "01402101": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การรู้เท่าทันผลิตภัณฑ์เสริมความงาม",
+    "nameTH": "การรู้เท่าทันผลิตภัณฑ์เสริมความงาม",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "01416101": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "พันธุศาสตร์ในสื่อ",
+    "nameTH": "พันธุศาสตร์ในสื่อ",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "01418101": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาศาสตร์",
+    "hour": "0-2-1",
+    "nameEN": "การใช้งานคอมพิวเตอร์",
+    "nameTH": "การใช้งานคอมพิวเตอร์",
+    "type": "Language_and_Communication",
+    "unit": "1"
+  },
+  "01418102": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "เทคโนโลยีสารสนเทศเพื่อผู้ประกอบการ",
+    "nameTH": "เทคโนโลยีสารสนเทศเพื่อผู้ประกอบการ",
+    "type": "Entrepreneurship",
+    "unit": "3"
+  },
+  "01418103": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาศาสตร์",
+    "hour": "2-0-4",
+    "nameEN": "สุขภาพและสังคมดิจิทัล",
+    "nameTH": "สุขภาพและสังคมดิจิทัล",
+    "type": "Wellness",
+    "unit": "2"
+  },
+  "01418104": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาศาสตร์",
+    "hour": "2-0-4",
+    "nameEN": "รู้ทันไอที",
+    "nameTH": "รู้ทันไอที",
+    "type": "Language_and_Communication",
+    "unit": "2"
+  },
+  "01418105": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาศาสตร์",
+    "hour": "2-2-5",
+    "nameEN": "ศิลปะสร้างสรรค์ดิจิทัล",
+    "nameTH": "ศิลปะสร้างสรรค์ดิจิทัล",
+    "type": "Aesthetics",
+    "unit": "3"
+  },
+  "01418106": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาศาสตร์",
+    "hour": "2-2-5",
+    "nameEN": "ทักษะเทคโนโลยีดิจิทัล",
+    "nameTH": "ทักษะเทคโนโลยีดิจิทัล",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01420201": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "อัญมณีและเครื่องประดับ",
+    "nameTH": "อัญมณีและเครื่องประดับ",
+    "type": "Aesthetics",
+    "unit": "3"
+  },
+  "01421201": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาศาสตร์",
+    "hour": "2-0-4",
+    "nameEN": "รังสีชีวิตและสิ่งแวดล้อม",
+    "nameTH": "รังสีชีวิตและสิ่งแวดล้อม",
+    "type": "Wellness",
+    "unit": "2"
+  },
+  "01453101": {
+    "Message": "manual read by code",
+    "faculty": "คณะสังคมศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "สิทธิขั้นพื้นฐาน",
+    "nameTH": "สิทธิขั้นพื้นฐาน",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "01453102": {
+    "Message": "manual read by code",
+    "faculty": "คณะสังคมศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "กฎหมายในชีวิตประจำวัน",
+    "nameTH": "กฎหมายในชีวิตประจำวัน",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "01453103": {
+    "Message": "manual read by code",
+    "faculty": "คณะสังคมศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "กฎหมายสำหรับผู้ประกอบการใหม่",
+    "nameTH": "กฎหมายสำหรับผู้ประกอบการใหม่",
+    "type": "Entrepreneurship",
+    "unit": "3"
+  },
+  "01455101": {
+    "Message": "manual read by code",
+    "faculty": "คณะสังคมศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การเมืองโลกในชีวิตประจำวัน",
+    "nameTH": "การเมืองโลกในชีวิตประจำวัน",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "01459101": {
+    "Message": "manual read by code",
+    "faculty": "คณะสังคมศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "จิตวิทยาเพื่อชีวิตสมัยใหม่",
+    "nameTH": "จิตวิทยาเพื่อชีวิตสมัยใหม่",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "01459102": {
+    "Message": "manual read by code",
+    "faculty": "คณะสังคมศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "จิตวิทยากับความหลากหลายของมนุษย์",
+    "nameTH": "จิตวิทยากับความหลากหลายของมนุษย์",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "01460101": {
+    "Message": "manual read by code",
+    "faculty": "คณะสังคมศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "สังคมและวัฒนธรรมไทยร่วมสมัย",
+    "nameTH": "สังคมและวัฒนธรรมไทยร่วมสมัย",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "01999011": {
+    "Message": "manual read by code",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "อาหารเพื่อมนุษยชาติ",
+    "nameTH": "อาหารเพื่อมนุษยชาติ",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "01999012": {
+    "Message": "manual read by code",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "สุขภาพเพื่อชีวิต",
+    "nameTH": "สุขภาพเพื่อชีวิต",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "01999013": {
+    "Message": "manual read by code",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "hour": "2-2-5",
+    "nameEN": "พลเมืองดิจิทัล",
+    "nameTH": "พลเมืองดิจิทัล",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "01999021": {
+    "Message": "manual read by code",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาไทยเพื่อการสื่อสาร",
+    "nameTH": "ภาษาไทยเพื่อการสื่อสาร",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01999022": {
+    "Message": "manual read by code",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาไทยในบริบทวัฒนธรรม",
+    "nameTH": "ภาษาไทยในบริบทวัฒนธรรม",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "01999023": {
+    "Message": "manual read by code",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "hour": "1-2-4",
+    "nameEN": "ทักษะความเข้าใจและใช้เทคโนโลยีดิจิทัล",
+    "nameTH": "ทักษะความเข้าใจและใช้เทคโนโลยีดิจิทัล",
+    "type": "Language_and_Communication",
+    "unit": "2"
+  },
+  "01999031": {
+    "Message": "manual read by code",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "มรดกอารยธรรมโลก",
+    "nameTH": "มรดกอารยธรรมโลก",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "01999032": {
+    "Message": "manual read by code",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ไทยศึกษา",
+    "nameTH": "ไทยศึกษา",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "01999033": {
+    "Message": "manual read by code",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ศิลปะการดำเนินชีวิต",
+    "nameTH": "ศิลปะการดำเนินชีวิต",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "01999034": {
+    "Message": "manual read by code",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ศิลปวิจักษณ์",
+    "nameTH": "ศิลปวิจักษณ์",
+    "type": "Aesthetics",
+    "unit": "3"
+  },
+  "01999035": {
+    "Message": "manual read by code",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "วัฒนธรรมดนตรีกับชีวิต",
+    "nameTH": "วัฒนธรรมดนตรีกับชีวิต",
+    "type": "Aesthetics",
+    "unit": "3"
+  },
+  "01999036": {
+    "Message": "manual read by code",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ความสุขในพลวัตของชีวิต",
+    "nameTH": "ความสุขในพลวัตของชีวิต",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "01999041": {
+    "Message": "manual read by code",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "เศรษฐศาสตร์เพื่อการดำเนินชีวิตที่ดี",
+    "nameTH": "เศรษฐศาสตร์เพื่อการดำเนินชีวิตที่ดี",
+    "type": "Entrepreneurship",
+    "unit": "3"
+  },
+  "01999043": {
+    "Message": "manual read by code",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การคิดสร้างสรรค์เพื่อการจัดการคุณค่า",
+    "nameTH": "การคิดสร้างสรรค์เพื่อการจัดการคุณค่า",
+    "type": "Entrepreneurship",
+    "unit": "3"
+  },
+  "01999046": {
+    "Message": "manual read by code",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การพัฒนาความมั่นคงแห่งชาติ",
+    "nameTH": "การพัฒนาความมั่นคงแห่งชาติ",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "01999047": {
+    "Message": "manual read by code",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การทหารเพื่อการพัฒนาประเทศ",
+    "nameTH": "การทหารเพื่อการพัฒนาประเทศ",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "01999048": {
+    "Message": "manual read by code",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "นวัตกรรมเพื่อสิ่งแวดล้อมและสุขภาวะ",
+    "nameTH": "นวัตกรรมเพื่อสิ่งแวดล้อมและสุขภาวะ",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "01999051": {
+    "Message": "manual read by code",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "hour": "2-0-4",
+    "nameEN": "การพัฒนาสมรรถนะหลักผ่านสุขภาพหนึ่งเดียว",
+    "nameTH": "การพัฒนาสมรรถนะหลักผ่านสุขภาพหนึ่งเดียว",
+    "type": "Wellness",
+    "unit": "2"
+  },
+  "01999111": {
+    "Message": "manual read by code",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "hour": "2-0-4",
+    "nameEN": "ศาสตร์แห่งแผ่นดิน",
+    "nameTH": "ศาสตร์แห่งแผ่นดิน",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "2"
+  },
+  "01999112": {
+    "Message": "manual read by code",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "hour": "2-3-6",
+    "nameEN": "แนวคิดเศรษฐกิจหมุนเวียนเพื่อความยั่งยืน",
+    "nameTH": "แนวคิดเศรษฐกิจหมุนเวียนเพื่อความยั่งยืน",
+    "type": "Entrepreneurship",
+    "unit": "3"
+  },
+  "01999113": {
+    "Message": "manual read by code",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "วัยใสใจสะอาด",
+    "nameTH": "วัยใสใจสะอาด",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "01999141": {
+    "Message": "manual read by code",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "มนุษย์กับสังคม",
+    "nameTH": "มนุษย์กับสังคม",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "01999213": {
+    "Message": "manual read by code",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "สิ่งแวดล้อมเทคโนโลยีและชีวิต",
+    "nameTH": "สิ่งแวดล้อมเทคโนโลยีและชีวิต",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "02032303": {
+    "Message": "manual read by code",
+    "faculty": "คณะเกษตร กำแพงแสน",
+    "hour": "3-0-6",
+    "nameEN": "การเกษตรกับคุณภาพชีวิตที่ดี",
+    "nameTH": "การเกษตรกับคุณภาพชีวิตที่ดี",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "02032304": {
+    "Message": "manual read by code",
+    "faculty": "คณะเกษตร กำแพงแสน",
+    "hour": "2-0-4",
+    "nameEN": "เกษตรเพื่อโลกสีเขียว",
+    "nameTH": "เกษตรเพื่อโลกสีเขียว",
+    "type": "Wellness",
+    "unit": "2"
+  },
+  "02207102": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิศวกรรมศาสตร์กำแพงแสน",
+    "hour": "3-0-6",
+    "nameEN": "มนุษย์สังคมและการเปลี่ยนแปลงสภาพภูมิอากาศ",
+    "nameTH": "มนุษย์สังคมและการเปลี่ยนแปลงสภาพภูมิอากาศ",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "02207103": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิศวกรรมศาสตร์ กำแพงแสน",
+    "hour": "3-0-6",
+    "nameEN": "ช่างประจำบ้าน",
+    "nameTH": "ช่างประจำบ้าน",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "02701011": {
+    "Message": "manual read by code",
+    "faculty": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การใช้ภาษาไทยเพื่อธุรกิจวิทยาศาสตร์และเทคโนโลยี",
+    "nameTH": "การใช้ภาษาไทยเพื่อธุรกิจวิทยาศาสตร์และเทคโนโลยี",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "02708102": {
+    "Message": "manual read by code",
+    "faculty": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "วรรณกรรมกับวิทยาศาสตร์",
+    "nameTH": "วรรณกรรมกับวิทยาศาสตร์",
+    "type": "Aesthetics",
+    "unit": "3"
+  },
+  "02714101": {
+    "Message": "manual read by code",
+    "faculty": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การคิดเชิงวิพากษ์และการแก้ปัญหา",
+    "nameTH": "การคิดเชิงวิพากษ์และการแก้ปัญหา",
+    "type": "Entrepreneurship",
+    "unit": "3"
+  },
+  "02717011": {
+    "Message": "manual read by code",
+    "faculty": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "ตนและการพัฒนาตน",
+    "nameTH": "ตนและการพัฒนาตน",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "02717112": {
+    "Message": "manual read by code",
+    "faculty": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การเมืองไทยร่วมสมัย",
+    "nameTH": "การเมืองไทยร่วมสมัย",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "02721121": {
+    "Message": "manual read by code",
+    "faculty": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การจัดการธุรกิจเพื่อสังคมที่ยั่งยืน",
+    "nameTH": "การจัดการธุรกิจเพื่อสังคมที่ยั่งยืน",
+    "type": "Entrepreneurship",
+    "unit": "3"
+  },
+  "02724011": {
+    "Message": "manual read by code",
+    "faculty": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การสื่อสารระหว่างวัฒนธรรม",
+    "nameTH": "การสื่อสารระหว่างวัฒนธรรม",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "02724012": {
+    "Message": "manual read by code",
+    "faculty": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "การพัฒนาบุคลิกภาพ",
+    "nameTH": "การพัฒนาบุคลิกภาพ",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "02727104": {
+    "Message": "manual read by code",
+    "faculty": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "สิ่งมีชีวิตกับภัยพิบัติทางธรรมชาติ",
+    "nameTH": "สิ่งมีชีวิตกับภัยพิบัติทางธรรมชาติ",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "02728101": {
+    "Message": "manual read by code",
+    "faculty": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "เคมีในชีวิตสมัยใหม่",
+    "nameTH": "เคมีในชีวิตสมัยใหม่",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "02728102": {
+    "Message": "manual read by code",
+    "faculty": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+    "hour": "3-0-6",
+    "nameEN": "สารสีในงานศิลปะ",
+    "nameTH": "สารสีในงานศิลปะ",
+    "type": "Aesthetics",
+    "unit": "3"
+  },
+  "02999037": {
+    "Message": "manual read by code",
+    "faculty": "โครงการบูรณาการวิทยาเขตกำแพงแสน",
+    "hour": "3-0-6",
+    "nameEN": "ศิลปะแห่งสุนทรียศาสตร์เพื่อความสุข",
+    "nameTH": "ศิลปะแห่งสุนทรียศาสตร์เพื่อความสุข",
+    "type": "Aesthetics",
+    "unit": "3"
+  },
+  "02999038": {
+    "Message": "manual read by code",
+    "faculty": "โครงการบูรณาการ วิทยาเขตกำแพงแสน",
+    "hour": "3-0-6",
+    "nameEN": "ความสุขในศตวรรษที่ 21",
+    "nameTH": "ความสุขในศตวรรษที่ 21",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "02999042": {
+    "Message": "manual read by code",
+    "faculty": "โครงการบูรณาการ วิทยาเขตกำแพงแสน",
+    "hour": "2-3-6",
+    "nameEN": "การพัฒนานิสิต",
+    "nameTH": "การพัฒนานิสิต",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "02999044": {
+    "Message": "manual read by code",
+    "faculty": "โครงการบูรณาการ วิทยาเขตกำแพงแสน",
+    "hour": "3-0-6",
+    "nameEN": "เศรษฐกิจพอเพียงเพื่อการดำรงชีวิต",
+    "nameTH": "เศรษฐกิจพอเพียงเพื่อการดำรงชีวิต",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "02999045": {
+    "Message": "manual read by code",
+    "faculty": "โครงการบูรณาการ วิทยาเขตกำแพงแสน",
+    "hour": "3-0-6",
+    "nameEN": "การเพิ่มคุณค่าชีวิตด้วยวิถีชุมชน",
+    "nameTH": "การเพิ่มคุณค่าชีวิตด้วยวิถีชุมชน",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "02999144": {
+    "Message": "manual read by code",
+    "faculty": "โครงการบูรณาการวิทยาเขตกำแพงแสน",
+    "hour": "1-0-2",
+    "nameEN": "ทักษะชีวิตการเป็นนิสิตมหาวิทยาลัย",
+    "nameTH": "ทักษะชีวิตการเป็นนิสิตมหาวิทยาลัย",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "1"
+  },
+  "02999147": {
+    "Message": "manual read by code",
+    "faculty": "โครงการบูรณาการวิทยาเขตกำแพงแสน",
+    "hour": "3-0-6",
+    "nameEN": "ไทยในพลวัตอาเซียน",
+    "nameTH": "ไทยในพลวัตอาเซียน",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "03521101": {
+    "Message": "manual read by code",
+    "faculty": "คณะพาณิชยนาวีนานาชาติ",
+    "hour": "3-0-6",
+    "nameEN": "ทะเลกับชีวิต",
+    "nameTH": "ทะเลกับชีวิต",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "03600012": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิศวกรรมศาสตร์ศรีราชา",
+    "hour": "3-0-6",
+    "nameEN": "เทคโนโลยีสีเขียว",
+    "nameTH": "เทคโนโลยีสีเขียว",
+    "type": "Aesthetics",
+    "unit": "3"
+  },
+  "03600013": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิศวกรรมศาสตร์",
+    "hour": "0-3-2",
+    "nameEN": "เครื่องมือและทักษะทางคอมพิวเตอร์ที่จำเป็น",
+    "nameTH": "เครื่องมือและทักษะทางคอมพิวเตอร์ที่จำเป็น",
+    "type": "Language_and_Communication",
+    "unit": "1"
+  },
+  "03600014": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิศวกรรมศาสตร์ ศรีราชา",
+    "hour": "3-0-6",
+    "nameEN": "การแก้ปัญหาเชิงสร้างสรรค์และทักษะการคิดเชิงวิพากษ์",
+    "nameTH": "การแก้ปัญหาเชิงสร้างสรรค์และทักษะการคิดเชิงวิพากษ์",
+    "type": "Entrepreneurship",
+    "unit": "3"
+  },
+  "03654111": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาศาสตร์ศรีราชา",
+    "hour": "3-0-6",
+    "nameEN": "สุนทรียศาสตร์ทางการกีฬา",
+    "nameTH": "สุนทรียศาสตร์ทางการกีฬา",
+    "type": "Aesthetics",
+    "unit": "3"
+  },
+  "03654112": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาศาสตร์ศรีราชา",
+    "hour": "3-0-6",
+    "nameEN": "สมุนไพรไทยให้คุณ",
+    "nameTH": "สมุนไพรไทยให้คุณ",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "03654113": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาศาสตร์ศรีราชา",
+    "hour": "3-0-6",
+    "nameEN": "กิจกรรมทางกายเพื่อชีวิตสมัยใหม่",
+    "nameTH": "กิจกรรมทางกายเพื่อชีวิตสมัยใหม่",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "03654114": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาศาสตร์ศรีราชา",
+    "hour": "3-0-6",
+    "nameEN": "โมบายแอปพลิเคชันสำหรับชีวิตยุคใหม่",
+    "nameTH": "โมบายแอปพลิเคชันสำหรับชีวิตยุคใหม่",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "03751111": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาการจัดการ",
+    "hour": "3-0-6",
+    "nameEN": "มนุษย์กับสิ่งแวดล้อม",
+    "nameTH": "มนุษย์กับสิ่งแวดล้อม",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "03751112": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาการจัดการ",
+    "hour": "3-0-6",
+    "nameEN": "สังคมและการเมือง",
+    "nameTH": "สังคมและการเมือง",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "03752111": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาการจัดการ",
+    "hour": "0-3-2",
+    "nameEN": "ทรัพยากรสารสนเทศเพื่อการค้นคว้า",
+    "nameTH": "ทรัพยากรสารสนเทศเพื่อการค้นคว้า",
+    "type": "Language_and_Communication",
+    "unit": "1"
+  },
+  "03754221": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาการจัดการ",
+    "hour": "3-0-6",
+    "nameEN": "การออกเสียงภาษาอังกฤษพื้นฐาน",
+    "nameTH": "การออกเสียงภาษาอังกฤษพื้นฐาน",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "03754231": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาการจัดการ",
+    "hour": "3-0-6",
+    "nameEN": "การอ่านภาษาอังกฤษในชีวิตประจำวัน",
+    "nameTH": "การอ่านภาษาอังกฤษในชีวิตประจำวัน",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "03754241": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาการจัดการ",
+    "hour": "3-0-6",
+    "nameEN": "โครงสร้างทางไวยากรณ์ภาษาอังกฤษ",
+    "nameTH": "โครงสร้างทางไวยากรณ์ภาษาอังกฤษ",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "03754251": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาการจัดการ",
+    "hour": "3-0-6",
+    "nameEN": "การเขียนย่อหน้าภาษาอังกฤษ",
+    "nameTH": "การเขียนย่อหน้าภาษาอังกฤษ",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "03754271": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาการจัดการ",
+    "hour": "3-0-6",
+    "nameEN": "ภาษาอังกฤษเพื่องานอาชีพ",
+    "nameTH": "ภาษาอังกฤษเพื่องานอาชีพ",
+    "type": "Language_and_Communication",
+    "unit": "3"
+  },
+  "03757123": {
+    "Message": "manual read by code",
+    "faculty": "คณะวิทยาการจัดการ",
+    "hour": "3-0-6",
+    "nameEN": "คณิตศาสตร์สำหรับธุรกิจ",
+    "nameTH": "คณิตศาสตร์สำหรับธุรกิจ",
+    "type": "Entrepreneurship",
+    "unit": "3"
+  },
+  "03999179": {
+    "Message": "manual read by code",
+    "faculty": "โครงการวิชาบูรณาการมก.วิทยาเขตศรีราชา",
+    "hour": "3-0-6",
+    "nameEN": "เขตทางทะเลและการจัดการทรัพยากรทางทะเลและชายฝั่ง",
+    "nameTH": "เขตทางทะเลและการจัดการทรัพยากรทางทะเลและชายฝั่ง",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "04101201": {
+    "Message": "manual read by code",
+    "faculty": "คณะทรัพยากรธรรมชาติและอุตสาหกรรมเกษตร",
+    "hour": "3-0-6",
+    "nameEN": "วิถีชีวิตเศรษฐกิจพอเพียง",
+    "nameTH": "วิถีชีวิตเศรษฐกิจพอเพียง",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "04101302": {
+    "Message": "manual read by code",
+    "faculty": "คณะทรัพยากรธรรมชาติและอุตสาหกรรมเกษตร",
+    "hour": "3-0-6",
+    "nameEN": "จิตอาสาเพื่อพัฒนาชุมชน",
+    "nameTH": "จิตอาสาเพื่อพัฒนาชุมชน",
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "unit": "3"
+  },
+  "04152201": {
+    "Message": "manual read by code",
+    "faculty": "คณะทรัพยากรธรรมชาติและอุตสาหกรรมเกษตร",
+    "hour": "3-0-6",
+    "nameEN": "วิถีโภชนาการใหม่เพื่อชีวิต",
+    "nameTH": "วิถีโภชนาการใหม่เพื่อชีวิต",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "04355181": {
+    "Message": "manual read by code",
+    "faculty": "คณะศิลปศาสตร์และวิทยาการจัดการ",
+    "hour": "3-0-6",
+    "nameEN": "กิจกรรมยามว่างเพื่อสุขภาพ",
+    "nameTH": "กิจกรรมยามว่างเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "3"
+  },
+  "04355185": {
+    "Message": "manual read by code",
+    "faculty": "คณะศิลปศาสตร์และวิทยาการจัดการ",
+    "hour": "0-2-1",
+    "nameEN": "จานร่อนเพื่อสุขภาพ",
+    "nameTH": "จานร่อนเพื่อสุขภาพ",
+    "type": "Wellness",
+    "unit": "1"
+  },
+  "04837111": {
+    "Message": "manual read by code",
+    "faculty": "คณะศิลปศาสตร์และวิทยาการจัดการ",
+    "hour": "1-2-3",
+    "nameEN": "กีฬาเพื่อสุขภาพที่ดี",
+    "nameTH": "กีฬาเพื่อสุขภาพที่ดี",
+    "type": "Wellness",
+    "unit": "2"
+  }
+}

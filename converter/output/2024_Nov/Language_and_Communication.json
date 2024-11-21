@@ -1,0 +1,695 @@
+{
+  "01354101": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาเขมรเพื่อการสื่อสารI",
+    "nameTH": "ภาษาเขมรเพื่อการสื่อสารI",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01354102": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาเขมรเพื่อการสื่อสารII",
+    "nameTH": "ภาษาเขมรเพื่อการสื่อสารII",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01354103": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาเขมรเพื่อการสื่อสารIII",
+    "nameTH": "ภาษาเขมรเพื่อการสื่อสารIII",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355101": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาอังกฤษในชีวิตประจำวัน",
+    "nameTH": "ภาษาอังกฤษในชีวิตประจำวัน",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355102": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาอังกฤษในมหาวิทยาลัย",
+    "nameTH": "ภาษาอังกฤษในมหาวิทยาลัย",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355103": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาอังกฤษเพื่อโอกาสในการทำงาน",
+    "nameTH": "ภาษาอังกฤษเพื่อโอกาสในการทำงาน",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355104": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาอังกฤษสำหรับนิสิตเตรียมแพทย์I",
+    "nameTH": "ภาษาอังกฤษสำหรับนิสิตเตรียมแพทย์I",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355105": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาอังกฤษสำหรับนิสิตเตรียมแพทย์II",
+    "nameTH": "ภาษาอังกฤษสำหรับนิสิตเตรียมแพทย์II",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355106": {
+    "type": "Language_and_Communication",
+    "nameEN": "การสื่อสารภาษาอังกฤษทางการแพทย์",
+    "nameTH": "การสื่อสารภาษาอังกฤษทางการแพทย์",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355107": {
+    "type": "Language_and_Communication",
+    "nameEN": "ทักษะการเขียนภาษาอังกฤษที่จำเป็น",
+    "nameTH": "ทักษะการเขียนภาษาอังกฤษที่จำเป็น",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355108": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาอังกฤษและวัฒนธรรมจากเพลง",
+    "nameTH": "ภาษาอังกฤษและวัฒนธรรมจากเพลง",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355109": {
+    "type": "Language_and_Communication",
+    "nameEN": "ทักษะการฟัง-การพูดภาษาอังกฤษที่จำเป็น",
+    "nameTH": "ทักษะการฟัง-การพูดภาษาอังกฤษที่จำเป็น",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355119": {
+    "type": "Language_and_Communication",
+    "nameEN": "ทักษะการอ่านภาษาอังกฤษที่จำเป็น",
+    "nameTH": "ทักษะการอ่านภาษาอังกฤษที่จำเป็น",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355121": {
+    "type": "Language_and_Communication",
+    "nameEN": "คำและการออกเสียงในภาษาอังกฤษ",
+    "nameTH": "คำและการออกเสียงในภาษาอังกฤษ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355201": {
+    "type": "Language_and_Communication",
+    "nameEN": "การอ่านและเขียนภาษาอังกฤษอย่างมีวิจารณญาณ",
+    "nameTH": "การอ่านและเขียนภาษาอังกฤษอย่างมีวิจารณญาณ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355202": {
+    "type": "Language_and_Communication",
+    "nameEN": "การเขียนรายงานภาษาอังกฤษ",
+    "nameTH": "การเขียนรายงานภาษาอังกฤษ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355203": {
+    "type": "Language_and_Communication",
+    "nameEN": "โครงสร้างภาษาอังกฤษ",
+    "nameTH": "โครงสร้างภาษาอังกฤษ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355204": {
+    "type": "Language_and_Communication",
+    "nameEN": "การนำเสนอโครงงานเป็นภาษาอังกฤษ",
+    "nameTH": "การนำเสนอโครงงานเป็นภาษาอังกฤษ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355205": {
+    "type": "Language_and_Communication",
+    "nameEN": "การอ่านภาษาอังกฤษด้านสื่อสารมวลชน",
+    "nameTH": "การอ่านภาษาอังกฤษด้านสื่อสารมวลชน",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355206": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาอังกฤษวิชาการ",
+    "nameTH": "ภาษาอังกฤษวิชาการ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355207": {
+    "type": "Language_and_Communication",
+    "nameEN": "การเขียนโต้ตอบภาษาอังกฤษ",
+    "nameTH": "การเขียนโต้ตอบภาษาอังกฤษ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355208": {
+    "type": "Language_and_Communication",
+    "nameEN": "การพัฒนาทักษะภาษาอังกฤษผ่านเกม",
+    "nameTH": "การพัฒนาทักษะภาษาอังกฤษผ่านเกม",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355209": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาอังกฤษเพื่อการสื่อสารในงานอาชีพ",
+    "nameTH": "ภาษาอังกฤษเพื่อการสื่อสารในงานอาชีพ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355303": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาอังกฤษเพื่อการสมัครงาน",
+    "nameTH": "ภาษาอังกฤษเพื่อการสมัครงาน",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355304": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาอังกฤษสำหรับการเดินทาง",
+    "nameTH": "ภาษาอังกฤษสำหรับการเดินทาง",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355306": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาอังกฤษเพื่อความเข้าใจและซาบซึ้งในศิลปะและวัฒนธรรมไทย",
+    "nameTH": "ภาษาอังกฤษเพื่อความเข้าใจและซาบซึ้งในศิลปะและวัฒนธรรมไทย",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01355307": {
+    "type": "Language_and_Communication",
+    "nameEN": "ทักษะรวมภาษาอังกฤษเพื่อการสื่อสาร",
+    "nameTH": "ทักษะรวมภาษาอังกฤษเพื่อการสื่อสาร",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01356101": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาฝรั่งเศสเบื้องต้นI",
+    "nameTH": "ภาษาฝรั่งเศสเบื้องต้นI",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01356102": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาฝรั่งเศสเบื้องต้นII",
+    "nameTH": "ภาษาฝรั่งเศสเบื้องต้นII",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01356103": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาฝรั่งเศสเบื้องต้นIII",
+    "nameTH": "ภาษาฝรั่งเศสเบื้องต้นIII",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01356104": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาฝรั่งเศสเบื้องต้นIV",
+    "nameTH": "ภาษาฝรั่งเศสเบื้องต้นIV",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01357101": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาเยอรมันเบื้องต้นI",
+    "nameTH": "ภาษาเยอรมันเบื้องต้นI",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01357102": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาเยอรมันเบื้องต้นII",
+    "nameTH": "ภาษาเยอรมันเบื้องต้นII",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01357103": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาเยอรมันเบื้องต้นIII",
+    "nameTH": "ภาษาเยอรมันเบื้องต้นIII",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01357104": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาเยอรมันเบื้องต้นIV",
+    "nameTH": "ภาษาเยอรมันเบื้องต้นIV",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01358101": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาญี่ปุ่นเบื้องต้นI",
+    "nameTH": "ภาษาญี่ปุ่นเบื้องต้นI",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01358102": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาญี่ปุ่นเบื้องต้นII",
+    "nameTH": "ภาษาญี่ปุ่นเบื้องต้นII",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01358103": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาญี่ปุ่นเบื้องต้นIII",
+    "nameTH": "ภาษาญี่ปุ่นเบื้องต้นIII",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01358104": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาญี่ปุ่นเบื้องต้นIV",
+    "nameTH": "ภาษาญี่ปุ่นเบื้องต้นIV",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01361101": {
+    "type": "Language_and_Communication",
+    "nameEN": "การใช้ภาษาไทยเบื้องต้น",
+    "nameTH": "การใช้ภาษาไทยเบื้องต้น",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01361102": {
+    "type": "Language_and_Communication",
+    "nameEN": "การเขียนภาษาไทยเชิงปฏิบัติ",
+    "nameTH": "การเขียนภาษาไทยเชิงปฏิบัติ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01361103": {
+    "type": "Language_and_Communication",
+    "nameEN": "การอ่านภาษาไทยเชิงวิจารณ์",
+    "nameTH": "การอ่านภาษาไทยเชิงวิจารณ์",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01362101": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาจีนI",
+    "nameTH": "ภาษาจีนI",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01362102": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาจีนII",
+    "nameTH": "ภาษาจีนII",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01362201": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาจีนIII",
+    "nameTH": "ภาษาจีนIII",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01362202": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาจีนIV",
+    "nameTH": "ภาษาจีนIV",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01362301": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาจีนV",
+    "nameTH": "ภาษาจีนV",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01364101": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาสเปนเพื่อการสื่อสารI",
+    "nameTH": "ภาษาสเปนเพื่อการสื่อสารI",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01364102": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาสเปนเพื่อการสื่อสารII",
+    "nameTH": "ภาษาสเปนเพื่อการสื่อสารII",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01364103": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาสเปนเพื่อการสื่อสารIII",
+    "nameTH": "ภาษาสเปนเพื่อการสื่อสารIII",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01371111": {
+    "type": "Language_and_Communication",
+    "nameEN": "สื่อสารสนเทศเพื่อการเรียนรู้",
+    "nameTH": "สื่อสารสนเทศเพื่อการเรียนรู้",
+    "unit": "1",
+    "hour": "1-0-2",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01395101": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาเกาหลีเพื่อการสื่อสารI",
+    "nameTH": "ภาษาเกาหลีเพื่อการสื่อสารI",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01395102": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาเกาหลีเพื่อการสื่อสารII",
+    "nameTH": "ภาษาเกาหลีเพื่อการสื่อสารII",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01395103": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาเกาหลีเพื่อการสื่อสารIII",
+    "nameTH": "ภาษาเกาหลีเพื่อการสื่อสารIII",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01395104": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาเกาหลีเพื่อการสื่อสารIV",
+    "nameTH": "ภาษาเกาหลีเพื่อการสื่อสารIV",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01395105": {
+    "type": "Language_and_Communication",
+    "nameEN": "การอ่านและรายงานภาษาเกาหลี",
+    "nameTH": "การอ่านและรายงานภาษาเกาหลี",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01399101": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาเวียดนามเพื่อการสื่อสารI",
+    "nameTH": "ภาษาเวียดนามเพื่อการสื่อสารI",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01399102": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาเวียดนามเพื่อการสื่อสารII",
+    "nameTH": "ภาษาเวียดนามเพื่อการสื่อสารII",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01399103": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาเวียดนามเพื่อการสื่อสารIII",
+    "nameTH": "ภาษาเวียดนามเพื่อการสื่อสารIII",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01399104": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาเวียดนามเพื่อการสื่อสารIV",
+    "nameTH": "ภาษาเวียดนามเพื่อการสื่อสารIV",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01399105": {
+    "type": "Language_and_Communication",
+    "nameEN": "การอ่านภาษาเวียดนาม",
+    "nameTH": "การอ่านภาษาเวียดนาม",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01399106": {
+    "type": "Language_and_Communication",
+    "nameEN": "การฟัง-พูดภาษาเวียดนาม",
+    "nameTH": "การฟัง-พูดภาษาเวียดนาม",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01418101": {
+    "type": "Language_and_Communication",
+    "nameEN": "การใช้งานคอมพิวเตอร์",
+    "nameTH": "การใช้งานคอมพิวเตอร์",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะวิทยาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01418104": {
+    "type": "Language_and_Communication",
+    "nameEN": "รู้ทันไอที",
+    "nameTH": "รู้ทันไอที",
+    "unit": "2",
+    "hour": "2-0-4",
+    "faculty": "คณะวิทยาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01418106": {
+    "type": "Language_and_Communication",
+    "nameEN": "ทักษะเทคโนโลยีดิจิทัล",
+    "nameTH": "ทักษะเทคโนโลยีดิจิทัล",
+    "unit": "3",
+    "hour": "2-2-5",
+    "faculty": "คณะวิทยาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01999021": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาไทยเพื่อการสื่อสาร",
+    "nameTH": "ภาษาไทยเพื่อการสื่อสาร",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01999022": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาไทยในบริบทวัฒนธรรม",
+    "nameTH": "ภาษาไทยในบริบทวัฒนธรรม",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01999023": {
+    "type": "Language_and_Communication",
+    "nameEN": "ทักษะความเข้าใจและใช้เทคโนโลยีดิจิทัล",
+    "nameTH": "ทักษะความเข้าใจและใช้เทคโนโลยีดิจิทัล",
+    "unit": "2",
+    "hour": "1-2-4",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "Message": "manual read by code"
+  },
+  "02701011": {
+    "type": "Language_and_Communication",
+    "nameEN": "การใช้ภาษาไทยเพื่อธุรกิจวิทยาศาสตร์และเทคโนโลยี",
+    "nameTH": "การใช้ภาษาไทยเพื่อธุรกิจวิทยาศาสตร์และเทคโนโลยี",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "02724011": {
+    "type": "Language_and_Communication",
+    "nameEN": "การสื่อสารระหว่างวัฒนธรรม",
+    "nameTH": "การสื่อสารระหว่างวัฒนธรรม",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "03600013": {
+    "type": "Language_and_Communication",
+    "nameEN": "เครื่องมือและทักษะทางคอมพิวเตอร์ที่จำเป็น",
+    "nameTH": "เครื่องมือและทักษะทางคอมพิวเตอร์ที่จำเป็น",
+    "unit": "1",
+    "hour": "0-3-2",
+    "faculty": "คณะวิศวกรรมศาสตร์",
+    "Message": "manual read by code"
+  },
+  "03752111": {
+    "type": "Language_and_Communication",
+    "nameEN": "ทรัพยากรสารสนเทศเพื่อการค้นคว้า",
+    "nameTH": "ทรัพยากรสารสนเทศเพื่อการค้นคว้า",
+    "unit": "1",
+    "hour": "0-3-2",
+    "faculty": "คณะวิทยาการจัดการ",
+    "Message": "manual read by code"
+  },
+  "03754221": {
+    "type": "Language_and_Communication",
+    "nameEN": "การออกเสียงภาษาอังกฤษพื้นฐาน",
+    "nameTH": "การออกเสียงภาษาอังกฤษพื้นฐาน",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวิทยาการจัดการ",
+    "Message": "manual read by code"
+  },
+  "03754231": {
+    "type": "Language_and_Communication",
+    "nameEN": "การอ่านภาษาอังกฤษในชีวิตประจำวัน",
+    "nameTH": "การอ่านภาษาอังกฤษในชีวิตประจำวัน",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวิทยาการจัดการ",
+    "Message": "manual read by code"
+  },
+  "03754241": {
+    "type": "Language_and_Communication",
+    "nameEN": "โครงสร้างทางไวยากรณ์ภาษาอังกฤษ",
+    "nameTH": "โครงสร้างทางไวยากรณ์ภาษาอังกฤษ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวิทยาการจัดการ",
+    "Message": "manual read by code"
+  },
+  "03754251": {
+    "type": "Language_and_Communication",
+    "nameEN": "การเขียนย่อหน้าภาษาอังกฤษ",
+    "nameTH": "การเขียนย่อหน้าภาษาอังกฤษ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวิทยาการจัดการ",
+    "Message": "manual read by code"
+  },
+  "03754271": {
+    "type": "Language_and_Communication",
+    "nameEN": "ภาษาอังกฤษเพื่องานอาชีพ",
+    "nameTH": "ภาษาอังกฤษเพื่องานอาชีพ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวิทยาการจัดการ",
+    "Message": "manual read by code"
+  }
+}

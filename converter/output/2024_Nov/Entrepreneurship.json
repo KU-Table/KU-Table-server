@@ -1,0 +1,164 @@
+{
+  "01005101": {
+    "type": "Entrepreneurship",
+    "nameEN": "เทคโนโลยีเกษตรสมัยใหม่",
+    "nameTH": "เทคโนโลยีเกษตรสมัยใหม่",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะเกษตร",
+    "Message": "manual read by code"
+  },
+  "01101101": {
+    "type": "Entrepreneurship",
+    "nameEN": "เศรษฐศาสตร์ทั่วไปในกระแสโลกาภิวัตน์",
+    "nameTH": "เศรษฐศาสตร์ทั่วไปในกระแสโลกาภิวัตน์",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะเศรษฐศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01131111": {
+    "type": "Entrepreneurship",
+    "nameEN": "การเงินสำหรับผู้ประกอบการ",
+    "nameTH": "การเงินสำหรับผู้ประกอบการ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะบริหารธุรกิจ",
+    "Message": "manual read by code"
+  },
+  "01177141": {
+    "type": "Entrepreneurship",
+    "nameEN": "การแสวงหาความรู้",
+    "nameTH": "การแสวงหาความรู้",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01179101": {
+    "type": "Entrepreneurship",
+    "nameEN": "ทักษะการประกอบการ (รายวิชาเพิ่มเติม)",
+    "nameTH": "ทักษะการประกอบการ (รายวิชาเพิ่มเติม)",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01200101": {
+    "type": "Entrepreneurship",
+    "nameEN": "การคิดเชิงนวัตกรรม",
+    "nameTH": "การคิดเชิงนวัตกรรม",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวิศวกรรมศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01242001": {
+    "type": "Entrepreneurship",
+    "nameEN": "การออกแบบและธุรกิจผลิตภัณฑ์แนวสร้างสรรค์",
+    "nameTH": "การออกแบบและธุรกิจผลิตภัณฑ์แนวสร้างสรรค์",
+    "unit": "3",
+    "hour": "2-2-5",
+    "faculty": "คณะสถาปัตยกรรมศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01387105": {
+    "type": "Entrepreneurship",
+    "nameEN": "พุทธจริยศาสตร์ในการดำเนินธุรกิจ",
+    "nameTH": "พุทธจริยศาสตร์ในการดำเนินธุรกิจ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01390104": {
+    "type": "Entrepreneurship",
+    "nameEN": "การพัฒนาบุคลิกภาพเพื่อการเป็นผู้ประกอบการสมัยใหม่",
+    "nameTH": "การพัฒนาบุคลิกภาพเพื่อการเป็นผู้ประกอบการสมัยใหม่",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01418102": {
+    "type": "Entrepreneurship",
+    "nameEN": "เทคโนโลยีสารสนเทศเพื่อผู้ประกอบการ",
+    "nameTH": "เทคโนโลยีสารสนเทศเพื่อผู้ประกอบการ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวิทยาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01453103": {
+    "type": "Entrepreneurship",
+    "nameEN": "กฎหมายสำหรับผู้ประกอบการใหม่",
+    "nameTH": "กฎหมายสำหรับผู้ประกอบการใหม่",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะสังคมศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01999041": {
+    "type": "Entrepreneurship",
+    "nameEN": "เศรษฐศาสตร์เพื่อการดำเนินชีวิตที่ดี",
+    "nameTH": "เศรษฐศาสตร์เพื่อการดำเนินชีวิตที่ดี",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01999043": {
+    "type": "Entrepreneurship",
+    "nameEN": "การคิดสร้างสรรค์เพื่อการจัดการคุณค่า",
+    "nameTH": "การคิดสร้างสรรค์เพื่อการจัดการคุณค่า",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01999112": {
+    "type": "Entrepreneurship",
+    "nameEN": "แนวคิดเศรษฐกิจหมุนเวียนเพื่อความยั่งยืน",
+    "nameTH": "แนวคิดเศรษฐกิจหมุนเวียนเพื่อความยั่งยืน",
+    "unit": "3",
+    "hour": "2-3-6",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "Message": "manual read by code"
+  },
+  "02714101": {
+    "type": "Entrepreneurship",
+    "nameEN": "การคิดเชิงวิพากษ์และการแก้ปัญหา",
+    "nameTH": "การคิดเชิงวิพากษ์และการแก้ปัญหา",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "02721121": {
+    "type": "Entrepreneurship",
+    "nameEN": "การจัดการธุรกิจเพื่อสังคมที่ยั่งยืน",
+    "nameTH": "การจัดการธุรกิจเพื่อสังคมที่ยั่งยืน",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "03600014": {
+    "type": "Entrepreneurship",
+    "nameEN": "การแก้ปัญหาเชิงสร้างสรรค์และทักษะการคิดเชิงวิพากษ์",
+    "nameTH": "การแก้ปัญหาเชิงสร้างสรรค์และทักษะการคิดเชิงวิพากษ์",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวิศวกรรมศาสตร์ ศรีราชา",
+    "Message": "manual read by code"
+  },
+  "03757123": {
+    "type": "Entrepreneurship",
+    "nameEN": "คณิตศาสตร์สำหรับธุรกิจ",
+    "nameTH": "คณิตศาสตร์สำหรับธุรกิจ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวิทยาการจัดการ",
+    "Message": "manual read by code"
+  }
+}

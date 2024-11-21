@@ -1,0 +1,236 @@
+{
+  "01001317": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "ผู้นำกับการพัฒนาภาคการเกษตร",
+    "nameTH": "ผู้นำกับการพัฒนาภาคการเกษตร",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะเกษตร",
+    "Message": "manual read by code"
+  },
+  "01009102": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "มนุษย์และทรัพยากรธรรมชาติ",
+    "nameTH": "มนุษย์และทรัพยากรธรรมชาติ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะเกษตร",
+    "Message": "manual read by code"
+  },
+  "01015202": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "เกษตรวิถีไทย",
+    "nameTH": "เกษตรวิถีไทย",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะเกษตร",
+    "Message": "manual read by code"
+  },
+  "01301101": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "การอนุรักษ์ทรัพยากรและสิ่งแวดล้อม",
+    "nameTH": "การอนุรักษ์ทรัพยากรและสิ่งแวดล้อม",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวนศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01350104": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "ศิลปะการอ่านคน",
+    "nameTH": "ศิลปะการอ่านคน",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01390102": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "การท่องเที่ยวเชิงสร้างสรรค์",
+    "nameTH": "การท่องเที่ยวเชิงสร้างสรรค์",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01453101": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "สิทธิขั้นพื้นฐาน",
+    "nameTH": "สิทธิขั้นพื้นฐาน",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะสังคมศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01455101": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "การเมืองโลกในชีวิตประจำวัน",
+    "nameTH": "การเมืองโลกในชีวิตประจำวัน",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะสังคมศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01460101": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "สังคมและวัฒนธรรมไทยร่วมสมัย",
+    "nameTH": "สังคมและวัฒนธรรมไทยร่วมสมัย",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะสังคมศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01999013": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "พลเมืองดิจิทัล",
+    "nameTH": "พลเมืองดิจิทัล",
+    "unit": "3",
+    "hour": "2-2-5",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01999031": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "มรดกอารยธรรมโลก",
+    "nameTH": "มรดกอารยธรรมโลก",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01999032": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "ไทยศึกษา",
+    "nameTH": "ไทยศึกษา",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01999046": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "การพัฒนาความมั่นคงแห่งชาติ",
+    "nameTH": "การพัฒนาความมั่นคงแห่งชาติ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01999047": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "การทหารเพื่อการพัฒนาประเทศ",
+    "nameTH": "การทหารเพื่อการพัฒนาประเทศ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01999111": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "ศาสตร์แห่งแผ่นดิน",
+    "nameTH": "ศาสตร์แห่งแผ่นดิน",
+    "unit": "2",
+    "hour": "2-0-4",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01999113": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "วัยใสใจสะอาด",
+    "nameTH": "วัยใสใจสะอาด",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01999141": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "มนุษย์กับสังคม",
+    "nameTH": "มนุษย์กับสังคม",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "Message": "manual read by code"
+  },
+  "02207102": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "มนุษย์สังคมและการเปลี่ยนแปลงสภาพภูมิอากาศ",
+    "nameTH": "มนุษย์สังคมและการเปลี่ยนแปลงสภาพภูมิอากาศ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวิศวกรรมศาสตร์กำแพงแสน",
+    "Message": "manual read by code"
+  },
+  "02717112": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "การเมืองไทยร่วมสมัย",
+    "nameTH": "การเมืองไทยร่วมสมัย",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "02999042": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "การพัฒนานิสิต",
+    "nameTH": "การพัฒนานิสิต",
+    "unit": "3",
+    "hour": "2-3-6",
+    "faculty": "โครงการบูรณาการ วิทยาเขตกำแพงแสน",
+    "Message": "manual read by code"
+  },
+  "02999144": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "ทักษะชีวิตการเป็นนิสิตมหาวิทยาลัย",
+    "nameTH": "ทักษะชีวิตการเป็นนิสิตมหาวิทยาลัย",
+    "unit": "1",
+    "hour": "1-0-2",
+    "faculty": "โครงการบูรณาการวิทยาเขตกำแพงแสน",
+    "Message": "manual read by code"
+  },
+  "02999147": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "ไทยในพลวัตอาเซียน",
+    "nameTH": "ไทยในพลวัตอาเซียน",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "โครงการบูรณาการวิทยาเขตกำแพงแสน",
+    "Message": "manual read by code"
+  },
+  "03751111": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "มนุษย์กับสิ่งแวดล้อม",
+    "nameTH": "มนุษย์กับสิ่งแวดล้อม",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวิทยาการจัดการ",
+    "Message": "manual read by code"
+  },
+  "03751112": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "สังคมและการเมือง",
+    "nameTH": "สังคมและการเมือง",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวิทยาการจัดการ",
+    "Message": "manual read by code"
+  },
+  "03999179": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "เขตทางทะเลและการจัดการทรัพยากรทางทะเลและชายฝั่ง",
+    "nameTH": "เขตทางทะเลและการจัดการทรัพยากรทางทะเลและชายฝั่ง",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "โครงการวิชาบูรณาการมก.วิทยาเขตศรีราชา",
+    "Message": "manual read by code"
+  },
+  "04101302": {
+    "type": "Thai_Citizen_and_Global_Citizen",
+    "nameEN": "จิตอาสาเพื่อพัฒนาชุมชน",
+    "nameTH": "จิตอาสาเพื่อพัฒนาชุมชน",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะทรัพยากรธรรมชาติและอุตสาหกรรมเกษตร",
+    "Message": "manual read by code"
+  }
+}

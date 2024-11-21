@@ -1,0 +1,749 @@
+{
+  "01173151": {
+    "type": "Wellness",
+    "nameEN": "เอดส์ศึกษา",
+    "nameTH": "เอดส์ศึกษา",
+    "unit": "2",
+    "hour": "2-0-4",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01174123": {
+    "type": "Wellness",
+    "nameEN": "ค่ายพักแรมนันทนาการ",
+    "nameTH": "ค่ายพักแรมนันทนาการ",
+    "unit": "2",
+    "hour": "1-2-4",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01174231": {
+    "type": "Wellness",
+    "nameEN": "นันทนาการเบื้องต้น",
+    "nameTH": "นันทนาการเบื้องต้น",
+    "unit": "2",
+    "hour": "2-0-4",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175111": {
+    "type": "Wellness",
+    "nameEN": "กรีฑาลู่-ลานเพื่อสุขภาพ",
+    "nameTH": "กรีฑาลู่-ลานเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175112": {
+    "type": "Wellness",
+    "nameEN": "แบดมินตันเพื่อสุขภาพ",
+    "nameTH": "แบดมินตันเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175113": {
+    "type": "Wellness",
+    "nameEN": "เทนนิสเพื่อสุขภาพ",
+    "nameTH": "เทนนิสเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175114": {
+    "type": "Wellness",
+    "nameEN": "เทเบิลเทนนิสเพื่อสุขภาพ",
+    "nameTH": "เทเบิลเทนนิสเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175115": {
+    "type": "Wellness",
+    "nameEN": "ฝึกสมาธิด้วยกิจกรรมยิงปืน",
+    "nameTH": "ฝึกสมาธิด้วยกิจกรรมยิงปืน",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175117": {
+    "type": "Wellness",
+    "nameEN": "ฝึกสมาธิด้วยกิจกรรมยิงธนู",
+    "nameTH": "ฝึกสมาธิด้วยกิจกรรมยิงธนู",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175118": {
+    "type": "Wellness",
+    "nameEN": "แชร์บอลเพื่อสุขภาพ",
+    "nameTH": "แชร์บอลเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175119": {
+    "type": "Wellness",
+    "nameEN": "เปตองเพื่อสุขภาพ",
+    "nameTH": "เปตองเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175121": {
+    "type": "Wellness",
+    "nameEN": "บาสเกตบอลเพื่อสุขภาพ",
+    "nameTH": "บาสเกตบอลเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175122": {
+    "type": "Wellness",
+    "nameEN": "ฟุตบอลเพื่อสุขภาพ",
+    "nameTH": "ฟุตบอลเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175123": {
+    "type": "Wellness",
+    "nameEN": "วอลเลย์บอลเพื่อสุขภาพ",
+    "nameTH": "วอลเลย์บอลเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175124": {
+    "type": "Wellness",
+    "nameEN": "แฮนด์บอลเพื่อสุขภาพ",
+    "nameTH": "แฮนด์บอลเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175125": {
+    "type": "Wellness",
+    "nameEN": "ซอฟท์บอลเพื่อสุขภาพ",
+    "nameTH": "ซอฟท์บอลเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175126": {
+    "type": "Wellness",
+    "nameEN": "ตะกร้อเพื่อสุขภาพ",
+    "nameTH": "ตะกร้อเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175127": {
+    "type": "Wellness",
+    "nameEN": "ฮอกกี้เพื่อสุขภาพ",
+    "nameTH": "ฮอกกี้เพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175128": {
+    "type": "Wellness",
+    "nameEN": "รักบี้ฟุตบอลเพื่อสุขภาพ",
+    "nameTH": "รักบี้ฟุตบอลเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175129": {
+    "type": "Wellness",
+    "nameEN": "ฟุตซอลเพื่อสุขภาพ",
+    "nameTH": "ฟุตซอลเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175131": {
+    "type": "Wellness",
+    "nameEN": "ว่ายน้ำเพื่อสุขภาพ",
+    "nameTH": "ว่ายน้ำเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175133": {
+    "type": "Wellness",
+    "nameEN": "กระโดดน้ำ",
+    "nameTH": "กระโดดน้ำ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175134": {
+    "type": "Wellness",
+    "nameEN": "โปโลน้ำ",
+    "nameTH": "โปโลน้ำ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175141": {
+    "type": "Wellness",
+    "nameEN": "การเต้นแอโรบิกเพื่อสุขภาพ",
+    "nameTH": "การเต้นแอโรบิกเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175142": {
+    "type": "Wellness",
+    "nameEN": "การเต้นรำพื้นเมืองเพื่อสุขภาพ",
+    "nameTH": "การเต้นรำพื้นเมืองเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175143": {
+    "type": "Wellness",
+    "nameEN": "การเต้นลีลาศเพื่อสุขภาพ",
+    "nameTH": "การเต้นลีลาศเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175144": {
+    "type": "Wellness",
+    "nameEN": "รำไทยเพื่อสุขภาพ",
+    "nameTH": "รำไทยเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175151": {
+    "type": "Wellness",
+    "nameEN": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยดาบไทย",
+    "nameTH": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยดาบไทย",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175152": {
+    "type": "Wellness",
+    "nameEN": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยดาบสากล",
+    "nameTH": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยดาบสากล",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175153": {
+    "type": "Wellness",
+    "nameEN": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยมวยไทย",
+    "nameTH": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยมวยไทย",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175154": {
+    "type": "Wellness",
+    "nameEN": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยมวยสากล",
+    "nameTH": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยมวยสากล",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175155": {
+    "type": "Wellness",
+    "nameEN": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยยูโด",
+    "nameTH": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยยูโด",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175156": {
+    "type": "Wellness",
+    "nameEN": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยไอคิโด",
+    "nameTH": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยไอคิโด",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175157": {
+    "type": "Wellness",
+    "nameEN": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยกระบี่กระบอง",
+    "nameTH": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยกระบี่กระบอง",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175159": {
+    "type": "Wellness",
+    "nameEN": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยคาราเต้",
+    "nameTH": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยคาราเต้",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175161": {
+    "type": "Wellness",
+    "nameEN": "ฝึกสมองด้วยการเล่นบริดจ์",
+    "nameTH": "ฝึกสมองด้วยการเล่นบริดจ์",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175162": {
+    "type": "Wellness",
+    "nameEN": "โบว์ลิ่งเพื่อสุขภาพ",
+    "nameTH": "โบว์ลิ่งเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175163": {
+    "type": "Wellness",
+    "nameEN": "กอล์ฟเพื่อสุขภาพ",
+    "nameTH": "กอล์ฟเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175164": {
+    "type": "Wellness",
+    "nameEN": "จักรยานเพื่อสุขภาพ",
+    "nameTH": "จักรยานเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175165": {
+    "type": "Wellness",
+    "nameEN": "การฝึกด้วยน้ำหนักเพื่อสุขภาพ",
+    "nameTH": "การฝึกด้วยน้ำหนักเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175166": {
+    "type": "Wellness",
+    "nameEN": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยเทควันโด",
+    "nameTH": "ศิลปะการป้องกันตัวและการต่อสู้ด้วยเทควันโด",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175167": {
+    "type": "Wellness",
+    "nameEN": "โยคะเพื่อสุขภาพ",
+    "nameTH": "โยคะเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175168": {
+    "type": "Wellness",
+    "nameEN": "การวิ่งเหยาะเพื่อสุขภาพ",
+    "nameTH": "การวิ่งเหยาะเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01175169": {
+    "type": "Wellness",
+    "nameEN": "การออกกำลังกายเพื่อพัฒนาสุขภาพแบบองค์รวม",
+    "nameTH": "การออกกำลังกายเพื่อพัฒนาสุขภาพแบบองค์รวม",
+    "unit": "2",
+    "hour": "1-2-3",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01176141": {
+    "type": "Wellness",
+    "nameEN": "การวางแผนชีวิตและอาชีพสำหรับคนรุ่นใหม่",
+    "nameTH": "การวางแผนชีวิตและอาชีพสำหรับคนรุ่นใหม่",
+    "unit": "2",
+    "hour": "2-0-4",
+    "faculty": "คณะศึกษาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01350103": {
+    "type": "Wellness",
+    "nameEN": "ชีวิตยืดหยุ่นได้",
+    "nameTH": "ชีวิตยืดหยุ่นได้",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01373103": {
+    "type": "Wellness",
+    "nameEN": "เรื่องเล่ากับการแพทย์",
+    "nameTH": "เรื่องเล่ากับการแพทย์",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01387101": {
+    "type": "Wellness",
+    "nameEN": "ศิลปะการอยู่ร่วมกับผู้อื่น",
+    "nameTH": "ศิลปะการอยู่ร่วมกับผู้อื่น",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01387103": {
+    "type": "Wellness",
+    "nameEN": "ปรัชญาเศรษฐกิจพอเพียงกับพุทธศาสนา",
+    "nameTH": "ปรัชญาเศรษฐกิจพอเพียงกับพุทธศาสนา",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01390103": {
+    "type": "Wellness",
+    "nameEN": "การท่องเที่ยวเพื่อความผาสุก",
+    "nameTH": "การท่องเที่ยวเพื่อความผาสุก",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะมนุษยศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01402101": {
+    "type": "Wellness",
+    "nameEN": "การรู้เท่าทันผลิตภัณฑ์เสริมความงาม",
+    "nameTH": "การรู้เท่าทันผลิตภัณฑ์เสริมความงาม",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวิทยาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01416101": {
+    "type": "Wellness",
+    "nameEN": "พันธุศาสตร์ในสื่อ",
+    "nameTH": "พันธุศาสตร์ในสื่อ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวิทยาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01418103": {
+    "type": "Wellness",
+    "nameEN": "สุขภาพและสังคมดิจิทัล",
+    "nameTH": "สุขภาพและสังคมดิจิทัล",
+    "unit": "2",
+    "hour": "2-0-4",
+    "faculty": "คณะวิทยาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01421201": {
+    "type": "Wellness",
+    "nameEN": "รังสีชีวิตและสิ่งแวดล้อม",
+    "nameTH": "รังสีชีวิตและสิ่งแวดล้อม",
+    "unit": "2",
+    "hour": "2-0-4",
+    "faculty": "คณะวิทยาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01453102": {
+    "type": "Wellness",
+    "nameEN": "กฎหมายในชีวิตประจำวัน",
+    "nameTH": "กฎหมายในชีวิตประจำวัน",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะสังคมศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01459101": {
+    "type": "Wellness",
+    "nameEN": "จิตวิทยาเพื่อชีวิตสมัยใหม่",
+    "nameTH": "จิตวิทยาเพื่อชีวิตสมัยใหม่",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะสังคมศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01459102": {
+    "type": "Wellness",
+    "nameEN": "จิตวิทยากับความหลากหลายของมนุษย์",
+    "nameTH": "จิตวิทยากับความหลากหลายของมนุษย์",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะสังคมศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01999011": {
+    "type": "Wellness",
+    "nameEN": "อาหารเพื่อมนุษยชาติ",
+    "nameTH": "อาหารเพื่อมนุษยชาติ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01999012": {
+    "type": "Wellness",
+    "nameEN": "สุขภาพเพื่อชีวิต",
+    "nameTH": "สุขภาพเพื่อชีวิต",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01999033": {
+    "type": "Wellness",
+    "nameEN": "ศิลปะการดำเนินชีวิต",
+    "nameTH": "ศิลปะการดำเนินชีวิต",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01999036": {
+    "type": "Wellness",
+    "nameEN": "ความสุขในพลวัตของชีวิต",
+    "nameTH": "ความสุขในพลวัตของชีวิต",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01999048": {
+    "type": "Wellness",
+    "nameEN": "นวัตกรรมเพื่อสิ่งแวดล้อมและสุขภาวะ",
+    "nameTH": "นวัตกรรมเพื่อสิ่งแวดล้อมและสุขภาวะ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01999051": {
+    "type": "Wellness",
+    "nameEN": "การพัฒนาสมรรถนะหลักผ่านสุขภาพหนึ่งเดียว",
+    "nameTH": "การพัฒนาสมรรถนะหลักผ่านสุขภาพหนึ่งเดียว",
+    "unit": "2",
+    "hour": "2-0-4",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "Message": "manual read by code"
+  },
+  "01999213": {
+    "type": "Wellness",
+    "nameEN": "สิ่งแวดล้อมเทคโนโลยีและชีวิต",
+    "nameTH": "สิ่งแวดล้อมเทคโนโลยีและชีวิต",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "วิทยาลัยบูรณาการศาสตร์",
+    "Message": "manual read by code"
+  },
+  "02032303": {
+    "type": "Wellness",
+    "nameEN": "การเกษตรกับคุณภาพชีวิตที่ดี",
+    "nameTH": "การเกษตรกับคุณภาพชีวิตที่ดี",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะเกษตร กำแพงแสน",
+    "Message": "manual read by code"
+  },
+  "02032304": {
+    "type": "Wellness",
+    "nameEN": "เกษตรเพื่อโลกสีเขียว",
+    "nameTH": "เกษตรเพื่อโลกสีเขียว",
+    "unit": "2",
+    "hour": "2-0-4",
+    "faculty": "คณะเกษตร กำแพงแสน",
+    "Message": "manual read by code"
+  },
+  "02207103": {
+    "type": "Wellness",
+    "nameEN": "ช่างประจำบ้าน",
+    "nameTH": "ช่างประจำบ้าน",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวิศวกรรมศาสตร์ กำแพงแสน",
+    "Message": "manual read by code"
+  },
+  "02717011": {
+    "type": "Wellness",
+    "nameEN": "ตนและการพัฒนาตน",
+    "nameTH": "ตนและการพัฒนาตน",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "02724012": {
+    "type": "Wellness",
+    "nameEN": "การพัฒนาบุคลิกภาพ",
+    "nameTH": "การพัฒนาบุคลิกภาพ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "02727104": {
+    "type": "Wellness",
+    "nameEN": "สิ่งมีชีวิตกับภัยพิบัติทางธรรมชาติ",
+    "nameTH": "สิ่งมีชีวิตกับภัยพิบัติทางธรรมชาติ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "02728101": {
+    "type": "Wellness",
+    "nameEN": "เคมีในชีวิตสมัยใหม่",
+    "nameTH": "เคมีในชีวิตสมัยใหม่",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+    "Message": "manual read by code"
+  },
+  "02999038": {
+    "type": "Wellness",
+    "nameEN": "ความสุขในศตวรรษที่ 21",
+    "nameTH": "ความสุขในศตวรรษที่ 21",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "โครงการบูรณาการ วิทยาเขตกำแพงแสน",
+    "Message": "manual read by code"
+  },
+  "02999044": {
+    "type": "Wellness",
+    "nameEN": "เศรษฐกิจพอเพียงเพื่อการดำรงชีวิต",
+    "nameTH": "เศรษฐกิจพอเพียงเพื่อการดำรงชีวิต",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "โครงการบูรณาการ วิทยาเขตกำแพงแสน",
+    "Message": "manual read by code"
+  },
+  "02999045": {
+    "type": "Wellness",
+    "nameEN": "การเพิ่มคุณค่าชีวิตด้วยวิถีชุมชน",
+    "nameTH": "การเพิ่มคุณค่าชีวิตด้วยวิถีชุมชน",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "โครงการบูรณาการ วิทยาเขตกำแพงแสน",
+    "Message": "manual read by code"
+  },
+  "03521101": {
+    "type": "Wellness",
+    "nameEN": "ทะเลกับชีวิต",
+    "nameTH": "ทะเลกับชีวิต",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะพาณิชยนาวีนานาชาติ",
+    "Message": "manual read by code"
+  },
+  "03654112": {
+    "type": "Wellness",
+    "nameEN": "สมุนไพรไทยให้คุณ",
+    "nameTH": "สมุนไพรไทยให้คุณ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวิทยาศาสตร์ศรีราชา",
+    "Message": "manual read by code"
+  },
+  "03654113": {
+    "type": "Wellness",
+    "nameEN": "กิจกรรมทางกายเพื่อชีวิตสมัยใหม่",
+    "nameTH": "กิจกรรมทางกายเพื่อชีวิตสมัยใหม่",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวิทยาศาสตร์ศรีราชา",
+    "Message": "manual read by code"
+  },
+  "03654114": {
+    "type": "Wellness",
+    "nameEN": "โมบายแอปพลิเคชันสำหรับชีวิตยุคใหม่",
+    "nameTH": "โมบายแอปพลิเคชันสำหรับชีวิตยุคใหม่",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะวิทยาศาสตร์ศรีราชา",
+    "Message": "manual read by code"
+  },
+  "04101201": {
+    "type": "Wellness",
+    "nameEN": "วิถีชีวิตเศรษฐกิจพอเพียง",
+    "nameTH": "วิถีชีวิตเศรษฐกิจพอเพียง",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะทรัพยากรธรรมชาติและอุตสาหกรรมเกษตร",
+    "Message": "manual read by code"
+  },
+  "04152201": {
+    "type": "Wellness",
+    "nameEN": "วิถีโภชนาการใหม่เพื่อชีวิต",
+    "nameTH": "วิถีโภชนาการใหม่เพื่อชีวิต",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะทรัพยากรธรรมชาติและอุตสาหกรรมเกษตร",
+    "Message": "manual read by code"
+  },
+  "04355181": {
+    "type": "Wellness",
+    "nameEN": "กิจกรรมยามว่างเพื่อสุขภาพ",
+    "nameTH": "กิจกรรมยามว่างเพื่อสุขภาพ",
+    "unit": "3",
+    "hour": "3-0-6",
+    "faculty": "คณะศิลปศาสตร์และวิทยาการจัดการ",
+    "Message": "manual read by code"
+  },
+  "04355185": {
+    "type": "Wellness",
+    "nameEN": "จานร่อนเพื่อสุขภาพ",
+    "nameTH": "จานร่อนเพื่อสุขภาพ",
+    "unit": "1",
+    "hour": "0-2-1",
+    "faculty": "คณะศิลปศาสตร์และวิทยาการจัดการ",
+    "Message": "manual read by code"
+  },
+  "04837111": {
+    "type": "Wellness",
+    "nameEN": "กีฬาเพื่อสุขภาพที่ดี",
+    "nameTH": "กีฬาเพื่อสุขภาพที่ดี",
+    "unit": "2",
+    "hour": "1-2-3",
+    "faculty": "คณะศิลปศาสตร์และวิทยาการจัดการ",
+    "Message": "manual read by code"
+  }
+}
