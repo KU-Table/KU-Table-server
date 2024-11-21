@@ -385,6 +385,14 @@
        "hour":"3-0-6",
        "faculty":"Faculty of Humanities"
     },
+    "01388101":{
+       "type":"Aesthetics",
+       "nameEN":"จริยธรรมเพื่อสุนทรียภาพแห่งชีวิต",
+       "nameTH":"จริยธรรมเพื่อสุนทรียภาพแห่งชีวิต",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Humanities"
+    },
     "01387103":{
        "type":"Wellness",
        "nameEN":"Philosophy of Sufficiency Economics and Buddhism",
@@ -489,6 +497,14 @@
        "hour":"3-0-6",
        "faculty":"Integration Section of General Education Kamphaeng Saen Campus"
     },
+    "02999037":{
+       "type":"Aesthetics",
+       "nameEN":"ศิลปะแห่งสุนทรียศาสตร์เพื่อความสุข",
+       "nameTH":"ศิลปะแห่งสุนทรียศาสตร์เพื่อความสุข",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Integration Section of General Education Kamphaeng Saen Campus"
+    },
     "02999045":{
        "type":"Wellness",
        "nameEN":"Enhancement of Living Value Through Rural Community Path",
@@ -546,10 +562,18 @@
       "hour":"3-0-6",
       "faculty":"Faculty of Business"
    },
-    "01177141":{
+   "01177141":{
       "type":"Entrepreneurship",
       "nameEN":"Knowledge Acquisition",
       "nameTH":"การแสวงหาความรู้",
+      "unit":"3",
+      "hour":"3-0-6",
+      "faculty":"Faculty of Education"
+   },
+   "01177142":{
+      "type":"Aesthetics",
+      "nameEN":"สุนทรียะในการเรียนรู้ตลอดชีวิต",
+      "nameTH":"สุนทรียะในการเรียนรู้ตลอดชีวิต",
       "unit":"3",
       "hour":"3-0-6",
       "faculty":"Faculty of Education"
@@ -649,6 +673,14 @@
        "unit":"3",
        "hour":"3-0-6",
        "faculty":"Faculty of Humanities"
+    },
+    "01390104":{
+       "type":"Entrepreneurship",
+       "nameEN":"Personality Development for Modern Entrepreneur",
+       "nameTH":"การพัฒนาบุคลิกภาพเพื่อการเป็นผู้ประกอบการสมัยใหม่",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"NA"
     },
     "01450101":{
        "type":"Thai_Citizen_and_Global_Citizen",
@@ -1429,6 +1461,14 @@
        "hour":"3-0-6",
        "faculty":"Faculty of Architecture"
     },
+    "01244101":{
+       "type":"Aesthetics",
+       "nameEN":"การออกแบบเพื่อความเป็นอยู่ที่ดี",
+       "nameTH":"การออกแบบเพื่อความเป็นอยู่ที่ดี",
+       "unit":"3",
+       "hour":"3-0-6",
+       "faculty":"Faculty of Architecture"
+    },
     "01255101":{
        "type":"Aesthetics",
        "nameEN":"Man and Sea",
@@ -1439,7 +1479,7 @@
     },
     "01308101": {
       "type":"Aesthetics",
-      "nameEN":"Sustainable natural tourism?",
+      "nameEN":"Sustainable natural tourism",
       "nameTH":"การท่องเที่ยวทางธรรมชาติอย่างยั่งยืน",
       "unit":"3",
       "hour":"3-0-6",
@@ -1454,6 +1494,15 @@
       "hour":"3-0-6",
       "faculty":"Faculty of Humanities",
       "Message":"Manual Add https://reg.src.ku.ac.th/filet/GenEd64.pdf"
+    },
+    "01350104": {
+      "type":"Thai_Citizen_and_Global_Citizen",
+      "nameEN":"Art of Reading People",
+      "nameTH":"ศิลปะการอ่านคน",
+      "unit":"3",
+      "hour":"3-0-6",
+      "faculty":"NA",
+      "Message":"Manual Add https://registrar.ku.ac.th/tthai-citizen-and-global-citizen-01350104"
     },
     "01387102": {
       "type":"Aesthetics",
@@ -1568,7 +1617,15 @@
       "hour":"0-3-2",
       "faculty":"Faculty of Engineering Sri Racha Campus"
    },
-    "03751111":{
+   "03654111":{
+      "type":"Aesthetics",
+      "nameEN":"สุนทรียศาสตร์ทางการกีฬา",
+      "nameTH":"สุนทรียศาสตร์ทางการกีฬา",
+      "unit":"3",
+      "hour":"3-0-6",
+      "faculty":"Faculty of Engineering Sri Racha Campus"
+   },
+   "03751111":{
        "type":"Thai_Citizen_and_Global_Citizen",
        "nameEN":"Man and Environment",
        "nameTH":"มนุษย์กับสิ่งแวดล้อม",
